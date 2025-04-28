@@ -1,0 +1,4976 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8177103,
+        "lng": -73.2371435
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8163363197085,
+          "lng": -73.23585041970848
+        },
+        "southwest": {
+          "lat": -39.8190342802915,
+          "lng": -73.2385483802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "The Medical Center Towers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115904379767343883981\">Ferly Ojeda</a>"
+        ],
+        "photo_reference": "AeeoHcJBp1bPq6FOvHhQsA0MPZipJKy1S2hRxR-kCj5Jz8JAF6377qYiQkBvN-cXR4UK_ZxDH3BlJw0h6DXHq9_1pfWbbVg0yGhikAlD238NNzQJZt5qKYPYwL-j4XfzmaQicGm6Ey-Uuct15EVSPgZNlQRM-MJYhLmYRBsg0kkf4fQBC5Aus8vUlqjRKXBwvj6kCTKI-d8P2il8WONbFop4i39HojjqyIBDXodVEKfwoj9qR1FwA85Uz1CaeJ5IPxrw_DAPu9G2h1-LS6haOWVWdAMGLu0SBmGZi09IYTLuym26ElJV5xkXo0vPFP62-0bASUjmeU-lL2EeC73tzmSLmx36VPq_Wo94NtyoUm09HZEtlkor1Lrr-Gy_qvibyrMYVOR_vLM2TW03tYbUWnXFZE_ERNYjHSGrGm57R9yDAZ48PAe_KdR_vavoHh8zgaIVjHwiiRoQeVkQWIeoI_oYKiqHRIHszk8aZFMzzfIGQorgbjdkuy6rrGZf30dwbANEEZARLXMuKVLewnHCUjSH1-5wIoevwgzqKqlOf0vma0uWucxaKhy7vBkCc0LzapfJwd9NewlYuSbovThz3X8C54bkFy-m60s7FIH5XU4wb92RXKJDg1dZ9iW2US5bwz6D5YNSlQ",
+        "width": 3096
+      }
+    ],
+    "place_id": "ChIJp4XllXvuFZYRh_e6M3JwviU",
+    "plus_code": {
+      "compound_code": "5QJ7+W4 Valdivia, Chile",
+      "global_code": "47G85QJ7+W4"
+    },
+    "reference": "ChIJp4XllXvuFZYRh_e6M3JwviU",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Beauchef 925, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81603419999999,
+        "lng": -73.24739009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81472436970849,
+          "lng": -73.24605326970848
+        },
+        "southwest": {
+          "lat": -39.81742233029149,
+          "lng": -73.24875123029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Isapre Vida Tres",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJk4KYZHbuFZYR7e07LepGwww",
+    "plus_code": {
+      "compound_code": "5QM3+H2 Valdivia, Chile",
+      "global_code": "47G85QM3+H2"
+    },
+    "reference": "ChIJk4KYZHbuFZYR7e07LepGwww",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "veterinary_care",
+      "hospital",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Lautaro 164, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8130365,
+        "lng": -73.2426507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8115789697085,
+          "lng": -73.2412763697085
+        },
+        "southwest": {
+          "lat": -39.8142769302915,
+          "lng": -73.24397433029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Centro Médico y Dental RedSalud Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116831519148326409964\">Centro Médico y Dental RedSalud Valdivia</a>"
+        ],
+        "photo_reference": "AeeoHcKvNH04ezzcqW9s0dyIccSdLDObjcqn0mwN6jS05jNDC3jDhEe7cphwdkAj8XBcjI5eF22yMhk6G_ocRNZ3WK1GNoE0sLvyLOzKsfPJrOt-r30XE6UWh481Mib36dQTNUSKsfGlyMqGVpMolAffN1qqwTU-4WxhDARLZujX_iz2zrGpHtFdBfZMs9EJksWbcryY_IJew_7CbqfO8kdHkocLMeXGfQ81109CzgB6MjQUTTmHaqkNCKApPSTOqH-Yp8Jb_7QqGZLUFkcBrCVhVnzrr0kRLfnJnBniCNPOlKuXEPg7Wft5JD4hHdyTkk1omB97RQsWOuM",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJhXA-6HfuFZYRWCBObaJ7lX8",
+    "plus_code": {
+      "compound_code": "5QP4+QW Valdivia, Chile",
+      "global_code": "47G85QP4+QW"
+    },
+    "reference": "ChIJhXA-6HfuFZYRWCBObaJ7lX8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Avenida Alemania 475, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8145402,
+        "lng": -73.2437734
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81313206970849,
+          "lng": -73.24241021970847
+        },
+        "southwest": {
+          "lat": -39.81583003029149,
+          "lng": -73.2451081802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica de Ortodoncia Dr. Marco Merino Gerlach",
+    "place_id": "ChIJv-ImrHfuFZYRouHefN972zs",
+    "plus_code": {
+      "compound_code": "5QP4+5F Valdivia, Chile",
+      "global_code": "47G85QP4+5F"
+    },
+    "reference": "ChIJv-ImrHfuFZYRouHefN972zs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Avenida Ramón Picarte 427, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8179119,
+        "lng": -73.24095539999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8164994697085,
+          "lng": -73.23959811970849
+        },
+        "southwest": {
+          "lat": -39.8191974302915,
+          "lng": -73.2422960802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Centro Otorrino Renaissance",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109034312226304403308\">Cristian Jaramillo</a>"
+        ],
+        "photo_reference": "AeeoHcIswCEn6-3ieze224L7Et2p54cDL5_PeaNMAfZVXuhLzb4a2Fh8g7GaaLsg1DkqlGzBwgP440fPK8bdH68WitFIDRqn_vDgD62b6eGyQCR1cQktMCK9_GaW7UGs9XAP5O9wMcmrBFFCYNouvzAzO14gSVfavWOZNFDYICSmyk01Ha-Gjsx9WKD39dxXBBVu0h0_J6zGwXKEAnNlIOaI_0BijlWtPyUrxzNUgEjgA3uSxHwrrjtkN5yGZUOg2SHPR5Jpe4fLtMHux9Lda557-4-7K61dVJev6INc5j4jOCQyhF86vHHI4QC1S6YfGUkSythH2181IBLVo4eMQxTSJ2g7ErWmxYEZXMYSIMAQbM7FW9je87pvspeFdM8VQOnsGSpkcKFCITwIBoHLPi6z-pwsff1rkkei0M6sqP09twu34zHnI3fWiabPTlYlfCEfi0gOJMxqkEug4pQh47OAUdN-EGMfOy1LLeYeW4BIiMXplg74s8KKLwOkWtwX4gd-jDzomHyzVjJ3P2Yg3E4Gz7pkVLuFzLOgQ_XCc13hGox8pb1W7GXTsTYlqi_2CXYgH-KVZnq5OmxKkCLGeuIddLvHV4XYB7mxqv0_lrrHiHhUh0jeBR0JonDyB9H7siaKYRPSCw",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJt2KHXnDuFZYR45izHfsErLY",
+    "plus_code": {
+      "compound_code": "5QJ5+RJ Valdivia, Chile",
+      "global_code": "47G85QJ5+RJ"
+    },
+    "reference": "ChIJt2KHXnDuFZYR45izHfsErLY",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Beauchef 683, Oficina 101, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8114085,
+        "lng": -73.2522213
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8100445197085,
+          "lng": -73.2509546697085
+        },
+        "southwest": {
+          "lat": -39.8127424802915,
+          "lng": -73.25365263029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Centro de Salud Universitario UACh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2368,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcL3EZu7HkEP52cirC70wGkDjkCo6NJBkzePrELmxhruZkKzDWF7sQVCz8J8fxMkJGz3iLvxyjZFAoLDvF9TqbqCBraKrIKHl-RS_oy4hy9nFEcaBuTZN7kX5RE7ejctFn1eh2PRqAfIUU5fTPNikK6WcHtOm6KGAUZzZusg9DrVvO-DsKj8U-RwvWM-DevZdWkoJemF1wO5LdbAbnU6wtA6K8C_fZXg8h_QIsVgU1EnJHY2_FwrZinkO2jkKjZCL89ned00571D7pAh4WYsPxULGhu5YZRhbjZw6Jx3aAYliAw0MAD5x8cuLGAWx9ggsE4S27SJM4iEom2zQddOWvRGmwNMv-iikbHo60QNRFvjgES4lKg5EJBAHOTmqkj3TGWkoea-eBtLnMQgR6KP1BQ-eXn5Qo77ikskDug8wbzQfAlFUMvqBidVnDL6tSBPOGLg-AMN3xpFURtmGFQa6xc-gMg0KGyip2A6oH_eRyCITTiSSAuXVP52Wyev7or7X4wNPOEhGTDEVDmBDII-v-NQxy_845s07Is1TyOYGENU07KZn5z7zMG5Vwk3urT4RNJtkRVEbN2gj7pMdByQDPSBKR2ELTsKhWVo8EVp44k5qSB0Se_H8p7Urtwo6hpwHPyOUA",
+        "width": 4208
+      }
+    ],
+    "place_id": "ChIJy5Ejyd_tFZYRg8uUYKpXxRs",
+    "plus_code": {
+      "compound_code": "5PQX+C4 Valdivia, Chile",
+      "global_code": "47G85PQX+C4"
+    },
+    "reference": "ChIJy5Ejyd_tFZYRg8uUYKpXxRs",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Los Laureles 95, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8156131,
+        "lng": -73.2338185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8142122197085,
+          "lng": -73.23240121970849
+        },
+        "southwest": {
+          "lat": -39.81691018029149,
+          "lng": -73.23509918029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Mutual Security",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1488,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107048418215709942697\">Felipe Figueroa</a>"
+        ],
+        "photo_reference": "AeeoHcLRD8cApGHIBEJO45dhHvzsph2RqEoj6us9kxlmYjl1CM_JxRse2lBWf612It7NThrr6aQlRCUCBRYvTV50lP3o_pyLZJPU7tnPCR5awY2g6O3nkNoeYp_u-Xk8b8VPzO_4uIPJe9aSb45mRgeTpZ2ka1zNr2x9Nrw4ZG7y6etycKDTEvl4pDqM-IQJ3nnjaKU0Nlg2oZ9vbTXLPhKXx_SW8tAERdV37G7XQsJfbLszZwl-rujBo9P6rS5R7GOkFHEm6UaKY5PAk53rtlyfLrnCzF0E4Os8AUB4HOnSnTJjDW4qqfZIi7NB7k6bS9hPFMubWqrl7f5glYq0c_FPxDclaBsAO6DbjL_0vSHVsCpPFvUbUIA30nY4e5JNy6F60u-zLzXwH9Zr5hukHjDBfkeyk10W2kpZroU2iDJ6gyW7FhVt8ojiUk9XP3skdjN_kftSk52FXOm4KXEwkdhixLIDmM1cOZfMXeie__WUR0o-0Ck21iM1vypFKj4FQZrDuUGN-ARPzNN8Kxt--h3E4x8fUXeYozrn64p9hL32aTML7wcUigFyCqdOunX4BzlUzAC8p2IWc5l4fON6jpY-lxMN49C8Ev7zo_8JX3QelT6ySed8c3EqiphVM04gdNHhADHM0A",
+        "width": 3280
+      }
+    ],
+    "place_id": "ChIJ_Zjxo37uFZYR25FRomALYpY",
+    "plus_code": {
+      "compound_code": "5QM8+QF Valdivia, Chile",
+      "global_code": "47G85QM8+QF"
+    },
+    "reference": "ChIJ_Zjxo37uFZYR25FRomALYpY",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Avenida Arturo Prat 1005, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8304809,
+        "lng": -73.241451
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8292394697085,
+          "lng": -73.24001581970849
+        },
+        "southwest": {
+          "lat": -39.8319374302915,
+          "lng": -73.2427137802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Centro Medico Surmedica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114328915180091611411\">Jose Lienlaf</a>"
+        ],
+        "photo_reference": "AeeoHcKAf4YXdGcln5c7SMRlk6egVvywfdS5MjHYp3WTA6bTmHZmWXqde3ROXgh9M7AHuB4w3ElKiz11IxMJwjQHPl-Labg8IB4RS2YAAMsOQlvLd74w1Q57GZV7BtukUdGsDhoD_ljFAy44QjLuPEtYRIkWrPGQj73D19mzYi88VGaCb7ZWF62OqNqeIzew4xefZZStmGeJDuPiKc098c1t9Ye83I6QD5H46JtU1LEatpRjAEBD4FdQvAURhGVwfNMQ8uiYiAftNkht15P7DUJpeRkyAE8pxLW-pB1RwM2R3u1BV9arcmEWHiO8RSRS-oWAq3wRPgshTueTYtdECrd4uTFSQV1_vtyoICsZxZ0z9VegkId_zPCQ3D7RRXDga0E_tjwvtGx1nVr2yfooz7vS8NmaY28mouF6Q-nGt-0HDCvDZbeaKaITjBmeFv6JdJllx_Wmpo_HKvRNfe1vZ1zTx45xz5bf33pzxMMKvrO-6p6LdismFEhJB50abzF8Gq-0EjwckeRcZDypPosWhu7Nfd1Jj542AEgrX9_mnlh0j9dleOjx39uDnmkLF3_fVGa_68ULH3xnz6YlAKAGM8OuhRSf-I94RJ0xMkQzmE2zKxK7KrkYaYPLSzeF80sXzTRHyJH1Zw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJlzrIL13uFZYRgNb9SOE-Kzo",
+    "plus_code": {
+      "compound_code": "5Q95+RC Valdivia, Chile",
+      "global_code": "47G85Q95+RC"
+    },
+    "reference": "ChIJlzrIL13uFZYRgNb9SOE-Kzo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "5111847, Avenida Francia 1655 – Valdivia (Frente al Hospital Regional, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8313939,
+        "lng": -73.2400389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8300507197085,
+          "lng": -73.23891486970848
+        },
+        "southwest": {
+          "lat": -39.8327486802915,
+          "lng": -73.2416128302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Base Hospital de Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJFYP0wmfuFZYRT9cZ33K2xs8",
+    "plus_code": {
+      "compound_code": "5Q95+CX Valdivia, Chile",
+      "global_code": "47G85Q95+CX"
+    },
+    "reference": "ChIJFYP0wmfuFZYRT9cZ33K2xs8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Coronel Santiago Bueras 1003, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8183626,
+        "lng": -73.2397338
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8167769697085,
+          "lng": -73.2382670197085
+        },
+        "southwest": {
+          "lat": -39.8194749302915,
+          "lng": -73.24096498029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Alemana de Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103253128967067256166\">Carlos J Pérez</a>"
+        ],
+        "photo_reference": "AeeoHcKzHxxMARNqpKbjjmDNu_vxJEcr4xL9Qsxc5ZQqZhTsDwrjiILDygSOuyFT15s57ilOfzFVHN9pF6xUhCqbFFRvGMa4NoV2vcqk9oklCJbloLMr4rbCCJ79N1helFkVy6zJmKfedYHj-bau981zPXJ8NoKqqN9z0_-BeVcpjIsrr-kdaTglBc2Vp0VqVD4PpQ-feAbL-tI9tIF3-C2CZsZd8gNoccgNYxmqMe-EpW62d6pEXiL3KE3JV_W1xQf7oPpIUsbtp4tlaPGE4cHA9Zxk1bLGmWCQhRGDfJhOznkjrbriGjSXH-1DTerS7JfiFk7AX1blqupmT0AZJhGAlQ26mpNNtv_1_eJDUyR8bQ6xaYs6J6Wpt1oPI5Nf7dlwAGP64Cbuh3Ws04X-ntlMJOZuah5BENPIAlF1WPS0oi1SU_Sj9PF5kk6G2UNJtEZw8X9XiJyZ-JZikM73j70bUa3v3JHJFtYphjGdPojRqDq-DsVzO21lHcq1E8ifJsKC0s-erU18fUd1QEvcWTaaRO5rKb1iyt6PwICTUHNbuqMKLlZQwep_vVh_j4yKwA9JPaRDYYaHC8Ep0iPNKgNTMmi1USiM62EJHyekP1Vs0WPUlmy3IDztLdAPfYCx8xUa",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJz-Loa3ruFZYRGUFbv1OvDew",
+    "plus_code": {
+      "compound_code": "5QJ6+M4 Valdivia, Chile",
+      "global_code": "47G85QJ6+M4"
+    },
+    "reference": "ChIJz-Loa3ruFZYRGUFbv1OvDew",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Beauchef 765, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8163405,
+        "lng": -73.2391875
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8150038697085,
+          "lng": -73.23780616970849
+        },
+        "southwest": {
+          "lat": -39.8177018302915,
+          "lng": -73.24050413029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Capredena",
+    "place_id": "ChIJST4MiHnuFZYRHoe9fF5F4Oo",
+    "plus_code": {
+      "compound_code": "5QM6+F8 Valdivia, Chile",
+      "global_code": "47G85QM6+F8"
+    },
+    "reference": "ChIJST4MiHnuFZYRHoe9fF5F4Oo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Pedro de Valdivia 595, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8136349,
+        "lng": -73.24692449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8122935197085,
+          "lng": -73.24552961970849
+        },
+        "southwest": {
+          "lat": -39.81499148029149,
+          "lng": -73.2482275802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "IST Valdivia",
+    "place_id": "ChIJRexvXADvFZYRz6Xqnwussl0",
+    "plus_code": {
+      "compound_code": "5QP3+G6 Valdivia, Chile",
+      "global_code": "47G85QP3+G6"
+    },
+    "reference": "ChIJRexvXADvFZYRz6Xqnwussl0",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Independencia 491, Local 2, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8135628,
+        "lng": -73.24689839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8122209697085,
+          "lng": -73.24550631970848
+        },
+        "southwest": {
+          "lat": -39.8149189302915,
+          "lng": -73.24820428029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Instituto de Seguridad del Trabajo IST",
+    "place_id": "ChIJm3ncCADvFZYRS-3j2I5B_A0",
+    "plus_code": {
+      "compound_code": "5QP3+H6 Valdivia, Chile",
+      "global_code": "47G85QP3+H6"
+    },
+    "reference": "ChIJm3ncCADvFZYRS-3j2I5B_A0",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Independencia 491, oficina 2, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81366099999999,
+        "lng": -73.2470608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8123470197085,
+          "lng": -73.24561976970848
+        },
+        "southwest": {
+          "lat": -39.8150449802915,
+          "lng": -73.24831773029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "INNOVAL Centro Clínico Integral",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113764085483057790422\">INNOVAL Centro Clínico Integral</a>"
+        ],
+        "photo_reference": "AeeoHcLOyFvnj9HFyiWBNUbbdWG078cy4AQ4GSPylbwwiC9wHVjqlWeHoKBNDLchMBWP3nIwrR9SKT1ws3w_Z96-z-0peQvwDxW2UW1rHXk5uGqP4u_ZrLld6mHQ70pMNARemKW4W5eRPqhMdnyKg8sf8e7EHnF70RVF2URy_lSjhERTneTwoX1MGsBu5XcEJVAMdZAjUlaub6zcCHGavwQJw-kf3MLrkFQu9h3rs19KwptDn0-Ud8LKWJIcEJxzvR2EvMjJC26dM2GzcRNGwQwWAejimYN3gSKtDSGGJBEvFmPjgItcp5w0wWmMWS9NIm43qgl-6QssJkI",
+        "width": 1450
+      }
+    ],
+    "place_id": "ChIJ5d-wwEjvFZYR9lluyiq9MUA",
+    "plus_code": {
+      "compound_code": "5QP3+G5 Valdivia, Chile",
+      "global_code": "47G85QP3+G5"
+    },
+    "reference": "ChIJ5d-wwEjvFZYR9lluyiq9MUA",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Libertad 491, Of. 503, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8130588,
+        "lng": -73.2461601
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81171541970851,
+          "lng": -73.2447416697085
+        },
+        "southwest": {
+          "lat": -39.81441338029151,
+          "lng": -73.24743963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Cirujano Dentista Matias Guerra",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100477527623461879388\">Cirujano Dentista Matias Guerra</a>"
+        ],
+        "photo_reference": "AeeoHcLZXNFcKQiNv88zfzP3y4Pzr7s0DBOBJR05WC2R4BrbODnGtFA1ur22yc5xW5OYPrs6NJVInpfcs7r7naxw8SJp_ILT83U8lHpUmZ6C5WvR8kxVmPBa6pji9sWd3uCmbetCP4Y_Hjj76JX4eO5TFMaaZZFcMAxx-fT88JfBkbGOFfGRfKRZYwVLmq34bH8ihninXyXsJH_4k8LD5ORENVYiQM_4O74pTNOA98THCXfAT_R3BBPExFR_TDamglnsxuZB5qLEMIWkOjAOrYtY3QH6O3wfElqo_Nz48r9nByEgRtiU_R3u-h_gbCpPqyYWMU2hLAaChwY",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ2SIAhTDvFZYRK9VZzHJoe2s",
+    "plus_code": {
+      "compound_code": "5QP3+QG Valdivia, Chile",
+      "global_code": "47G85QP3+QG"
+    },
+    "reference": "ChIJ2SIAhTDvFZYRK9VZzHJoe2s",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "San Carlos 171, of. 318, O'Higgins 457, oficina #8, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81451930000001,
+        "lng": -73.24379619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131197197085,
+          "lng": -73.24243506970849
+        },
+        "southwest": {
+          "lat": -39.8158176802915,
+          "lng": -73.2451330302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Dr. Castillo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114602681269857783380\">Clínica Dr. Castillo</a>"
+        ],
+        "photo_reference": "AeeoHcJf2eepIGgvBXMwjnreoqzvaq3BlgOtEGhDRvnNJEakUiP9lMworPbQUqBhl_PAMm2w7vJSJsWdveu8l6ZWtA9q1iiEBsUsM9Uzp9jFe4JofYt8tJ26H31XNUpN7BHqpzjQzKzk7ZCz-xZMG64z6r0pxKZYRlCb-bGLrLttIAu2KGQlD1WrN804v0H6BOS6bRGNudYx0c1l8tGa9zXZC9iv91ELicnNeVrW_xOobAoV8iKhUniBYBoKkjK9w4U14y78DZDpPmAsCyuOci7dFN6Oqn0-IzMlxPDKNrEq_WBzZ55Q91vd4JOpt5yb9ZgPpruoirNAdok",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ3z6WcpnvFZYRIK9tAcq7Z1E",
+    "plus_code": {
+      "compound_code": "5QP4+5F Valdivia, Chile",
+      "global_code": "47G85QP4+5F"
+    },
+    "reference": "ChIJ3z6WcpnvFZYRIK9tAcq7Z1E",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "point_of_interest",
+      "doctor",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "EDIFICIO PICARTE, Av. Ramón Picarte 427, cuarto piso, Consulta 404, Avenida Ramón Picarte, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81634469999999,
+        "lng": -73.2472688
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8148984697085,
+          "lng": -73.24588961970849
+        },
+        "southwest": {
+          "lat": -39.81759643029149,
+          "lng": -73.2485875802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Dr Claudio Villegas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100817387387588331121\">Dr Claudio Villegas</a>"
+        ],
+        "photo_reference": "AeeoHcKs6FYoH4JlGyDObHA6Z1JOQNSCpCPjx0h27O9cDdlefSldwzm-WRr0XXYnnYucUhxQuAu1qEbzKCW1DkSAicHbI7TFXCoHOXOunfveRQ1vskrAroBCNPG8A2Wx95tEeQIRJpy4oEwPST7mBCVqPQTCcERHn8tejDpyETw8wYZXNQNfEZ0-zjp1tAM_152OnIApTHqP0FhOajSkyuwhNfHRSqm8cPROBpsSJldHirJVVdgD1w_78lbPueSdiZpnQjJyWUwRHHtlKK5AbLhzZXCmZ0R3-WOoG5BVZIdWNiBu6c1vFf9-Q_HGsErggJ1UztHtGzD9-LU",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJyYPSlUPvFZYRQL6ad7T1y5g",
+    "plus_code": {
+      "compound_code": "5QM3+F3 Valdivia, Chile",
+      "global_code": "47G85QM3+F3"
+    },
+    "reference": "ChIJyYPSlUPvFZYRQL6ad7T1y5g",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Lautaro 175, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81665,
+        "lng": -73.24614
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8153412197085,
+          "lng": -73.24482986970848
+        },
+        "southwest": {
+          "lat": -39.81803918029149,
+          "lng": -73.2475278302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Clínica Armónica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100385910405644114058\">Clínica Armónica</a>"
+        ],
+        "photo_reference": "AeeoHcL4UNkdiTvFxsNMwxASOqfV0dYvT56eAPWQFuBmEof5utfppgGpKplpDVUV3PPmV37xcrusJt8UB3rOFJbsPGrf3vLxni8SrOqjnQzIXe_9maA5D3figEknT5TicMVkP7uGAWxVLARS7KGRvvr5e7ZGptnsSVJjnwgGTH_r9u5D_hwfQUJU23ra5raUZ1THqE92mOOi5Y_mBqNK6KrQ-LPc84_MCDsZTukQ18x3VKGGnKOnZzWbMIJX5bwSiPbUTMxjTEo686Nre9QrhToiiWjsmocoXIjc74iRUja9rC-SfFtWRH3I37QFdRpAxGblIZ7o4mbzqH8",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJBUp5JADvFZYRoAN8pI9k798",
+    "plus_code": {
+      "compound_code": "5QM3+8G Valdivia, Chile",
+      "global_code": "47G85QM3+8G"
+    },
+    "reference": "ChIJBUp5JADvFZYRoAN8pI9k798",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Pasaje José Miguel Varela 260, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8114096,
+        "lng": -73.2446136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81004971970849,
+          "lng": -73.24333346970849
+        },
+        "southwest": {
+          "lat": -39.81274768029149,
+          "lng": -73.2460314302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Isaac Quero Ortodoncia y Rehabilitación Oral",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 740,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102692784054675544879\">Isaac Quero Ortodoncia y Rehabilitación Oral</a>"
+        ],
+        "photo_reference": "AeeoHcJK1xp8qTjnPLjXk6DiRLLWJITOU0ByLg-PLbHu1WpVgFvoqsoyo_VnXdX9u6INAAwL50xMnnzX4OQyMQURdZJcHcwjnWhabyYYQdLJzQbbh2Xti5HC9vmRhgdd4dKVBU0vxKkmJYcdfs48HpyC4fZ9nLI3gbUOvqJgookzJWW4S285rna7QOqysJEZkLe2ld0TXnLO2RRl_mOc8Jk1eGzRx15VTkZGFzIDP1_W5AASdJKuGXSP-9XzpOFPjs4H8wF7PrgjKHwKSSzFkp9TZ4fzsdwUqVvo7WMxwOSyR1NpSXV53N-xZSbLQa1ODPoyPDa1DwGmZ1c",
+        "width": 1012
+      }
+    ],
+    "place_id": "ChIJ_Sj-bGjuFZYRblhiIh0swjQ",
+    "plus_code": {
+      "compound_code": "5QQ4+C5 Valdivia, Chile",
+      "global_code": "47G85QQ4+C5"
+    },
+    "reference": "ChIJ_Sj-bGjuFZYRblhiIh0swjQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Camilo Henríquez 240, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8172837,
+        "lng": -73.24881520000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8159481697085,
+          "lng": -73.2473953697085
+        },
+        "southwest": {
+          "lat": -39.8186461302915,
+          "lng": -73.2500933302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Clinica Odontolgica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113513661553609513410\">RULO</a>"
+        ],
+        "photo_reference": "AeeoHcKWii-K239qe5r0XG1CDHX4f9qpLKzEYBFj4mZrAyVGJJQfDuE9jrVrILqUilHZtucyL7aabpkfCmUXGwjgEvFressIJQ8HRWbJlfK1VgwwQl0sFwx9MnMdgvMEQXWozj_b_DnXc-cpNKR8L2EbcU8BPhvl0X-GsiUX5LNs6zS1An9aMaUU4Elwbr9USaOUip7ceVj5uR5VHC5DcSnBwSaxTV93YUs5FbtbY7VG92bZ7fwsfx6kEO27JKG6PMjbceCxmQ_q3ngVlM-P_i6zpBmUJ6QpiWTCkBbIVqzsSwoyKinlmjOWG_iGq24cD5-Z1ZqYwT_-LaFyaEkAtXgPikSl0DGtc5MTpU9yJmEaBvEEn9us-05u0fCpykMJH8eIbKZrRoauuCjZEW5HFLpoo0qPif9ZYqTGckjcDevgvrHjtJm8b9RSCPGB5XqQPzoi8g3hiR_YteRStLaQsC30GL8JZ_YmAaUjjvcJuf4Ais7ZmP5uVz7Z4yKZ-J8xaZx5_BgCA-0va9j5nVa2b3UTmjifYKCNI0IbyyzaGBJmrSECdv6iYrlu-a9BWKNF0lkTRCL1MGPL8sFH8eERzka_Q1S47Q7M1euXbw79r691BsOcKZ4qelK-2NfX_mPUS1bfv3JEwA",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJ0xs3bHTuFZYRoXodhH3J4sw",
+    "plus_code": {
+      "compound_code": "5QM2+3F Valdivia, Chile",
+      "global_code": "47G85QM2+3F"
+    },
+    "reference": "ChIJ0xs3bHTuFZYRoXodhH3J4sw",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "vicinity": "Yungay 783, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154432,
+        "lng": -73.2450862
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140580697085,
+          "lng": -73.2437283197085
+        },
+        "southwest": {
+          "lat": -39.8167560302915,
+          "lng": -73.24642628029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias del Dr. Simi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115805531766961237224\">Farmacias del Dr. Simi</a>"
+        ],
+        "photo_reference": "AeeoHcKYYrVTyFN6-uYTTeP-C7d5Tn8JSorZMfPqWC0FpUL6d7zZUteWX4pNtswsFZh-IAnphgkRjV5gLmgW2kqJcgivEkXm4suCn-q_mSoy5JaGj38PR4Mno9uuaWXSsVTo7mkcmFxR5zIgJlxg4bESVCrMzN9MwZbkb0zLEiFt1GQnDU-Rp5w9Nl-hgXcmPZ23GlHwV2wKkD4vS2Iqgo62z-WYYugbrwUgpZTzKwyi0x2H3BJCPSMZdDlLu-7HJUO9uAYhlXNxuUrK0REWZtuzE95eT5TyGnTW3I5gDUW24u8q_PbrVgOGIsAz5UqeH3FH5WTFJHHbxws",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJGyyN9HbuFZYRS8Pm8V91qi0",
+    "plus_code": {
+      "compound_code": "5QM3+RX Valdivia, Chile",
+      "global_code": "47G85QM3+RX"
+    },
+    "rating": 4.6,
+    "reference": "ChIJGyyN9HbuFZYRS8Pm8V91qi0",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Arauco 371, 373, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8146592,
+        "lng": -73.2427235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81326531970851,
+          "lng": -73.24136371970849
+        },
+        "southwest": {
+          "lat": -39.81596328029151,
+          "lng": -73.2440616802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Knop pharmacies - Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5220,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcKihjU13VRk7916cO3CDxaxxjNX6dhtg6tKaR0T6u6zVSQWU6zg8wnGieWSNDjTLlpIRdCMh9rVCCU0ssxkFgAGig1WlLlKRr4l9yX3abl1dAgy21V_JDw9yKrA0ddKahWEWgPt-TWJHLS9xQw5-efOBdkq0cxff8R48C9PAiaAfZI7beDHqAvslNFITbzsQ9vztj1Oz8W0tu02axDMPaVZbNGdnzK9mpfMmi_6hLmiDcvttnSgt_Kz5_hNFEmVy9q0IhwEjhKYIa1hTc5KFlDKJAtq_5r1eMP9AtpR9HVcp-jrV6cImxMb_hpaKTIlvPvHUnU_Jw2MwUDosejIawjsEJrqvOrkgvkCeBbUEvFIyStfbG8HEuqFjlUfuL2Wu0fUWqB4JF3pFABez6-Amt8bzTzbEwNVldYBXsK0WnecVldehsdje5MKdh0NoAtxp1GXTEMpmMtcSMON0z1iSr9nxdEPxHLzoKpLtXLiOIYIAe7HK0q4Ka6WgNWrqgNmE4TxNVLXfVtA1a7hBGo5ftuAcBLgUu8Vs4vNi_OlM95zE4DpcEBGZIvKRKWry2kOTc37q_dCWQV-vFDJRN7QzJ5CYu_8sHyPbFi1oYUMjRXvyDtRMhjBAbncrwx_ymE1Crvx5_QV",
+        "width": 9280
+      }
+    ],
+    "place_id": "ChIJs29VoHfuFZYRnDcqjam_3vw",
+    "plus_code": {
+      "compound_code": "5QP4+4W Valdivia, Chile",
+      "global_code": "47G85QP4+4W"
+    },
+    "rating": 4.4,
+    "reference": "ChIJs29VoHfuFZYRnDcqjam_3vw",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Avenida Ramón Picarte 489, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8277477,
+        "lng": -73.2366322
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8265016197085,
+          "lng": -73.2352513197085
+        },
+        "southwest": {
+          "lat": -39.8291995802915,
+          "lng": -73.2379492802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Ahumada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116971794071004822653\">Farmacias Ahumada - SAFE</a>"
+        ],
+        "photo_reference": "AeeoHcJlaPZhqmMEVzKOy-CyqqHaOt25e8bNGzhxD2tK68qDOymU-kyh9LFXYfrFtVKblgEuFcTeCkjaQbUm_CYa2Fm2Fb77eAEOlTmHQiQpl9nCbf_wF8ltkHqnmeeMm1pFB60P9yMBIKrGzBvGRZ1zDX9GpKAGWGONztIBFw1Yd_jXf-nZ9Ark6-2rTk5gLa7Rf3j9eOdH_2ck_5Q7BbQH9YRjvdOc8CE2EP1YDvpKQySw2Xe6hlzF38_QNZbbO5Wf_f8Wzo33K6Dctnih9XCPSXXDISuT2JZC4s-LP1WQqIaQqYvEGOFfM3oj_IF4S0-Rp6ftW8XRKdA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJrTbg5WbuFZYRCJ3pdMITVaM",
+    "plus_code": {
+      "compound_code": "5QC7+W8 Valdivia, Chile",
+      "global_code": "47G85QC7+W8"
+    },
+    "rating": 2.9,
+    "reference": "ChIJrTbg5WbuFZYRCJ3pdMITVaM",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "Local interior, Supermercado Líder, Coronel Santiago Bueras, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8162435,
+        "lng": -73.2424288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8148978197085,
+          "lng": -73.2410524197085
+        },
+        "southwest": {
+          "lat": -39.8175957802915,
+          "lng": -73.24375038029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Ahumada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101175675036998006760\">Rajeev Mylapalli</a>"
+        ],
+        "photo_reference": "AeeoHcLgJ9gkNtH6txP9RLSyjopoxNsZ15OWVZCMVEUE8TKXlEQJquwJnmJW8HUdQqhUZnH3oJROQGkhP-K5jPHAGyRBMWpoLEkXvJVxJya5BfvQJ_wTyNY2mmh2j8rM8pMOtmlwvc7qDYB6xX3aM9pIBhyFU0-6aWW15qBz4AnoI1tpKADsMa3lcnOHI7LjJ4OFt3_NuvvpW8f17N8ZhxKN6fD-7y1gS8nE-4yJaEoZ-p_jOQ17G2YP-bnB8RaRd49BxbPkbe60yss3C6GTeCqu68SnhPTNbkOyub7L4VIQA4F_Wx_frFnTO3yQTjGTMWx5gdGDe3sPgIsiWnLXM0Vyj71GTtJ8yRhCm0Aa9zEk5aJUBoHRhggibyxbM6lIq-xdSP0g5vrc0SaIwuPUDIdxd-L-7LMTfLWSxq2vKR6SefyQGsRU7a26qPJTDQcqQEZ3BV0ZM3ovxrBzDYcbc5YVM1lXMY3A3Rwv0i-v57MYvzSLoS7S8uMPMo8HuRvTpicJlxS89mdfY5HGaZ-ikPdAJ2Nbs0fuwC1-bMUL1vVtnOzWe-t-iKAIwcZJ-Sai1jRWnezm3xJ4jClSWHxkiDvI0bd0e0RAkTwTJrEEGG1RWhjzsIxyBHwb7baWoPzKUxwtFqNm1HFq",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ3T57RHbuFZYRiKbwgjF4H1s",
+    "plus_code": {
+      "compound_code": "5QM5+G2 Valdivia, Chile",
+      "global_code": "47G85QM5+G2"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ3T57RHbuFZYRiKbwgjF4H1s",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "Arauco 561, local 144, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81631529999999,
+        "lng": -73.2413609
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81486261970851,
+          "lng": -73.2400616197085
+        },
+        "southwest": {
+          "lat": -39.8175605802915,
+          "lng": -73.2427595802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Salcobrand",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 282,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118423789442560997328\">Farmacias Salcobrand</a>"
+        ],
+        "photo_reference": "AeeoHcIDhlOiQ03BoO6V9gBzHSwSRuRCwffxo6SsZYTHr7YLwqAroAO4YR-0h16Bc3WPCn0_leH211Eqc1DtHGbrZquhke5nA8v_SxG785Dsjm3Pg9LcKUCvR2x0IIxry0TmyBPrAmEj1U-IKaR0LRyrTFeOgwfMF_MmANRWHJRDHGMIflltfNpd_YrrkRuu2QgJ5YMCTkwKYwhVHV92Yg1rDSkBABzNWVfyQeTWQJlYd8Uj4iyKe6AJHVvfMDDhfUtWkENBnzZGbdHE_nhiFe3QKIoS2hqIbZeUNYxWwPMgx6hYo4bk9KrG4bpjsFJn-6UPWZ4wC7zMNfA",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJDXj_-nnuFZYRmp532btLMNo",
+    "plus_code": {
+      "compound_code": "5QM5+FF Valdivia, Chile",
+      "global_code": "47G85QM5+FF"
+    },
+    "rating": 3,
+    "reference": "ChIJDXj_-nnuFZYRmp532btLMNo",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Arauco N° 697, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8142861,
+        "lng": -73.2454745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81289166970851,
+          "lng": -73.2441150197085
+        },
+        "southwest": {
+          "lat": -39.81558963029151,
+          "lng": -73.24681298029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Salcobrand",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 283,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104711408594379781820\">Farmacias Salcobrand</a>"
+        ],
+        "photo_reference": "AeeoHcKGGkN_J_V-a1syPU_EPfFL6J6uudiDoTGn4s2pXgA1VCshlffA31dCWqk5XEbStytC1v9j9oYrIa9Dy-ziiTgl6ojTeHtqqH5luu3O8c7oSDBl3374fqcKGbc8eTPRHOLkWayusBlp8LYdW94Nz-KKcnUKEA3N6kyE5kjs9yhjNBRqk0FBqx4hjNA7YKdwXzgVzu1Jc9iz-HV-u1mTZKGF6KINpnst8pAS3eSjXVCuEzfg1lCIR-4zKc7kN5hK-sXOwXXhicdCeK3bopX6AOFHjEPc9s7reVHVbM_3HLALGe4o-0Lxe6Q3CrBtHu4A1xTBBImATRs",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJj8Q8QnbuFZYR31JfD3CeTlw",
+    "plus_code": {
+      "compound_code": "5QP3+7R Valdivia, Chile",
+      "global_code": "47G85QP3+7R"
+    },
+    "rating": 4,
+    "reference": "ChIJj8Q8QnbuFZYR31JfD3CeTlw",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Avenida Ramón Picarte 301, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8141072,
+        "lng": -73.2453963
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81274791970849,
+          "lng": -73.24410466970849
+        },
+        "southwest": {
+          "lat": -39.81544588029149,
+          "lng": -73.2468026302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Ahumada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJtTmdQXbuFZYRsn3lRFJZPoQ",
+    "plus_code": {
+      "compound_code": "5QP3+9R Valdivia, Chile",
+      "global_code": "47G85QP3+9R"
+    },
+    "reference": "ChIJtTmdQXbuFZYRsn3lRFJZPoQ",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Av. Ramón Picarte, Camilo Henríquez 310"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8135901,
+        "lng": -73.24582060000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8122884697085,
+          "lng": -73.2444834197085
+        },
+        "southwest": {
+          "lat": -39.8149864302915,
+          "lng": -73.24718138029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacia Prat",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107916521826315245746\">Farmacia Prat</a>"
+        ],
+        "photo_reference": "AeeoHcKdhnOWMD7XAXMIgrnifUYuNzGH5UGeo6bPGxOAq_AqRgSqu7iRCTwpEfGLJEWl4XLSQ9krYAC1hsebEBP_15wBQ4-H8TqtINB8Wf2N9dA7dYNTdgkZdELntwB90QnQaxQAkx8tDtx7TqtRvTAIiXC-UQhOxJGJkHT7_u8rT5qn_FltCJCbQn8dagluhC7ID3pdPhTg-5QQHUsVoEjJs90wWTY-E9h3nub1YnplJJAbq8a6MDvq02h4ZmZntHltSwoHYYEb35XOZVA8t0P9n8xL4sCSivsvUH0Ng-HNxUZKPem6KJ4Y8q4Hby8oTOgKNmFejaTdrP8",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJkeXMFXbuFZYRXEuX1HuvyTg",
+    "plus_code": {
+      "compound_code": "5QP3+HM Valdivia, Chile",
+      "global_code": "47G85QP3+HM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJkeXMFXbuFZYRXEuX1HuvyTg",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Letelier 236, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8144255,
+        "lng": -73.2449477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81299826970849,
+          "lng": -73.24358066970849
+        },
+        "southwest": {
+          "lat": -39.81569623029149,
+          "lng": -73.2462786302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Cruz Verde - Av Ramón Picarte 343",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107200358553142664497\">Jorge Novas</a>"
+        ],
+        "photo_reference": "AeeoHcKXA1M92JG2gf30PzNYLzQ8QnRefvSAzuUHAC30CYybX9pjlElNjDhWcAzw1IhXnKmlSsKbQjYLn-9HilW-VlNHk_Yktx56Wy_cvh5s_5xKjv-9v69_Za6le8eLHOPz3SS2vvWOF90cBBcMser0fr-PE90KsPuE9JTbVEt_p5MHwrP4WL8IdI4TfTxfBjGNkCtwz40PeD50QaOxCiTIvFK-8xBvdnu4P62PYN43FualBs9Jro1Omm9neyOXbCsRDzXNjOlRaxhw3F-EU82yQnkzGb8yaSG0JyyfpQoc_6fPjFTKpl39TjBy0pnwx3OfqdZn9i3PPRfT18fcmb_NxR7QbaS2qeaScWk5LDwIXIbyztM9Ta0l2f0CDP_oy-OIZ07eE0HaXuhduL-ap_QEq4Naj1dVsbH-Gzjyw9rmB_V1-kiOhqWim550cGQtomK1-rRtiE93FqaxP7WvYslxoqsd5JZR0DE2kd-gwXplFIaDAP_NIMYT-nhOoZC9cvumDPj-aVVocxC5zg_nIDW8-F7VLxOVNmSN9HT9mMnYnntMZzn9x7Nl3SiyYvhOnXUPBRNIoHfDeJxPYeqo_Fq7kfdFnJs9J7jJHjAdDajSElz4iq8edMlQbyclucUE9Hh_-vJO4Bid",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJS3rUWnbuFZYRJrXRu_YWp7A",
+    "plus_code": {
+      "compound_code": "5QP4+62 Valdivia, Chile",
+      "global_code": "47G85QP4+62"
+    },
+    "rating": 4,
+    "reference": "ChIJS3rUWnbuFZYRJrXRu_YWp7A",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Avenida Ramón Picarte 343, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8135556,
+        "lng": -73.2452235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8121964197085,
+          "lng": -73.2439379197085
+        },
+        "southwest": {
+          "lat": -39.8148943802915,
+          "lng": -73.2466358802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Salcobrand",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 283,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101559368461664632054\">Farmacias Salcobrand</a>"
+        ],
+        "photo_reference": "AeeoHcJs-tPR6BFipZ4oTBjrCef128as9o_2W3AEBDw4JJEP9Q2eMNeuxkTq16VTJcD9Kktb7tJ5PKbweBe1wF2g3qh7KesVG3osDP2qcEUfaf4H-KjXKE1YOXTlgWJ27Zdkp1VqAYBqKzJgrWH-VBe3oEAvFN9p2EbNHR8JhSflNv4Ms5ifz8pvP4P9_aH2RwKcKUj7USCdXjxoMSZWF4twqwgS3IXKw2vzSrQAQOS4IvA7Wya6Fbwh6xOuzYlMoDyXPzNhoV9C-G2HMFYw2g8eCdcZ-6WycWByg-JjHRBo-PXIhxeq9ktPOU5eznckaoqLiC8SOvE0s1A",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJW-r5QnbuFZYRDDVWZCLBWws",
+    "plus_code": {
+      "compound_code": "5QP3+HW Valdivia, Chile",
+      "global_code": "47G85QP3+HW"
+    },
+    "rating": 4.2,
+    "reference": "ChIJW-r5QnbuFZYRDDVWZCLBWws",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Camilo Henríquez N° 450, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.814476,
+        "lng": -73.24696639999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131165697085,
+          "lng": -73.24567811970849
+        },
+        "southwest": {
+          "lat": -39.8158145302915,
+          "lng": -73.24837608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Cruz Verde pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102226415225273996820\">Edison Ruiz</a>"
+        ],
+        "photo_reference": "AeeoHcJ9ZM9gDOAmSJt86yF8GTxJYmhTAM9aZJOxf-w-AVWEjgPhBaZezk1TQBciGrZ2crcL8Afr_iQGyWxjEMuShYnIUDqLqK-kkzCfD8VhxAJnGvSXvWLHyQ_CAZalf5AS3bKCJrBypqURpbwfBbQgoiN0iONzRhn5Ks2YmJfKNHdvnlJV4iUTxS6zzUFS1l1bzB5DiBTDR63KxDXgP2KQ0AagB0t1ACeqqSpvfRG2My3K4636o96Zh44ahqu5UOkJB3U1E7IjflD44OTJRvo5FuEgmK38io8s3wnnkcMyfcjoKchw07Rhx65TRuyfeSBeA_VSlZ3dezCx7ByiMTbv77QPI8y8qmaiNCSCFqX9bm74kk7lKxvSOQn8omxFBfAqXBs2bT_aNA7gHCymPpyfqCHo3wVNo9n5Jj1SpB311Qmqam9ENO3gPCwy-W0Gy7Y7tI1faFXnGMj503MdCI3KZJlxy1KfOZg3bIxnq7SpYAXoW360x4Whjv6kPh71KxsOkd1FoY09YpzHEy6PxC6lq3o2_hzxtRHg0NFKVb9iFpiLBm_POJCQTr0Zu3djcxCDDR-vZfntuUtWEyZJz_j4vISGy0_eb9_XDP0kxTJQ3E2vH1MSX09AUIuWSjnQrRAvIhKADQ",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJL2dhdnbuFZYRrHp5iRZaVi0",
+    "plus_code": {
+      "compound_code": "5QP3+66 Valdivia, Chile",
+      "global_code": "47G85QP3+66"
+    },
+    "rating": 3.6,
+    "reference": "ChIJL2dhdnbuFZYRrHp5iRZaVi0",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Independencia 542, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8141883,
+        "lng": -73.2443062
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8129184197085,
+          "lng": -73.2429754697085
+        },
+        "southwest": {
+          "lat": -39.8156163802915,
+          "lng": -73.2456734302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias Cruz Verde - Avenida Ramón Picarte 384",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115459732730453500375\">Benjamín Soto Rojas</a>"
+        ],
+        "photo_reference": "AeeoHcJYVeNDSr9DU280xQd6fOOg0lhTpmzhyJx-9lLYDOuGZD42C4FODuxEZoWDyWjfLrLlh6hP_uYEHoce3gy9o0SscPjVLj8F90klAs29f4neysCi7YEhgI2eEYPyxa9v-8Jkua75PGRFB9OuZ5lm5hMZN1jZU2X2TeZy11JYzyCP9Aw6REDE20hBOkP1M49r7Tk8HWpW0eCunD4fKfqlq0wD-qJuYKjGKydWIvBj18IFlWt376ujn6gvMMl-atF5vhnSfMPLvEgZbLs3aNyKlsIdJMOM0xCN-5KlSQu5d9Jjo07CGHYWBZCW5kdQw1ndmtoICEp4Uo8gX4LGmPFdoctBTmCqLzcSi7ZrxenQAKPLKkVwsh-xTPuzKgAu2ZdsPKy9dY47DwpN8y0dBDqnWfGvvhkAb_aFhMcUdt1TQpI9cvsMKZrGwHVwJnp0eT3fnsKV_0cn8-YaLgvpN_tqKj_cUil_8P0wBD7AzbWukZbsA4YmdQrqN038WXSJVvvJZwwI6XBujkdNv7ybTqlH38p95I0alJy38RzL7K9pKa7Pp-dCyzkPc1NzoZ9YBqarvSGaWz7_3_0sfl482dPadMTYKdRfXOz6f4xF876g8qW4p5y3M6G4Z47S-4ILhGdf-Liv_Q",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ29bgrXfuFZYRvBL_5LTC8m0",
+    "plus_code": {
+      "compound_code": "5QP4+87 Valdivia, Chile",
+      "global_code": "47G85QP4+87"
+    },
+    "rating": 2.9,
+    "reference": "ChIJ29bgrXfuFZYRvBL_5LTC8m0",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "Avenida Ramón Picarte 384, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8130349,
+        "lng": -73.2450242
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8117189197085,
+          "lng": -73.24368246970849
+        },
+        "southwest": {
+          "lat": -39.8144168802915,
+          "lng": -73.24638043029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacia Las Animas",
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcKx99pDmzInIbhsWS48Vo-l6Ecz_vI_spgyOO_jsPUFFv6mg2ua9kVlI755itfFfnPyN5wH3FIBCQiccLqJul5TVNnW2BoQlnmsacnY8sLjmcSsmOlFig_R4KClazyZ8egNLoZodkPBRy_xsNugrTvJ1UjRZ2c6cYlywhlyqUONBrnpwUSUPjvSnql18eYLKPVVd2Ggsm-vvcnXd-Wcf3xwNYjAU1ylmlF_NoXW8L-r3PmX8V9iEyFeigc5a05wahnDP3JXTrmpRpU4gTQQA2ckEXvz4aWjOoDpR9CzGe56JKat-HT_DZ-_dwLOAsIylHmkxxzQAv0DDdcKUlE4iKxK4vZL6arXAYJ7LRV7xViv9nOd6dIQOZ388jdEhNqmGynXibmD8UA0gYx9bWX3kECD_Q-xEavcdC9DU4AQnLapC6pYPpv9kPF7GcgNHCbsT8t9gorHmD1qiwa8dcs7mrl_KFer59CUBG0q3WVrbTyHndG1_hrojYeUSK6jrALNnnUjCDDFPVrwZj5-44haGDZozr1TUSmRSqigL3X3Wzyzw3WQaPIwPNcdXAIliz77pFz0dOKPyF5Ga_TO22OlJBwt2og4eXOTXvFu4IzFF-LWprp8T1_RSLZlNJAflJE495i2F6Wd",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJ30dQOwDvFZYRVU-wUwHHXtw",
+    "plus_code": {
+      "compound_code": "5QP3+QX Valdivia, Chile",
+      "global_code": "47G85QP3+QX"
+    },
+    "rating": 3.5,
+    "reference": "ChIJ30dQOwDvFZYRVU-wUwHHXtw",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Chacabuco 320, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8127856,
+        "lng": -73.24553209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8115516197085,
+          "lng": -73.2442152197085
+        },
+        "southwest": {
+          "lat": -39.8142495802915,
+          "lng": -73.2469131802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Farmacia Central de Homeopatía",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112441945457979499193\">Farmacia Central de Homeopatía</a>"
+        ],
+        "photo_reference": "AeeoHcJ4G4U0P9FOZGxe7u_eXyKXIHgwA8D60JkHboSvd6qFYe7nmCEHfaYRSRMptrVUFj5tof1pxAZ5cRxmHE9lGBDi4LgR8U7br6J5iHWYbGgdaPQy2Zzyebm2M1LvfqjDHQd7ChnlTiOaCwLF0C-aOIwPl8NC4Bj81Z_frMJa7bB4kmcPXZ0j5t9RBPd-DvvnJommOFHKYukir-vZrAV94oy31XPDOfcDZCtp8ceRZCuR3y7xSsjFymScGPVH41TU_lX-wZZSCvk0o6lgO70zGBdADa8RBQmHyZWI9fiX16Pqv-F20yUNnUP0ngXi05phJEzKaJzY1yk",
+        "width": 1267
+      }
+    ],
+    "place_id": "ChIJqYreGHbuFZYRlMKGmKGfpm0",
+    "plus_code": {
+      "compound_code": "5QP3+VQ Valdivia, Chile",
+      "global_code": "47G85QP3+VQ"
+    },
+    "rating": 5,
+    "reference": "ChIJqYreGHbuFZYRlMKGmKGfpm0",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Chacabuco 217, Local 17, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8147136,
+        "lng": -73.2441047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8133583697085,
+          "lng": -73.2427918197085
+        },
+        "southwest": {
+          "lat": -39.8160563302915,
+          "lng": -73.2454897802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "CIAMCH Insumos de Medicina China",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3839,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111535953182385780037\">Javiera</a>"
+        ],
+        "photo_reference": "AeeoHcK6TluSur79JpW_vUXXoQwDCMTxRqy4r8ds0Hph9G2aKaFw5gtcsr7vQt79v4XsleFioD96870HLlVP2mt6xnskmFafsMwM6g24ePe7ez4xnRYJh78FtXcL5Xjx5mB0JNbzhGU2_LWCSAC7x5f2YIgVxd3TjBhSKekYRuOwvXXm55MEHeZLLa-LfR4NfVlMrSEBCdGzy9uclxO-IIbAV3gmW2YWfqUGuZOYx-mdbuPRnpe2kEu-crZTwCb2pYDEiZy97y-5eDuXm3K5WZfEnVxiWc4DvFK5jHihVqyTUw2-9C-ViOiDrjOkTMuTCUpIOdRg2JjihDxN1Ivq4WuySHw1RXA3S1r3K3rjjNNOmzXw6tgnNmfTupEp17FqZl8G39189VJ25oPXog72Vj0z4bDTMNHBKrUzjSBrh8s2l8gyAuDLm1pLrbxVqcjqpiywnLA1wENDDtLE5zyu_wuDrMV2JZ9lydxZ1Y21gP9BNeTu_NNnaY5MYs1mONqJS90mLL2I0-i8OQ90nbFqZDJoPUnGcKhD8WWT0VvJ_U87fr4_ethIrtZ2z8pQIz0-_taHUG_Yhh1sg8f3IZxbOBAgj1bqOxyUUT5oinvyQrpquWBXcji2rnw_nU3wcxSzrQB9jZQuSi6s",
+        "width": 2742
+      }
+    ],
+    "place_id": "ChIJ8yDGyvHvFZYRxpawhfQBkdg",
+    "plus_code": {
+      "compound_code": "5QP4+49 Valdivia, Chile",
+      "global_code": "47G85QP4+49"
+    },
+    "rating": 5,
+    "reference": "ChIJ8yDGyvHvFZYRxpawhfQBkdg",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Caupolicán 532, Local n° 117, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81461639999999,
+        "lng": -73.2440519
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81325881970849,
+          "lng": -73.2427525197085
+        },
+        "southwest": {
+          "lat": -39.81595678029149,
+          "lng": -73.24545048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacia Pharmasur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3709,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcLRNRhUjST6OZxwjK5GQK2yhUVQa8GH-y_lWq7n91geR3VOx4KjHv0K0XKQvuWwRki8M_tGMhlEW2PeStD87tbZzObPKr8Yjb5dlaSXXhIC6guw29lrCj0VFWvl2t-B-t1x3opU-PqNUiAS0rPm4nrV5sBVwFr2KG8gBodgruFtvPw7r9-YK3AG6Kd9ENG8wDuQdU3QxDM178Hjx3Yy1NfVxAFnTd2eaRsjH5f1yrYjb5Qv7S2oZM-_Afn4LLKVLdJ_DdFXUp8jpAJEDmUHrrN45VaZFrLdwoIUBCCDdeVrnb646YArZc3wk1vnt55JpDb8NyH7xrrOEvfnZqa6M3fopE0PUyiUEY-QB-rWbbwvQTnLfPeQuvItBGKCKwpJIbSKJJmuOzt8w_82Cs47pbMeGhJFafOGzcXz-CAXApuLPTQuacWohydrxi8CwqOjOF5eVyiYkfEU3KHeZLbFEkRQOtUOHWPlRYXmlZu6x8nRCGI60OcwGeWBcqYsHSDHV93Wd-o0e3viOdqSm8JmWc9uSUgWdf4KQvGLdxQAOKFABWLoaB6z8bDYAx9Di26Vyg_UOvg0LmqnXwqxA92NS024Kk9uCjbxwtiOssRPTZckMDrHavRAsEzmnT8B28gdG_cDdA",
+        "width": 2386
+      }
+    ],
+    "place_id": "ChIJnU3fVsvvFZYRBmHt9hcKTeo",
+    "plus_code": {
+      "compound_code": "5QP4+59 Valdivia, Chile",
+      "global_code": "47G85QP4+59"
+    },
+    "rating": 3.8,
+    "reference": "ChIJnU3fVsvvFZYRBmHt9hcKTeo",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Caupolicán 508, Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.81523369999999,
+        "lng": -73.2444217
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81389161970849,
+          "lng": -73.2430294697085
+        },
+        "southwest": {
+          "lat": -39.81658958029149,
+          "lng": -73.24572743029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacia Los Ríos",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103357256193937902936\">Farmacia Los Ríos</a>"
+        ],
+        "photo_reference": "AeeoHcKE3aiGOP5InJ-MTYHx8637EeuU7b8t17sDZe3p2OQ8h5tIkFMZexX-NvXBSo6f-RpU4NS4tpWt7ha0tRm3xDag2eVNsNguEJZTIFvHvAEHRSklfW7cCNMdSeIcA4OD7LFIRKjh22RSLeIOagt-rGVV7xPcw_z9tpFgCkv2xNOXRhx6509fvmJKYIt8lVupZiFPOioeLzArUnzCbJFIlqNlyzvf8JTbVatQAL3OF7azwzxzftxcm8CPBIHpjpjnpznvB8c74BbndrXRIDc35AiIT6eJnYIETnJJVtuMUMdA03wrKo_mpBD2aqE14UCl7nZPwVPp",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ7a4dl3nvFZYRmyImHG3A6TE",
+    "plus_code": {
+      "compound_code": "5QM4+W6 Valdivia, Chile",
+      "global_code": "47G85QM4+W6"
+    },
+    "rating": 5,
+    "reference": "ChIJ7a4dl3nvFZYRmyImHG3A6TE",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Кауполикан 579, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81536759999999,
+        "lng": -73.2445968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81405331970849,
+          "lng": -73.24325636970849
+        },
+        "southwest": {
+          "lat": -39.81675128029149,
+          "lng": -73.2459543302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Centro Naturista Esmeralda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103796220795309981223\">aaron gallegos</a>"
+        ],
+        "photo_reference": "AeeoHcJqKPXgRN15ZJ83EFxuJ2Yixmi0gWDhropwWLn9E6AULoAA_Uf0QjAzVHuHmH_72VLzoGzI6ZvJ88l1PCmF7sfvmIHs4Ej5p5ZToE1guZfz_L1ZQ8YH2frMQlf97jLb2ZpOKF4ysNMfLwml6Fdcda1z2aD99GDJ1F1kq4q1Y0E41n9mLLcgbECJ31SRWpTMkiKd2PS2QoBJH6JUWbbM5DptxcA3bQ6MNyWhZj5j2-OWlWmR-_lty_eymHuCSUa0sGI-X5zrMWoDVZ2BudPvJ9DS70eGQC9paF39gzzMZ0AUJ21pW_n4Xn1npEWiVDPN-9yJWVoPl_U0hAGAD0i7O2AVy4j3mDe77yUu_lCznM4FjtH0759KKVW6Xg-SJIMIh6Rc57ragD5Fc-0wbxyn51k-I1U07W4fiV6NFepJodlXy9Da6XosZkIV8GteqAjLixf-UxTHO4nCBl26DIS0BcgSKLT-OPofE76IYZc3nsHQwmaI6OQmAKUjSU98ogg8ETPRmaVHOfK32JAmh3U5VsoQ9gxJITTtVjRT9Q8fAEPMD6iFyL5lwOr735Vy-W64XvJYAJoKRhthBbQ5vzeF-27jQG8MMKA9kVF0GR_bfELDGoQk6b40bUaXIQeYGMbX9_3aF_Fqef7tNBNm5aX2vMIY3CY",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJWQKCVADvFZYRcUpGecu1NsA",
+    "plus_code": {
+      "compound_code": "5QM4+V5 Valdivia, Chile",
+      "global_code": "47G85QM4+V5"
+    },
+    "rating": 5,
+    "reference": "ChIJWQKCVADvFZYRcUpGecu1NsA",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Arauco 384, L. 11, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81536759999999,
+        "lng": -73.2445968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81405331970849,
+          "lng": -73.24325636970849
+        },
+        "southwest": {
+          "lat": -39.81675128029149,
+          "lng": -73.2459543302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Mapulawen",
+    "place_id": "ChIJGcio-3buFZYRT9cTAIr0kb8",
+    "plus_code": {
+      "compound_code": "5QM4+V5 Valdivia, Chile",
+      "global_code": "47G85QM4+V5"
+    },
+    "rating": 3,
+    "reference": "ChIJGcio-3buFZYRT9cTAIr0kb8",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Arauco 384, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8150995,
+        "lng": -73.2442305
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81374701970849,
+          "lng": -73.2429031697085
+        },
+        "southwest": {
+          "lat": -39.81644498029149,
+          "lng": -73.2456011302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias del Dr. Simi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115459732730453500375\">Benjamín Soto Rojas</a>"
+        ],
+        "photo_reference": "AeeoHcKI9huRoa0xA_Nyi7fdPB28wNrFWg3HYWqsWT37wguWRT5clMjqZZeBIiX6W4aAg909ggKx88UWt-n5dSPGkZBZC_MrdzVi_pqZm8j7X5hvCTGWMyCp5SN3juRVzMjyrPWl3yJNOU5Vj3x81mBiuJJu0L4Udxp3UsOAriT639exjpkZhJNI-FH7W4VRf_XVdexWUyWPxJsB48HEnAPsNM0PC8oAbaJpfpCRM8rDBrMvreZ0YqAqQmTr25ZDU4llAWKRSGrjUF-c1kopBGMdDVvfEKTQ6u2TgTEEhmETS_oBBq0pQAgx2hn45l6qc6bGT0CD_FqjMHSbSJkmes12dGB4POS051EOOdf9fU1rGAlMdMgf6j7Yxfn4AmpIs3AVgx9twaWKpWMYWuz0K38N3PfCvXy6v8yTd1p0mLQn4xVtORkKuOCLF8y3tkVNzMOEMamXFP1fhaOhxeM0FKizG_aYtTbFZcrNnkQGAjGFi4kuiSFrep5rV2zystWXsQ7bsGcspD3R1FSfmMvHckY1LjhnGt3CDK8BMm1Qm76FXEZCpU3TipVa1WgJ9keTu374xo02lwT5Aii-3aZPAj8E0XzAUca4n1hq0aAv0o1HNCBK3KoAkgcndyL6VCZFodZ2JOxejzYe",
+        "width": 2464
+      }
+    ],
+    "place_id": "ChIJLUwJLWLvFZYRKik81xaQuTc",
+    "plus_code": {
+      "compound_code": "5QM4+X8 Valdivia, Chile",
+      "global_code": "47G85QM4+X8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJLUwJLWLvFZYRKik81xaQuTc",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Caupolicán, 566 B, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83235190000001,
+        "lng": -73.21590909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8311869697085,
+          "lng": -73.21481476970848
+        },
+        "southwest": {
+          "lat": -39.8338849302915,
+          "lng": -73.21751273029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sapu Gil de Castro",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105360506038554749561\">Rodrigo Muñoz</a>"
+        ],
+        "photo_reference": "AeeoHcK1szZPm4YuhZPhuUwDhvhHT9HZXbizASx74adIpMHkDwMCW8YqdY7bX4Bo_FNgO3Yweyd14TSwSfveoOxap8mGkE2zqVubrlPESwxdDHzZYCgXfvuSgXKi9q5aeOedefLA76tumTkTy_ypzqEvkL_MOXh3f44X6ZnDiDwbx6lZcDIZC1hSGRLxg2TvmcRI187xudcMe372Ji7BDHpVOvdqt78jUZ0wrEi4GU2jo7LEMMfCIIa56bKSDFAZbz0ehRGITA0yGjLktJzS8MsjhkJ7Z781aDCwIDmkCsWkpCrIYVcgCDb0AllGG7MuFXZEV7CcLCIDNpth4GadFBH5RXXNjUBPEOhq_uuXXYk8Z96o-NgvYZZvUgEXejKDGI2GTUwmP0OhngHTcVsq-bUVl8YcSJR2eU5cf_PQxfWEZoaZGzPFV8EMYo4h7cE4Cxb0AiIA7m3ITObCzp_kf3l8LiyDaiUif1YNyuoTRcJE1o8HpkEiDWjmTmOxNqBmBlYb9DkzU_SJ-tcukHp62DOo-kVoAsRR7ryZWBCqyJAbLIN9p-JTVtMGG-KR79RLDHSW0PEAQ3RmF-gXKahm49DFFHhqxl5gIzaguFHBaYHlGoooZn3-v_lr-wl7sUdlEbZKt8PXZQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJg5JP3e3uFZYRZxR-xGDFuio",
+    "plus_code": {
+      "compound_code": "5Q9M+3J Valdivia, Chile",
+      "global_code": "47G85Q9M+3J"
+    },
+    "rating": 3,
+    "reference": "ChIJg5JP3e3uFZYRZxR-xGDFuio",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Avenida Ramón Picarte 2500, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81603419999999,
+        "lng": -73.24739009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81472436970849,
+          "lng": -73.24605326970848
+        },
+        "southwest": {
+          "lat": -39.81742233029149,
+          "lng": -73.24875123029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Isapre Vida Tres",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJk4KYZHbuFZYR7e07LepGwww",
+    "plus_code": {
+      "compound_code": "5QM3+H2 Valdivia, Chile",
+      "global_code": "47G85QM3+H2"
+    },
+    "rating": 1,
+    "reference": "ChIJk4KYZHbuFZYR7e07LepGwww",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "hospital",
+      "insurance_agency",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Lautaro 164, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8148357,
+        "lng": -73.24014640000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8135273197085,
+          "lng": -73.23880821970852
+        },
+        "southwest": {
+          "lat": -39.8162252802915,
+          "lng": -73.24150618029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "GAES Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJAZdDYXbuFZYRtaaatV015mk",
+    "plus_code": {
+      "compound_code": "5QP5+3W Valdivia, Chile",
+      "global_code": "47G85QP5+3W"
+    },
+    "rating": 4.2,
+    "reference": "ChIJAZdDYXbuFZYRtaaatV015mk",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Avenida Ramón Picarte 702, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8134905,
+        "lng": -73.246892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81214971970851,
+          "lng": -73.24549331970849
+        },
+        "southwest": {
+          "lat": -39.8148476802915,
+          "lng": -73.24819128029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "IST - Kihnos+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3874,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115214750357906831023\">Kihnos+, Centro de Salud Integral</a>"
+        ],
+        "photo_reference": "AeeoHcIXxkprNfEZLvfKfmYrCorJsTuFK3tv9xYDorRRfMr78wHqj07EAgBFkI1Bzbcq4SlUPz8pmd64TKknSiETiNGxzShi35xzjFsK3NsJ3bedVvz7rho0r1Sck4eIevge8WAUUZaX53gbainf7nvS_mq5KzoydBk6UoDevMs8axCsLgQ3f4Ckbyhq6rl6dAhxkRKDhKZBStbac2Pe_gMaEc4ia_JGMn49bGqZMFJ8guWwxJQxeeIoUAUGuSifn8exw_9fYTr-XF_bYM9CdZUORM0ZeKfMYk1bsgNAcVUGr-eNgNsLYQ7ZVkHWjUM0sf15-9BXTkydfNQ",
+        "width": 6887
+      }
+    ],
+    "place_id": "ChIJ8ztf1HXuFZYRMWKxc2jtJoU",
+    "plus_code": {
+      "compound_code": "5QP3+J6 Valdivia, Chile",
+      "global_code": "47G85QP3+J6"
+    },
+    "rating": 5,
+    "reference": "ChIJ8ztf1HXuFZYRMWKxc2jtJoU",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Independencia 491, Local 2, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8146973,
+        "lng": -73.2440702
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81333926970851,
+          "lng": -73.24277341970848
+        },
+        "southwest": {
+          "lat": -39.81603723029151,
+          "lng": -73.24547138029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Dental Cohn",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 507,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101428042732852066426\">Nicolas Cohn</a>"
+        ],
+        "photo_reference": "AeeoHcLXkyksws-sWvz0x_3UySrMpG0OwD0oZ6KUA3fTcu5ddCV0xGvDf-kFncFDonUstx5Zr6ITkrsGP71TRAUZ6Ic_zesJ6Xwt8oeGhMHVSdXweXTemtoU5LyjkBsdWxNxeJMqLauh_WZcOKTGZg4HfGhbsSHziemT4H7odj6D9VoV2elFXOnWxpDr6dmj5-DAj_kYLewyNDAmh-0BdmwDA_R2pVm5wmh9y4O45zVlbXk8evtr76JlNO6E7Pl0vKLDOo5GI9qYH0mx6Ka-Xgny-vHZQ24TBEKJOBDPVJHS058DPnAkVrmF623ZJv5fVOYcIE7VhQ3dFp3o9MD8_PIRWXjqKtDuTxDl8q8XI22w0DreZKmuwwFvYFNjcPXl125YWpmFnN9ru7z8M2R_I0z0NWkY69yRSs0HgHyMNXK0VafQq2zIUC5zqE_U-rTThYcyfxpDaAG1xMZoSF7d_2R2hcBSwF6cRmK50MhULt8WmqofMOhSwt6m1oXcrA8vyryCVQ1QGog3hqLQJqzkP4AWTwHBIdEBtICGTjgnLq3AQmLYhoklWoZY6ulXUkWUxa1MpdVX62VEnepmiJ1YXatGpVSTMVvjktR_ZK4pnKEfrtuG3naWetOgkgBzMIKcZUgudaqviVp9",
+        "width": 332
+      }
+    ],
+    "place_id": "ChIJJ7tIU3buFZYRXKzGfgMvsRU",
+    "plus_code": {
+      "compound_code": "5QP4+49 Valdivia, Chile",
+      "global_code": "47G85QP4+49"
+    },
+    "reference": "ChIJJ7tIU3buFZYRXKzGfgMvsRU",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Caupolicán 532, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81296890000001,
+        "lng": -73.24233559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81156516970851,
+          "lng": -73.24097381970851
+        },
+        "southwest": {
+          "lat": -39.81426313029151,
+          "lng": -73.24367178029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "One Dental Health",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 894,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108960622880072838177\">Clínica Dental Uno Salud</a>"
+        ],
+        "photo_reference": "AeeoHcJeWOh4neGGSQXbOYSRcTrDNGkCpG-aBw8xvlqqkHoN2-wGKe_9ZneTO9Ig92qvvo2diqBWWU0q91oFg3pihg26v9HJLX99gCVX_p33abmmfXbk0JTt1NYDDnwrLeNOLrXrRJ3TfY4INMphgZninRb65cSnNoXXUl6l7uGXLKyqi_0L5WL2MdzJ_WtvPAp-kIziXcUuIzqd0KzEDlJr4DbSydjeU0jveSjieq0W578XF2DXGjuhS_6xaqShRUBttw-IEXyRDeCdrDTHYyMr1jiS8YHhETRiAwQyreHXxzY8nv52sIvTVvo_wcpi7xhgsLZAbb4EvD8",
+        "width": 1589
+      }
+    ],
+    "place_id": "ChIJBadg6HfuFZYRW0rLgzLaHbM",
+    "plus_code": {
+      "compound_code": "5QP5+R3 Valdivia, Chile",
+      "global_code": "47G85QP5+R3"
+    },
+    "rating": 4.4,
+    "reference": "ChIJBadg6HfuFZYRW0rLgzLaHbM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "Avenida Alemania 485, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81797,
+        "lng": -73.240516
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81660056970849,
+          "lng": -73.2392458697085
+        },
+        "southwest": {
+          "lat": -39.81929853029149,
+          "lng": -73.2419438302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Edificio Médico Beauchef",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 503,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107747239237359696558\">Edificio Médico Beauchef</a>"
+        ],
+        "photo_reference": "AeeoHcIrluaUuVNEGYwznDMsD0kUyf3d4xOZEiSQPWX5T70GNOHjMlTOZ2TBKojFjbu8tLYcXUCJTIGeZjxWC_laGJBQrPJgpGBFkn4iPGIjNlTBQ1syZ8pmabf7nA5HI_uhiUL4yvXwcRSYos-9LpO2H7jCPImumrRXuT99uCVNWJFF5VdstGDP3MVUTglGtrk66OT6oKc8bLuNE6eB_1FOzMRY18b7PddWp5qNxlaybrEMtyzCWx5JA7Nb9CFEwrzMbrGsQ3Xu3Rvwefa1HoFRQm8jWG4-c-dfOxygj3X8qWszz5nbP9hNK4VItk7Zk9BAZv2EGl6CJ2I",
+        "width": 895
+      }
+    ],
+    "place_id": "ChIJMwRdDHruFZYR9y6ppf4sW7Q",
+    "plus_code": {
+      "compound_code": "5QJ5+RQ Valdivia, Chile",
+      "global_code": "47G85QJ5+RQ"
+    },
+    "rating": 2.1,
+    "reference": "ChIJMwRdDHruFZYR9y6ppf4sW7Q",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "Beauchef 723, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8301528,
+        "lng": -73.2249105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.82879136970851,
+          "lng": -73.2236416697085
+        },
+        "southwest": {
+          "lat": -39.83148933029151,
+          "lng": -73.22633963029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Centro de Jóvenes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103006807099550048888\">Madín Moya</a>"
+        ],
+        "photo_reference": "AeeoHcLBo1KZc9_l8T-XS27FceI6JPCSvY14sQhkf_IKxHSdfELUrU3MoUnAAOVZ1pEwDAhuzjX1rRRcZGM4ZxI17tI3N3PdpEQvgBwV1n5REmhS7pZltEK__UZ5yFt67MwRyzxOwsjn_ftkq7KgoZONOPuueetr36pwOwStuo3l1GJoZVaW5wxpEsiTi-mw-g9mThcYuMvrTH0j6Ukcgvdz79IgRio4TFqVRMsE6XnRpFLFKdSiJnIf__vsDL-FDpEYEhgQV6hAJVvnP7plk3ePXKCUXJP1zIz7s8s75cIKMquRSCpyz_UTltds--pQFoARVA2fiZKdd3EtlKvubGTET7lw7e5ha5cZpLA0a215p4m5DGYSv6NGlg1XYkROXlJzuxm5zqNN32mDVpfMY0O9uG_NHPNHJcCDrpqRA9gcdQc9F1ePmwuXnO13VfNzB6LsgUQTEL-C75ZK6vOQrumczA_YkYM5Dkm8coN-AQ9NJR42Np5tozu_6SvqovnS00fkDdyyGCkjklyET09FMCjkpmA6bpfhVgwR0_D9Yb9k4O_-lDzixRbWFWPWX-LnNmJFTTbDXxoQNFg_2zCROCyLv-x4TMnrPYOs3z46SRHvE1nnrZFiqp34RXtPHvV6FoZl",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJJVn-t_TuFZYRI_W1qvI0gWg",
+    "plus_code": {
+      "compound_code": "5Q9G+W2 Valdivia, Chile",
+      "global_code": "47G85Q9G+W2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJVn-t_TuFZYRI_W1qvI0gWg",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Koening 611, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8360504,
+        "lng": -73.20667499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.83464701970851,
+          "lng": -73.20539881970849
+        },
+        "southwest": {
+          "lat": -39.8373449802915,
+          "lng": -73.2080967802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Centro Clinico Veterinario DogtorCat",
+    "photos": [
+      {
+        "height": 450,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102395269291213241058\">Centro Clinico Veterinario DogtorCat</a>"
+        ],
+        "photo_reference": "AeeoHcI69uKecc6WtNopgrxmKQ_UNybsXqxen-kdGCHxuw8r7knpvTxz3nw0QfHGQf-QO7DNSAwSWaxGzUb2AnG_YIC-d9VgugznQn7vyQzfBKF60JPi8MMH30pvkR8DRLs71VVxmpjI4ZfqX05nSHIKPdYwVdD0Kf2e7cSdks46O8fFYFu7AG2PxmkWGrrGf0DbFblXgtTVOZAG76Y4poUp8p28htDzSnQEbAzYL4ssR4-nWfifbxqNEOLIb3pzHj-vBdKlxAoRreerdymoDMI3mfp86tg5ipuXp5ro8GE1qxpcSDLsY-y1PEKxOC75Vd2Yq6WrKzfeYXc",
+        "width": 990
+      }
+    ],
+    "place_id": "ChIJqxg6bebuFZYR4f3zWV-q184",
+    "plus_code": {
+      "compound_code": "5Q7V+H8 Valdivia, Chile",
+      "global_code": "47G85Q7V+H8"
+    },
+    "rating": 3.9,
+    "reference": "ChIJqxg6bebuFZYR4f3zWV-q184",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Rubén Darío 180, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8305145,
+        "lng": -73.2412489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8291770697085,
+          "lng": -73.2398481697085
+        },
+        "southwest": {
+          "lat": -39.8318750302915,
+          "lng": -73.2425461302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Matías Sepúlveda",
+    "place_id": "ChIJjbe_dWjuFZYR9IneYkjBUoU",
+    "plus_code": {
+      "compound_code": "5Q95+QG Valdivia, Chile",
+      "global_code": "47G85Q95+QG"
+    },
+    "rating": 5,
+    "reference": "ChIJjbe_dWjuFZYR9IneYkjBUoU",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Avenida Francia 1655, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8305145,
+        "lng": -73.2412489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8291770697085,
+          "lng": -73.2398481697085
+        },
+        "southwest": {
+          "lat": -39.8318750302915,
+          "lng": -73.2425461302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "doctorpatricioguerra",
+    "place_id": "ChIJyQSjkt01FpYRENCmvA0BlmY",
+    "plus_code": {
+      "compound_code": "5Q95+QG Valdivia, Chile",
+      "global_code": "47G85Q95+QG"
+    },
+    "reference": "ChIJyQSjkt01FpYRENCmvA0BlmY",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Avenida Francia 1655, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8136349,
+        "lng": -73.24692449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8122935197085,
+          "lng": -73.24552961970849
+        },
+        "southwest": {
+          "lat": -39.81499148029149,
+          "lng": -73.2482275802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Pedro Pablo Torres Godoy",
+    "photos": [
+      {
+        "height": 636,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105061542383826868491\">Dr. Pedro Pablo Torres Godoy</a>"
+        ],
+        "photo_reference": "AeeoHcIJf6UFEC0lZVnZ6Vk_8NiLI-IPVVuz9kXY122Ti45vtRKAznorpkxh2XsWSOv5HdX-ZrAel0wjAPvfO--n3rul4SZXqDm7yO9VcJHHB_qvY-0FkiZLB6VntLpaZSMZUE70z1MrScMR6YzmBEALiEMwTIWXECRJrdim_wpsTtZEgjhfBZcsh-_hpLrlPPjZtHlOoTd6roGn8891fzn2s8brnpb7Uk34aVgLARR7uyTPpHYn2DCyTWa8gcqeFRGizIhGsQkB8o2OvU6ffGODq14glJ-Op5dXrI7y3A6QRnn_RVxJMPU8jhEtsCvABKr86IOwGSlFs7A",
+        "width": 637
+      }
+    ],
+    "place_id": "ChIJ-ZrcHbHvFZYR5ZLY23FwtMk",
+    "plus_code": {
+      "compound_code": "5QP3+G6 Valdivia, Chile",
+      "global_code": "47G85QP3+G6"
+    },
+    "rating": 5,
+    "reference": "ChIJ-ZrcHbHvFZYR5ZLY23FwtMk",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Independencia 491, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8136689,
+        "lng": -73.246983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8123538697085,
+          "lng": -73.24558171970848
+        },
+        "southwest": {
+          "lat": -39.8150518302915,
+          "lng": -73.2482796802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Dental y estética Ferraris",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111427922147218677421\">Clínica Dental y estética Ferraris</a>"
+        ],
+        "photo_reference": "AeeoHcJxpTE-4yfvUHzALON6TWOcLkSw0GGyx1CStcv1ECTDx-2RjH9FKtGprIzNswrS2qEqyMOQr4R19cT1N-ORolVePTkRq24Z7XekkMkuuAjJNWlxnpYKznxyE4b7wieE-VNRP_lLRe2EkGfrjCAwhl-veqBSaTjJAuCsPUR3AuLFeAqbBQkJWLQcAYo-H8gJoG0Nih1XQsT_Up6lWLb4XbuGGHrqP0dibbpoSZcw9y_kXCsEb-dPETkzOW3FR2sJ89mPHHABhl-ijTHVQrl5X9BQCVXXSPyePTOsK_i_CJGjRwditTYrX5pbeda42K-XHFpLCniT3xE",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJsWap0ZnvFZYRODJUh5Vcrhk",
+    "plus_code": {
+      "compound_code": "5QP3+G6 Valdivia, Chile",
+      "global_code": "47G85QP3+G6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJsWap0ZnvFZYRODJUh5Vcrhk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "beauty_salon",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71,
+    "vicinity": "Libertad 491, oficina 406, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81304129999999,
+        "lng": -73.24504340000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8117186697085,
+          "lng": -73.24370021970849
+        },
+        "southwest": {
+          "lat": -39.8144166302915,
+          "lng": -73.24639818029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "VALDISALUD PODOLOGÍA Y ENFERMERÍA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114978340803625585826\">VALDISALUD PODOLOGÍA Y ENFERMERÍA</a>"
+        ],
+        "photo_reference": "AeeoHcJoIE27JzFgolIO8RcwS0cfrOQCQSSBnydD9syBMh8Zv3NbgXTvXKgtyZIBqmXw6m8UKfLT86l1vuGrOqkpAomRv_BMOpMwkaRch4eVjvLeCcPTf6gShcPa5V5rVrULEJg8YGSFu56T2ntoR3b9Tv2IItSBQF3Jcv-XlTfBOy6TQ98eldNH8HwHNYbuzGrRmLqanALuu3CGo9rqst0H-TpgHQEGRgS8Ia208RKWqCAK-E3eLlvHmGfXgiimwK2pNBGuLOKkWilWNGDw1BUG3WGo_W1Bd74aN48tY4xqQO1fgZnTFEfPWpd8p8jUXvB9_FGqk3o9MWQ",
+        "width": 1414
+      }
+    ],
+    "place_id": "ChIJ6TfqWzXvFZYRay5epciTs3w",
+    "plus_code": {
+      "compound_code": "5QP3+QX Valdivia, Chile",
+      "global_code": "47G85QP3+QX"
+    },
+    "reference": "ChIJ6TfqWzXvFZYRay5epciTs3w",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chacabuco 310, oficina 205, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8156183,
+        "lng": -73.24651229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8142606697085,
+          "lng": -73.24521261970848
+        },
+        "southwest": {
+          "lat": -39.8169586302915,
+          "lng": -73.24791058029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "clinica radiologica aranjuez/ consulta dental M. Soto",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ3ZWZhnbuFZYRXA-E1LRdDwc",
+    "plus_code": {
+      "compound_code": "5QM3+Q9 Valdivia, Chile",
+      "global_code": "47G85QM3+Q9"
+    },
+    "rating": 5,
+    "reference": "ChIJ3ZWZhnbuFZYRXA-E1LRdDwc",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "frente fonasa, Vicente Pérez Rosales 640, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8146973,
+        "lng": -73.2440702
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81333926970851,
+          "lng": -73.24277341970848
+        },
+        "southwest": {
+          "lat": -39.81603723029151,
+          "lng": -73.24547138029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Dental Exceldent Plus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107109022176861506482\">Clínica Dental Exceldent Plus</a>"
+        ],
+        "photo_reference": "AeeoHcLKWp9-R4Bgsp4NEzXd0lky1QaRhoaNGrCpUcLHumgQ83Ouw1uC7qibhznOlCnqNWVswK6XkKihDNRzw9w4N_yRElqfLcS4R84dkvZhHFI8qUclHFoFTFsC74PSSWtyPTtP9LtryhxzupB5bopL_TH2HfTFXHte12gCq6FtwDEkyjY6DALhQPJID7KKkX-WcRDz1pfpoecTB2u6c22B7THvRAMnkDtkMFar9_giIQ2cqRr0Yz_EugdXxdoonCERn-YjQ1Rbno684zCz24GL-lC13TwdENe1MgVal2_gzFwq8HXbKXDiQJahZouhGyKrMu-ITReSYRY",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJdZl75ePvFZYRsI8DvO-lT68",
+    "plus_code": {
+      "compound_code": "5QP4+49 Valdivia, Chile",
+      "global_code": "47G85QP4+49"
+    },
+    "rating": 4.9,
+    "reference": "ChIJdZl75ePvFZYRsI8DvO-lT68",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71,
+    "vicinity": "Caupolicán 532, Oficina 307, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8147361,
+        "lng": -73.2440495
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8133754197085,
+          "lng": -73.2427679697085
+        },
+        "southwest": {
+          "lat": -39.8160733802915,
+          "lng": -73.24546593029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Estétika Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNWagLjzvFZYRUuBmIFbcOQs",
+    "plus_code": {
+      "compound_code": "5QP4+49 Valdivia, Chile",
+      "global_code": "47G85QP4+49"
+    },
+    "rating": 5,
+    "reference": "ChIJNWagLjzvFZYRUuBmIFbcOQs",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Caupolicán, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154003,
+        "lng": -73.24722899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140407197085,
+          "lng": -73.24594131970849
+        },
+        "southwest": {
+          "lat": -39.8167386802915,
+          "lng": -73.24863928029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Odontológica Linnen",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1170,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103856353236129803199\">Clínica Odontológica Linnen</a>"
+        ],
+        "photo_reference": "AeeoHcLwZhSqqa2CcP_1ryu5Hj_bYisptUOtmw-jOvXamMuwsCoWAH8r7QnVUJGVawaQHE0pr7dc1OhEYLoEuQiRtEb-fTV3O8ntcJ96iqK1-QzhLZWa0KDUndLAO9Jvo07soX47AZeCp-6nDfTu_iahohZ-tPjvMsOf5VYIR1iNvDHOzte0ZsQdmZ0dDOnOTlJW24A6RyJR3omjf-nzMEGjy3eqCTZYGCnVqYrlqWcH_HjNPHVbIffN68ElkJ9vDBRmc8iJVGnRXuYSMbUAXxaKf7ESWOvxYtsE0B-tF3LKyQ_e5NT87lBLIBDrDTCWwvnqsRdgOk_SdYg",
+        "width": 2025
+      }
+    ],
+    "place_id": "ChIJAbm6rC3vFZYRr8XCmBaruHI",
+    "plus_code": {
+      "compound_code": "5QM3+R4 Valdivia, Chile",
+      "global_code": "47G85QM3+R4"
+    },
+    "rating": 5,
+    "reference": "ChIJAbm6rC3vFZYRr8XCmBaruHI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "Independencia 630, Oficina 403, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154003,
+        "lng": -73.24722899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140407197085,
+          "lng": -73.24594131970849
+        },
+        "southwest": {
+          "lat": -39.8167386802915,
+          "lng": -73.24863928029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Alvarez Aguilar Gina Eliset",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJb3T21HXuFZYREls7FO4af30",
+    "plus_code": {
+      "compound_code": "5QM3+R4 Valdivia, Chile",
+      "global_code": "47G85QM3+R4"
+    },
+    "rating": 3.7,
+    "reference": "ChIJb3T21HXuFZYREls7FO4af30",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Independencia 630, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81451930000001,
+        "lng": -73.24379619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131197197085,
+          "lng": -73.24243506970849
+        },
+        "southwest": {
+          "lat": -39.8158176802915,
+          "lng": -73.2451330302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clínica Dr. Castillo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114602681269857783380\">Clínica Dr. Castillo</a>"
+        ],
+        "photo_reference": "AeeoHcI2ljUhWCAdfhTGn36X1dPYbpsQsFyb5lw1mh859bbFqnM-bhfRp4SwtE_X6gQW_NOkHoXYe_5QUA126bovmIptULcBAoExKq1X_lc2nnDZL_tm4cutMHr3ckqn4rrgynC-f6MhCqgUfVQeyHCH1e7gX4BSq7CgW401JkQRlatfdchXLkn692IBkIsbLDiFoRoa7l78OihcadNqxisxqNKnV6D8ofCxutXvtkxds2nMc2GEiTFq_86sevyKBO2CRKsnZQdE396HvC94M7dPTrvErhsQN2TyhHUKkK3kyRvI1fWKsvvNtknZBzUEHnJFyGOpZ3kr644",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ3z6WcpnvFZYRIK9tAcq7Z1E",
+    "plus_code": {
+      "compound_code": "5QP4+5F Valdivia, Chile",
+      "global_code": "47G85QP4+5F"
+    },
+    "reference": "ChIJ3z6WcpnvFZYRIK9tAcq7Z1E",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "EDIFICIO PICARTE, Av. Ramón Picarte 427, cuarto piso, Consulta 404, Avenida Ramón Picarte, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.827017,
+        "lng": -73.22306999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8257362197085,
+          "lng": -73.2218164697085
+        },
+        "southwest": {
+          "lat": -39.8284341802915,
+          "lng": -73.2245144302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Fray Camilo Henriquez Public Library, Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 698,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116176921891762857479\">Biblioteca Pública Fray Camilo Henríquez, Valdivia</a>"
+        ],
+        "photo_reference": "AeeoHcL4f8JrJKR3yHblJmMiD_YVCWrE57G2eQDNUJJOJAW81bcDJD3TsU4UX80y9zlLco2fGpvzhqOS3IRrrQcGrSBGA1SVsFRZWATLlDQWjw0UC_HlDoxoDa2_F-2xvtrZ_UMLq2m-0nPD8rYjUhOh6_KMzb36f8Lmlh0joVh67v2bCX_qZAh3xz8tZeJrxlT0nvHJRDiyX5r-gG_8shcXfxhvJZuhWk1b1iHVyzCjoVZLx1yduaX9pz0qactXGc3Cv2izw5hdlqbBPK_-LkuDiZiGuNI0xQ5c7cW2u8Z2txJUq8KTxR6ak21oaHhSta2BxeOa3VQsK6s",
+        "width": 1178
+      }
+    ],
+    "place_id": "ChIJb7_LhozuFZYRp0NwqZOZ5T8",
+    "plus_code": {
+      "compound_code": "5QFG+5Q Valdivia, Chile",
+      "global_code": "47G85QFG+5Q"
+    },
+    "rating": 4.5,
+    "reference": "ChIJb7_LhozuFZYRp0NwqZOZ5T8",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "Avenida Ramón Picarte 2102, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81958950000001,
+        "lng": -73.24942200000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8182546197085,
+          "lng": -73.2479678197085
+        },
+        "southwest": {
+          "lat": -39.8209525802915,
+          "lng": -73.25066578029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Direccion De Bibliotecas Archivos Y Muse",
+    "place_id": "ChIJ8xHXvHPuFZYRH7akZKy6d4I",
+    "plus_code": {
+      "compound_code": "5QJ2+56 Valdivia, Chile",
+      "global_code": "47G85QJ2+56"
+    },
+    "reference": "ChIJ8xHXvHPuFZYRH7akZKy6d4I",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "General Lagos 975, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8065585,
+        "lng": -73.2509488
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8053656697085,
+          "lng": -73.2493794697085
+        },
+        "southwest": {
+          "lat": -39.8080636302915,
+          "lng": -73.25207743029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Biblioteca Central UACh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101061784778762918902\">Valerie Barrera</a>"
+        ],
+        "photo_reference": "AeeoHcIsHnZBnSXGQfrxi5pVYwsvOqc49I_RUZuYrAWKIK5oLLerRu0DnXIl4QORMYvZZjMZqURZUFLS7xbM8U5xylFO2kCSgerRfaE6iIgOBVBgsju6ZQBmG9mF4DmR8MXnQNMNaCbNqvmRHDKTjVk9K6ZMI1eOV3I76wWrF-dSKgWzwPdpCMx_MwOGS3xoEkMdK2SsERdz0P18_U2ujHAc5QgsKZcHFRRYTYXPc13F0h6q5Orl8h46vqYYfcJ0UDV33Jwo-lKEnG9lxZ_ySiw6UjjZa9OqU1voRSGM0eRV8odiL_VRyLuGlHdYKwuMPIemuIGDIchKaC2NnCH5wxyDz-wlLeo4BEZRUIgbG1kSPKRxxtEcHOBXpKz5I2B3i7HtbW5pvKMirK9lR0h7D2cfHkqvqfF5TN4ueQoM2EIP2oFvMJ_L28RQsTxhRYcGT1syQ1aJBFSbawBebKw-bsZ3_WtEHe52rUBIerDvzxHgyGKc7_-CNF11Y5s_eJWb7sk58CPETq8c56_LGNNYVklrVgaVrH8efbodp7qeiLT9WIjQ7hZhXzYb6qr5z1ATtS8gcWd9Vgi5XVqpZ6jPveZm2kJamRJfYIJcOSGTeTQoglV2gV7nk1DX3V8ggIKFnVpP-C4U2g",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJJVQyld3tFZYRdgvoy_2sHNM",
+    "plus_code": {
+      "compound_code": "5PVX+9J Valdivia, Chile",
+      "global_code": "47G85PVX+9J"
+    },
+    "rating": 4.6,
+    "reference": "ChIJJVQyld3tFZYRdgvoy_2sHNM",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "Isla Teja, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8319191,
+        "lng": -73.2446037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8306363197085,
+          "lng": -73.24317101970848
+        },
+        "southwest": {
+          "lat": -39.8333342802915,
+          "lng": -73.2458689802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Biblioteca Facultad de Ciencias de la Ingeniería, Campus Miraflores, UACh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2442,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112864865874707258541\">Roberto Freraut</a>"
+        ],
+        "photo_reference": "AeeoHcK-c5sEhtwARkdAFHRtynuGrU3HXfPuof8hKMVw5JDyalxQavOwt8X0BOplB8T0LYso1EObE8Vy6P7gY2eUQPB0mkYD-LYJ5gBeyIFzx9RY97mOSmbDTx2JajWq63RJW8yfZfL_gsuvrK25o6kPj0Lf5TIVfjSsH8bE0VgIWZozf49HLNSg_HeOC87TUNBnx1dacFE0-QvJPDhNw82WeVpTNRMuIp_CryXoFuqPbE-XO-VcZ7K9yIG5-NdOt6j1h0dk2cY7K2YPNVh7-XQ8KgfP1nz5mRT_-4_gUxk1yJuVgEPg04moMyH6QxG7pSqkTmpZdcFslxmkRit--sTE8oBt5rc0_lktZeIvPY2t71avDLxFK-LrF8c8krGSUWjToqx_cvQHvyKlNtBNYsEG44bGTUGA7eLsFP1xrwdrThXnVbQGkhOKiLz7ircwp2Cl_qo-tuq3FTj-JiJjR5i_W_SO34JbX-524Rk3yoBZ_e9AomfhEgaxI3XLPeVVttwQq38wXx_VUqvRKODCVynKTEZW8d7T6mFX8jiidz16HH3AXnuF6ajQU2hpp7nqkhZD4tNH_TfQTwWxm55RNnXw0fwvLsL6hCFtmk_FeJ50ifwvUzQxuxWk9pQ0CHkTBouhP-d0vthx",
+        "width": 2442
+      }
+    ],
+    "place_id": "ChIJo97CPxXuFZYRecAz45T9LXg",
+    "plus_code": {
+      "compound_code": "5Q94+65 Miraflores, Valdivia, Chile",
+      "global_code": "47G85Q94+65"
+    },
+    "rating": 4.8,
+    "reference": "ChIJo97CPxXuFZYRecAz45T9LXg",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "General Lagos N° 2086, Campus, Miraflores, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8175053,
+        "lng": -73.23250929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8163243697085,
+          "lng": -73.2313333197085
+        },
+        "southwest": {
+          "lat": -39.8190223302915,
+          "lng": -73.2340312802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela México",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 928,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcIERflRDBJ0Un0z7wY4-lO_cevh2q64KtT7KnBsA5zLIwMmQaIB8FUwoNJe6wMxsMw_iSsDlMCJ-ixIclFomT8zKrChtCWMX-G6t6t47oUpSBnLITYlMfAW8Q6fqKdZnfevx3Dqc4Js18yA85QiOMYTjgUWCRJCg3ymVTvc-8Y2wuSe3K463gSFw4ce1ueIgNEg5JsaFYI0rf604O0oc6KlJod3n1r4bS7zrtGtiaL5YCTPzOeMxVmxue6WbY5b5j4pr4M-LHbOD3m1xrsRnq_X9LA3AZcM_NVMvtfQhjjpi3G2pmSwAqIAKY-yUnhAtAjIYnVZ-MCteu9cRcK5iubi7brV3qtiMPtvKc0SmjluoeS2HYooHUncb6yzMUN1KEs50x3MOG7aa9bQeFA0theH6zwvLdpM0B_UDzKDLaGGfA_NlFneSi0UiMm95BcSLIuLumEAw8J02X26_wcviSTpYbNKQfwLpgFrkG6LDhExvMeDPx8Jafbl7BaxEICyYayH1gEYeQd2cHklpg570gxUcueYcpeO31tX00N76zOaNeNHB0fllBO2cwcreILAFNJbobSADw0Tv26-qXrdY7YqIH_UZ_IGih_KXWHMOU6CZfJmIGMVtuk7UQvHJMTyCdTKeg",
+        "width": 1488
+      }
+    ],
+    "place_id": "ChIJ49OBUHzuFZYR0MRRCti11oQ",
+    "plus_code": {
+      "compound_code": "5QJ8+XX Valdivia, Chile",
+      "global_code": "47G85QJ8+XX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ49OBUHzuFZYR0MRRCti11oQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "Avenida Ramón Picarte 1212, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8296559,
+        "lng": -73.2205572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.82826336970849,
+          "lng": -73.2191498197085
+        },
+        "southwest": {
+          "lat": -39.83096133029149,
+          "lng": -73.22184778029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Technical School Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcKbDdNM2EmJ7zvT6_WXjsunYj5A1gBVAMQ0jJeqWt1nzzO7-yLR3x19PJ1lyQQSfnqnCTTiIHhfGBDcB4s1WvC7sPUybkM9CIrTDZolcMfN0s2v3rIcfHsh7Cg671mhBUL3V7udzl6JmSbULPu93zTeXofM4Lmxb17X_PxWdPdqSd9dimomkFb_nfvTGgbn3j0dtd_pIvARvN-avN7GYL5tsdw2G7kbV2o_nOWmjGaiKsqVvb23sB8_2_zoIkkah7I4w4p6Z3JfaAg_-pSvK2bvhv5HuVoiyDMi7RPY0XtFmDhBZdRNZ_jVIF0xXwYp9se0BB6MJhvZ8-sf0eb3GuV4wIXq__IAfu43Z5KAqReQLRofkEUI42ard5vBU67JXHsGRZEqd9bDB7DDDI31lxfj9ex7lMf7BPSwaZfF7oIblwAK5Dkt97_y7kG_krcLFOEOK51jfSNRh8MCoYQxh6DJKD4sc64Dtb059WZ8TgbrHo1rQqz5fPQH-1876MBr9u6NJC6ZLANjcXVlOpXbnDjHqcG5in1jDb1i7MRSJZwBttoK7zOApGkiiOQcvoVhWTyMQQZn_0EAVp__sMz0HLf2vOEkVniW6Hv25ze5Xaj-o4A6QMZb6qVKfOXVJuLcAbdWqQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJze-cLvPuFZYR0eemB7qNb-o",
+    "plus_code": {
+      "compound_code": "5QCH+4Q Valdivia, Chile",
+      "global_code": "47G85QCH+4Q"
+    },
+    "rating": 4.1,
+    "reference": "ChIJze-cLvPuFZYR0eemB7qNb-o",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "Avenida Ramón Picarte 2305, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8171379,
+        "lng": -73.23375770000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8158522697085,
+          "lng": -73.23246581970851
+        },
+        "southwest": {
+          "lat": -39.8185502302915,
+          "lng": -73.23516378029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Colegio María Auxiliadora",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcIz3h2RWe-q5Bu0Uv81kslx4fk8t4WLxgNrpVyMF23F2t3dyP91_3NrLhRtYLyngg7LLKhfFp60vmyJezasZ_Tho7H9vZnQMrqmzmSF9pUxiKpTFnJXOX3MPPTUMQXC3Vx4MmMi-WJe9EbOfzWjhzEj1BteBa-WgfIEEr3UawqoGT1Ag8xnmfibDseiVrbiAHWSU7X4U441GtGTWTlDodOKsz_JRGmb1sfvKGJkl5eIRUIsUiW5puilKfXmWhbXqFAv7tCuKSAioso6GkZkkZJFRS8NNpwrDQXcVjZEM5TDPDVq-5h7Yu3vp1lNBPPUsCxkn-7oG_B-z4jtCbvs2OowwtRf_W9tSvp01mt2cf18vRc3xhQMqdurap3L4oyhe1lvr9WrrDpxv64gdRMnrOGuq3ZHGEDYpYOiviptDyhVdfMsUp4ijJC64tClMbiciHs1neknB2ezMcy37ukWriV6U6An86HssPL4nqqw2HK_5kSulMl08YH6_Kd_8LjA47Vgdh60oqUZFVQfI3hZfbiqQAS76X_I5ftoObAuvCuKJrz2Nts7Lc8_EdMLHmBZ32k_IvRB-54HanzNaQLlkvhSv8nmVNBqWeFCkOdlmeLta8TQ8DCoqlGNl-xi7xpcupknxQ",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJo91iDnzuFZYRWdfVYdpz9pQ",
+    "plus_code": {
+      "compound_code": "5QM8+4F Valdivia, Chile",
+      "global_code": "47G85QM8+4F"
+    },
+    "rating": 3.7,
+    "reference": "ChIJo91iDnzuFZYRWdfVYdpz9pQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "Avenida Ramón Picarte 1092, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.80364079999999,
+        "lng": -73.21844759999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8022820697085,
+          "lng": -73.2170981197085
+        },
+        "southwest": {
+          "lat": -39.8049800302915,
+          "lng": -73.2197960802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Masters College Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106923429983076849145\">Luis Saez</a>"
+        ],
+        "photo_reference": "AeeoHcK9psVOifVXfds2fXXiObiwgN2WEeRr1bA4lyGfKyO9OEGVU7A3qq3OtYaocuwNo5fmGNqW8APPclm8Z-Moy1E60Rnm0ykABcNF1sqLR9kvOnV9l4ItQHdqHgvvSX6sGxXw0dMufQdLwyCphzYhOebgWjill2shhKrhqKsQ4ALPdZmULy4lc0Z-9punLGbufLzZsKFyP4CQ3-8LEr8p0boTdPfg9DpOU-g9BdEMGQjgwfa7Bg-RNBjwczoMnulmOzCZ9ynX_Q_RT6AVL9HfITpRotcfqmM662DSeXF9ptZzVjZRLtauLaE46uLumwQ96c1jsWIvI-6FQkXp7P3cLSFm8MIXUnfUnWRFTlNw0l3AVEjxJTsHaPWOWnXMhlQPaLza0uhSolQ50X7xjGdIloJrBCpy-ECpHdqxNLdMsQhrzxEKz3WCvuxJXtsKkG36HarfOMifuQCoseFPFOhZ7Ot5gqqJqW1Q2SSebSZuSAZy9Gp-shqSJzllMO4Ap4Ajo-5obBjnkvg9qBqYB_5p5x48dn9PU4wfR90mOYJGNhUvLsCqZdJuIlxoIBjNm-EnMdvldifRYj5MTJVr0YEUPKmuGNYeSjY_6TGdXzVCFWpzBL0W9c38OM38j-nWhOHfN9Aqi_BV",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJPwGerijsFZYR_NE6g3cV4tg",
+    "plus_code": {
+      "compound_code": "5QWJ+GJ Valdivia, Chile",
+      "global_code": "47G85QWJ+GJ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJPwGerijsFZYR_NE6g3cV4tg",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "19 de Junio 401, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.812754,
+        "lng": -73.24008859999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8114817697085,
+          "lng": -73.23877646970848
+        },
+        "southwest": {
+          "lat": -39.8141797302915,
+          "lng": -73.24147443029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Wall Street English",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108296300836406575691\">Jose Carreño Guzman</a>"
+        ],
+        "photo_reference": "AeeoHcL11ZXVsvB45rCk4q08P9yG8w9eSJ8f-N0S4mo86DS4l5Z3HQM3CjjEclXLfC-9LjSrcSB4rm8309Oq4zo7XI9-0BXLCmsMoC6JLkrHTtvv2PTPK8_3LojjjggLmH9KuqHR7jf-CJtyi9VhMQr2xaAeyhuYz7uWhPKfNzb5WYqTUhTZ3umrqoVuvXF7KLr0u4TTX5R3g0xOWHeS-7-iCPymclP0pN8fMfwpoUTWKqo2YXs7ineK2AH3-dobD9PGdLrDeTqjFCVwXhsgntqTzX8OGJofLl2y3BjroZ0xPHG39bLBSwmywsT4o8j41MP0pafyRrDiGj2IdinSw5IZC14VVy3oaLwKNJJCc4CQRDjtLNHKC-KL8a7FvqPLaZhEGXSnhVkueUz6uQ59_PlmUo84uZ5y6KbU3FdVFGBiiyK83IKQghaxvumlXWq1uGgpJvTvvt7Y7Hx53lvW1dls6qTXZ-PO-nQOFopRorwb51K2-tI9QcD4aaXMuUF973NMoIBtl7cmf-WO3XOXHqhpTOEBAWolAbUCnEVff3P6jCLRyOTtdlEKI4Wp7eXRitHGHbflEIagmzXyghtMGYCUP1U1uKlU_gvOyZSq7HPopWbpUz6o5whJGuzmkN1YkAoZIgkjV1hk",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJe5mvOXjuFZYRx-uAHWAjgVQ",
+    "plus_code": {
+      "compound_code": "5QP5+VX Valdivia, Chile",
+      "global_code": "47G85QP5+VX"
+    },
+    "rating": 5,
+    "reference": "ChIJe5mvOXjuFZYRx-uAHWAjgVQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Avenida Alemania 640, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.812065,
+        "lng": -73.25325250000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8107637697085,
+          "lng": -73.2517016197085
+        },
+        "southwest": {
+          "lat": -39.8134617302915,
+          "lng": -73.25439958029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Instituto Alemán Carlos Anwandter",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110059003304785921608\">Carlos Ruiz Badilla</a>"
+        ],
+        "photo_reference": "AeeoHcKAQLmXM2oLiH4pzu04gy4V0lZenqR36p3Zr1OApEgKSPcMXgHXKEbTGuehmOJTRZ9ylR3Z3za9uKla3zftyE8HPpxL7ND-kR6frmOjFajL6xYnp6zHzLUs2Jz_xdz9gyimUTkIJVtu-vYg1w9FSlVdsjU5FvifHJf_hl5MvKheGLzhr6krNxY3rZnZpRpnElhLkQbfNuzDjSl-LVShb4BZmyZyaBuLapos5T5kK4_0DyXaCOe94w2yzmwuTmz3KD9UfcyYkHY6HEk84QSCzDhwRQjR-wuEF9bjyXDub2-grx0-Th-dhZ-JhvijhGzQIvOgXNznChfc3f-X2jOUihBhIP4ko6MkFsIkehuYGLJPFFo2UuP3-EQGd3fqYcNQ3F9isBMFoeW6X2Z573yyz_oCC1ISZXmc57kJLqjXShbK5jiU8PvBVICI8VlGKWnFyx0-SQtGOUXfg3pex0TitfU72D5TG__TiN7znA0jcEDUe3PeK73qCmUPo0lmA1UI8AkYA-IQLCDMVzlG9TzqqjaN9qHHVCCM0_VOlopFMo_LtaO9lyP-e73rmxYIqjVbxT71h5TcAa1UlGzh6grij5l5qg9TKJQgf0xTJlDr1bcxqBiSKHfenBQ3pELjGrjBsLmSbTUn",
+        "width": 3872
+      }
+    ],
+    "place_id": "ChIJJTgkN97tFZYRguqjCGannU4",
+    "plus_code": {
+      "compound_code": "5PQW+5M Valdivia, Chile",
+      "global_code": "47G85PQW+5M"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJTgkN97tFZYRguqjCGannU4",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "Los Laureles 050, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8223169,
+        "lng": -73.2468264
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8209473197085,
+          "lng": -73.2454171197085
+        },
+        "southwest": {
+          "lat": -39.8236452802915,
+          "lng": -73.24811508029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GIMNASIO PHYSICAL PADDLE & GYM",
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108247270707527154743\">GIMNASIO PHYSICAL PADDLE &amp; GYM</a>"
+        ],
+        "photo_reference": "AeeoHcK2JFNrrtXbssETOvguekaeqnV57oZn420Fx3LlTcfJey8zAm7iu4vFTNMWQ2LyOtW0zoTamyC1vhq3BMw3bleVt0bJ9wWJeQpm26fNWgCwsg-lyaZt80aL8btM8fg0D2dSQ_7TG1buvVQj6DmQHguv7m_EaFmUOuO4DFEAAKMIngTUjCcudRtR4Tqo20RB3CfGToBCP9RCHU9YPtmGxtWOa-vWQVLzn0hz31DKk8k07Cl6Rx5WWlStf-5geoQvdILbZLQ-A59vCZcJU3ecyO86bIdy9ERypNdm1CSYb2h-mfzelq7RpndsizmhFR9SRQhH4wtg2H4",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJpwIB-HHuFZYR0ptl9wcG-Hs",
+    "plus_code": {
+      "compound_code": "5QH3+37 Valdivia, Chile",
+      "global_code": "47G85QH3+37"
+    },
+    "rating": 4.7,
+    "reference": "ChIJpwIB-HHuFZYR0ptl9wcG-Hs",
+    "scope": "GOOGLE",
+    "types": [
+      "gym",
+      "school",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "Sotomayor 1175, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8246625,
+        "lng": -73.2482509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8232429697085,
+          "lng": -73.2468796197085
+        },
+        "southwest": {
+          "lat": -39.8259409302915,
+          "lng": -73.2495775802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Prince of Asturias College",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJn8I90G3uFZYR8je5gweUAGQ",
+    "plus_code": {
+      "compound_code": "5QG2+4M Valdivia, Chile",
+      "global_code": "47G85QG2+4M"
+    },
+    "rating": 4.6,
+    "reference": "ChIJn8I90G3uFZYR8je5gweUAGQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Guillermo Frick 243, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8260339,
+        "lng": -73.24625189999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8247419197085,
+          "lng": -73.24491906970849
+        },
+        "southwest": {
+          "lat": -39.8274398802915,
+          "lng": -73.2476170302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "INSAT Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcKL_QUMhioAlX1mzHCRnzvSnviRMI9lkxXvdhSREQt2IvBXSH61UcunkyYCTR5lJVnxuwapTHjHNXnGULGNBQJk1XcNRuDPkuz4RzFyK5L0khcMIGWvU3Ba9ydi5SX211MhWWGX0u_p5bY8SDUAyPhEF_AZ2ph_EokEcbzCIvjrF0crKUDugCGKfe4vLUGIsCYe91NbTJ6d-2nZYpX7LIdnwCYTGrRR2C8cYPGnmYtcc_FpkKqVJzJscx-46V-ZrSJe3SD5mjViJ0eL75vlC5aymVMsdqVIYWEPCbXT9Wh9X8CUP-CS3eOBNdiEWqkc4ZP4VJ1_9PPdEunx0uX7d3GI4W3IZ0dWc0GtN5XkQPOmaHe7rorJGOrftnocYHhYD9zvdABStmH6d7hizNjKTrsQfWOcPAKVO3eZBI1iFvxa5MHancMMijpttcz614gCy9u1rJdrpyTWq4q9X0cNj5YDzVICSirEaMQ7b4J4p7f9QkPmEVuPc_qmkwyJ1H_85EI0lHJxokF8bqaTObJqU2X-k_RHjmtazIuFBI3PcGM6zmnSKtbT6lM3b0c2VHLZMhdUl5fq2VQvxiCuKDkE6lGzcLS5oBTl7TL9UMMjhRkNOTS7KLt_7heIdzamOL01557Msg",
+        "width": 6016
+      }
+    ],
+    "place_id": "ChIJRxStm27uFZYRY5HornOxCVE",
+    "plus_code": {
+      "compound_code": "5QF3+HF Valdivia, Chile",
+      "global_code": "47G85QF3+HF"
+    },
+    "rating": 4.5,
+    "reference": "ChIJRxStm27uFZYRY5HornOxCVE",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Domeyko 398, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8286073,
+        "lng": -73.24649389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8272122697085,
+          "lng": -73.2451266197085
+        },
+        "southwest": {
+          "lat": -39.8299102302915,
+          "lng": -73.2478245802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Colegio Domus-Mater",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 382,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114861488143378367961\">Colegio Domus-Mater</a>"
+        ],
+        "photo_reference": "AeeoHcLPX2ygHS7hycfJL_IHudPNjPsOxZq8FoNBQoGkx1bTZp7YHp1dOwqwuZ-xpX-IZPn8KCJe9Y0MBoV2DYtQPRJq7vPLXdbaXWjTmlAaUmwAkOhSB59kbN4qFO3DyJRJOd4a13onI3oW_qEOTOXN-KlXtbNAodZ4aj6PT2YVi0KvwXcUw0g8exFaUdDsjnydOc0vm28oOJoUERcQmHQJa44jf4MYUL39yi1J6nu43TOj4rWTKkHTN2mdVuGq63V3eNwv31pied-jih6d9DctRYGSkCvtCDThCTpEe8p0JQvKMuoSat-9qzNvH8VoRiOl9ZQnQee7",
+        "width": 1273
+      }
+    ],
+    "place_id": "ChIJFxyNXGnuFZYRCnsqkY7sCyg",
+    "plus_code": {
+      "compound_code": "5QC3+HC Valdivia, Chile",
+      "global_code": "47G85QC3+HC"
+    },
+    "rating": 3,
+    "reference": "ChIJFxyNXGnuFZYRCnsqkY7sCyg",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "Coronel Santiago Bueras 401, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8302187,
+        "lng": -73.2418047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8288419197085,
+          "lng": -73.24057956970849
+        },
+        "southwest": {
+          "lat": -39.8315398802915,
+          "lng": -73.2432775302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Dental Clinic UACh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJix0ncGjuFZYR9gpP5OtdHgw",
+    "plus_code": {
+      "compound_code": "5Q95+W7 Valdivia, Chile",
+      "global_code": "47G85Q95+W7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJix0ncGjuFZYR9gpP5OtdHgw",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Rudloff 1640, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8306871,
+        "lng": -73.24205640000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8293115197085,
+          "lng": -73.2408085697085
+        },
+        "southwest": {
+          "lat": -39.8320094802915,
+          "lng": -73.24350653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela de Kinesiología, Universidad Austral de Chile",
+    "place_id": "ChIJ77bjbGjuFZYRBa6gc0xuVS0",
+    "plus_code": {
+      "compound_code": "5Q95+P5 Valdivia, Chile",
+      "global_code": "47G85Q95+P5"
+    },
+    "rating": 5,
+    "reference": "ChIJ77bjbGjuFZYRBa6gc0xuVS0",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Rudloff 1650, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83330309999999,
+        "lng": -73.2415501
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.83192061970851,
+          "lng": -73.2401025697085
+        },
+        "southwest": {
+          "lat": -39.8346185802915,
+          "lng": -73.2428005302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Colegio Windsor School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcIiPH_tUBKL_wiBjcNate5tAtHcu-JVuPWqiFmyNIXUGqr3gtni4XzpRA6LmnEY2nbrEMfxOpDP8t4cjPilkskUFxwS9qPDorDhCbO5ExrEg1WqdWttRXjAZjsTvQe8Zrb667iy_4aG3_wVCwsSPYg3A2phxKOxYJHiaYhpQWlhd2yysYxoR34GWGC23ByW1EXywkz7XZMHCr9sGqoLXlS-jx9HANbg2kKQ5PiMwnOUBwMlwi8pI9wif9GFqN_pM1DGnWrqT-TpaiG5q9io74WPFxeSWU1leBz5NbI_nGA5tJZJaqgWCtorx_5tm_MqrzdqE2wGN_pp_fmHvIiNeheLMYcoC2lZnPK_YcK1m1MvpLLbQhK_VbsJGqnKFG57UhFK31zBOKOn7weW_JWfrW5E-KgE1ofjYHxj5yypUohXnMO9F0_e2lWwJWtaqac7uRd8XmCE47IDlod8CecWxpXeUE9yQUUFarzI0SYlc0YJRE58fe5DY1v00n1HRdUwq6ldNykGcTwP7uIYiI6Mv52_dChkp-B7_nomuz3NMtMiX7UgoYTdYCHQjqrEpkpEkcyk1ya6-L9ka3iBJ8tl9qiww1LY_7qE7ZlI9HJwv6UJTdKkMQaR5H9cu9cIX7TFuxavtA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ_bE4ykLuFZYRgvJQNTQC0nc",
+    "plus_code": {
+      "compound_code": "5Q85+M9 Valdivia, Chile",
+      "global_code": "47G85Q85+M9"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ_bE4ykLuFZYRgvJQNTQC0nc",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "Avenida Francia 1695, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8337204,
+        "lng": -73.2370704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.83228901970849,
+          "lng": -73.2357317197085
+        },
+        "southwest": {
+          "lat": -39.83498698029149,
+          "lng": -73.2384296802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela Walter Schmidt",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100171200425996103245\">Benjasmin Boroga Carrasco</a>"
+        ],
+        "photo_reference": "AeeoHcIwWqy1aE9fF4A8s93x-E_uY_nIkPt5V6P8TioewRz9Hyh4cFe_xTDIOAB7VOfKcHokucb-ViMaTh9Dc-KvIKpM2bE4cx5piMbs5wobrltnxjMQ3peqjdv-Baq9IQCyGSJXW8bKMgcGfArVaCK_tdYP6ABqnYrrzB3GwdfS-96B6P7bcDly_8aIrm_Da0MilLSo9xw1HU9BUqCzxAtSg0browt8bStZOPCpab9PiH2_UeuertOpeQP8DYzCY2Qsf_tWbNoIqWqYkkVt7-_yZxFLjfp1tPGPsWzRo-sYtoy61LmXxUfiHOpwc9tLE5bYOLYpdYgE2Sw8lIkOoFPTmRnUlMLCPztFh8ezwssekxW4q406loMw5m-Rdi1srIAzOOfO2LOO-xfERy6w7qbyxxhzSGgOKuEULSkNy7eMm8wIm1IDWFuR0TIPhMEHmI7NRM4LCdgKLLaj7DQhCRO5eFGt0BLt_rWm7fwvFA_J5paLPtW86GKcGoV2mL6ZSE3NQp0vtpCS6_a2l8avr6mHrD5zRJZ0x9R-fxU_0XzjR-qPfhuAD8AdjxHiw5xmDkBq-rdGpD0h-pFRvVVyEmp5ShGMatnHvkgSn1YPeahW_WXIIg3SbEiND-lFvzs0vJRFtcLl-OQy",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJ08--nV_uFZYRkI2YHgCXjYU",
+    "plus_code": {
+      "compound_code": "5Q87+G5 Valdivia, Chile",
+      "global_code": "47G85Q87+G5"
+    },
+    "rating": 5,
+    "reference": "ChIJ08--nV_uFZYRkI2YHgCXjYU",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "José María Muñoz Hermosilla, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8358487,
+        "lng": -73.2567458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8344482697085,
+          "lng": -73.2554748197085
+        },
+        "southwest": {
+          "lat": -39.8371462302915,
+          "lng": -73.2581727802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Colegio San Lucas de Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100897787483431459968\">Colegio San Lucas de Valdivia</a>"
+        ],
+        "photo_reference": "AeeoHcKRboWycCzkPqp47Wn_lzMfpSssNGZ8527DR7MXEPH5SZ18Y98oTlQZcuZ22m8eo5WM-_-vZzZveIAy_3ZHIyUnhsaESR2AkPvwFtzJ6hlYcnWsUAT44bLmB4LjuUbzbDV_KS3kFmnPeOYqaIFg7YjsZANH7DvfgR-CJtChWmKOo0p86yJ0wzxZGAAY8m1q69GWC58fARMJM3YewoHofdfhFj6TnQ5NedUDzurf2G5wnTtnLFYVcXsydesOMtr-MmA0TRsgfEC5EI8Qe3sLiTAGZjxQ0anotaJUDtLQrF_YPxTQc8Hr6aoMLsWyM-prb970mRWNZps",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJkzlvjj7uFZYRA7ia3bA5m2I",
+    "plus_code": {
+      "compound_code": "5P7V+M8 Valdivia, Chile",
+      "global_code": "47G85P7V+M8"
+    },
+    "rating": 3.1,
+    "reference": "ChIJkzlvjj7uFZYRA7ia3bA5m2I",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Arica 2474, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8310924,
+        "lng": -73.2227158
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8297617197085,
+          "lng": -73.2213528697085
+        },
+        "southwest": {
+          "lat": -39.8324596802915,
+          "lng": -73.2240508302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela Particular Adventista Valdivia.",
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcLyjn0G0688k11nQ3beBKExK_z8evZ6fpoQBmDVXeTQUvApmDIMaF5dJqC3J9nXwahledAwfA10BpbBXRsGOxH_CmN926kCXOePhrXQ5DOwDWLAnBREiG4KNgDTA3eeJqFidGFxBxeUNK8mesPSxgDPpP2cIlJsmpSS2GGh0wFYKpDv4u8Zh40c1q3S22DDuLGsEpl8raO2N6Wg5LnUBBgbjZ6QtVjWPWmiCyRDnz2-vGxhjNfYNoo2qhvRR68zWp2JvfEwd2qswnvZl73UWIJP2VPsvqIQbEEebg7ctkk2_-ciRjmk7PDJcr816QzVBaWvEQFh35J8rZy2r_7hzEzzTCbqo-rMlIq3uXFqtOMG53vfsytfdgCE-ns-K0OJtKU4VgjNMkqOYOugIQjhtTq2I4jy2_zJwUBluWCA4hn_OadBFB2e45FqC6Mvq-L3LM5SAX-v6S15aWGfwT3WVuI7huAYgDIjndIBQLaqaMcrffvxBw2sE7g1LxOmQ1vywdtt-Qpp-eKGfsLhUS2awgZFWrR0N_ETXNX_P6Hgf1zlzB5xThG58O1dxyM_40stCvHlwo9dOOKi4CI7no3JCLWf5SZPRZSfXPJ2EFs44mHrVI4CykdChMUoQcZUHdqj7QS_lQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJa8KPGu7uFZYR4VQp0HpP_10",
+    "plus_code": {
+      "compound_code": "5Q9G+HW Valdivia, Chile",
+      "global_code": "47G85Q9G+HW"
+    },
+    "rating": 4.3,
+    "reference": "ChIJa8KPGu7uFZYR4VQp0HpP_10",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "Calle, Errázuriz, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83187,
+        "lng": -73.22076
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8305099197085,
+          "lng": -73.2192490197085
+        },
+        "southwest": {
+          "lat": -39.8332078802915,
+          "lng": -73.2219469802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Liceo Industrial Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcI7leDaAg4NUqD-iGtcCVzMALcsSeNek63jPo4sxw-8cdqXvBlMLZ0n6wkXLPdC__2Agxw27sQYOPDdiJt5Z7OggNfHV3by81sMAOuSSN-AdltIGuhXe8KEvcJiJ8iolPC1qhVg6fsdYxQA4qn8BqH0kSo7PVn6RfT1RzM-Lwfwd4_wAG23SR0TNYHCMP47dVVFLrQ2jJWBE451hjuYcZlB4Gn5_07EZ8dy24YzXFmcZJyG9Hvh3RT67RWSLZ5iBSQhVnVkIx8wkLZrmtwT-T-Q26k6awhm5NxPak4kroLwY90JzgXAyJwn3HgOx74lqowIE8ubZfKJVwEgTaKbPc6BCDH2ORAIgKh2wz6n2CgPQiasjbUw4BxOsyH9YftfP9VhT--Hd3tj1b3TDk2_92s7V1CCqgsKQbIFq-yb2GELytm1-1VYFPtiT9rKLOIKj9pcC59SiMD2qxMFDPH1mBGaqb7KZnWcfvBdX1HjCa19fej6tMBhZP5qycpVn44rqHkgrxqgCXkVKx-HVxIDTu1feDTtDP-vgE14cZdcpi94jtYFSvP4z0FdhcbYY5siOC3sGilidMH97x_sxsslMtdiNVZyy2BhqeVWyXVZsmZ4NRIiVaJZMRzupN7sedH9thds7A",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJB6pGrPPuFZYRNBSbbEFv2pM",
+    "plus_code": {
+      "compound_code": "5Q9H+7M Valdivia, Chile",
+      "global_code": "47G85Q9H+7M"
+    },
+    "rating": 4.5,
+    "reference": "ChIJB6pGrPPuFZYRNBSbbEFv2pM",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "René Schneider 188, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8443169,
+        "lng": -73.24810149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.84295731970851,
+          "lng": -73.2467404197085
+        },
+        "southwest": {
+          "lat": -39.8456552802915,
+          "lng": -73.24943838029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Jardín Infantil y Sala Cuna Caracola",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109044542254469621464\">Carolina Recabal</a>"
+        ],
+        "photo_reference": "AeeoHcKrVSVkmxXnsdrbgYFJGqmIxOIRNzOi43GKtF9NoioppB3MIblXAo9idWcXJZjagFtBogc-hZTSjfCkM78evshkG895F9IKKhpfWgESfMElGdd0tsmU1o1jFy4Iz9IU0tyOVOCKWGH1MQViaw5cKM8i6yQfCC48Wo0BuK1Es7Y-bBV-AQFyxbkkq78bj73PVZNk4HmOLFcCI7uGdWx7rm1K0XR1H1C-1n2uCtICqR4xMuFkT1dtU6LxodgVW2oTalPDt40NB7JTIFMyuEDKX_1ydn3LdqMjMJ_GfIBwSNDXh04FIeP9YCJ-OgLyg68NRoYYx62dQuTldRupbAUnaa2QrcD4LuQDP3GQccnQyALOiB_8lR8B9pkctSPcDz4vO33h7tVfKYiYYlY1IpKkZKYjTH-BWI9pq7w8oXHoeJQEvvCkLT_a9_VtgO4gz8VhoaFLBtNTceOWCJj2BRRpEQIfbCJ1W0ALzX34j_iWHrN_3omdDwB80m0ubuFgXPh-6dWAXBu6D_QRA3hbM_eKmSunQM-jc4BcUpO9u_rH_20bPP3XGCT8rDAVHRLlDRjchlkLP3Wahdd6OwSLnZtvrr9eg0I7CY2ooNLfhD7d2R5OWjNdKMqgiaG9Xf8f1C3G7hAmAw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJG-ps8kjuFZYR6WxIRaMxMRY",
+    "plus_code": {
+      "compound_code": "5Q42+7Q Valdivia, Chile",
+      "global_code": "47G85Q42+7Q"
+    },
+    "reference": "ChIJG-ps8kjuFZYR6WxIRaMxMRY",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Diputado Hernán Olave Verdugo 607, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.827087,
+        "lng": -73.20737249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8259265197085,
+          "lng": -73.20595841970848
+        },
+        "southwest": {
+          "lat": -39.8286244802915,
+          "lng": -73.2086563802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "School of Music Juan Sebastián Bach",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114622371126253799838\">Moisés Rojas</a>"
+        ],
+        "photo_reference": "AeeoHcKxMyOFtwQoaJKBuwirW-Y35gt8Zqyj93PMZXbZ_yB_D4vfXE2uAOBgwcEwgqqw4mxztTJiO40PjWIYb-DacWh9RXwZd5B8LS1hhZEvj4DTauHyt0iL6TEctol3C7wTB_UEjv54iQQfDcc2u1Q2IeoCQLa0ee6aGylyviQSinTe-Ua-5UZQ-0u0890CM2g5Tqmc9GxGfBCZzhWhwy6ZwZL-HPq7bhla0yhO-rFMlD-LtPbA3UbH1GYGq4dqlItKO33kISEK4Twzz2v9ue6-wQgzBVo5Rw1N5aqbC1zzc65hAYcsrCaCe23LS0c3WoxCUYOEooluhWpeo5kiNpy7dcQ789EzJa9ptrY1hS9MvKFAXyorEL1ExG0-Iel2jdcUN_SDOzL261nUQDsoI4GGpb16-FH0b-lFyA6pD0j2WWkevtdkZVOi-HYBD5897oPCQ5t9Ad0-tICOQC1xxia0QrgSm4utABKo3-9kbm1-jw4LIAMFPelqNq9de94-PnmlyZWmWcyKZI7XvjXVxW3XR8rNX8Y2cZTNZYIZwvOHotja2sUMp02uwz0gH_wD6Z6mlXSCPkcnhM1WjNIagsDRLYBbSP8RVBmvKYegNAi8BflLB86xW5OQr7sGBdlwccsOl-RNhw",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJFUlmHWLuFZYRzAbVTEk44iw",
+    "plus_code": {
+      "compound_code": "5QFV+53 Valdivia, Chile",
+      "global_code": "47G85QFV+53"
+    },
+    "rating": 4.4,
+    "reference": "ChIJFUlmHWLuFZYRzAbVTEk44iw",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "Avenida Clemente Holzapfel 950, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8332509,
+        "lng": -73.21148490000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8319051697085,
+          "lng": -73.2101075697085
+        },
+        "southwest": {
+          "lat": -39.8346031302915,
+          "lng": -73.21280553029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela Fernando Santivan",
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcLiWUwJbETuyP4Mk-xrhf5IFfdnMIyOACHiYKm7j9wCQ7vGYMeCR73XgwHyAccaLIWioLLbBkT0lPxNN6FzvTeSb9ZNi_UfLvEjEcCFkX2SLPB3llPMU1L-afvm9PFejilPmtdE3x7JPoC_aLuhQh4M7HehujdfaMTDbohevz8hQnPfa1KtNXT5e-aYE9NvW5OIYuuO3hBMRH9hindJPH_q15ltKoqduNHV2PAjK2rQvEzV0SElvPj3W0YSn9eW1qTA3SiVuDi_QSb5e922qAeL_UsKudfBmfEbtTyjb7tX11gLZpLL0irg53jG-0CiomaDbozWyBzv6HQYRPeA3XRF8B2I0Ogjdms_u6V3Dj6N9CIMm5lZEscxAFaFzrA-BvSzbY3SiQ_LnlXuz8oAGo91LB4jZ5J8lv9XeyLeYEa9-HS57Ux_127HP-d7zp30DQwR8SipzwRf3XoTQEaMT9919zD8eotuC2ycv6nzsSxmdpkN3lfkxLCJWSRRz50lQApRhqRJO_3I2UNzG6DsSfEaYTtDy3LTBqYHIvEj8X85-g9ft15xw3do4AcOtQKGNNPMjS-VGixkhF08ocOJTTa4-g_huKbRoVUm7C3EMFwK-dKzSx2nmMYZ6HIV1zDhN51row",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJzcDXU-nuFZYRE6P5EUs6RTM",
+    "plus_code": {
+      "compound_code": "5Q8Q+MC Valdivia, Chile",
+      "global_code": "47G85Q8Q+MC"
+    },
+    "rating": 2.8,
+    "reference": "ChIJzcDXU-nuFZYRE6P5EUs6RTM",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "Andres Bello 298, s/n, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8061639,
+        "lng": -73.2516591
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8046691697085,
+          "lng": -73.2502788697085
+        },
+        "southwest": {
+          "lat": -39.8073671302915,
+          "lng": -73.2529768302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Universidad Austral de Chile",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114739663538178219642\">Andres Labrin</a>"
+        ],
+        "photo_reference": "AeeoHcJqjHHhDQZLzxPe29AlSdQAShPf54I7CcnN_a1TiJKLXWZUrxTcqqyOPfM_MtWmZspwAkecJi5Tb9Xxe15ZIq5R5rcGsIVj-mNqa8DSE7KO9aC9uWHrvEQKHk8D0Na_-uY_cqk_cm_bnfvtW9JNs4TyYjZ6D_DWRM-Am2RkSwekKdwmVO7ynExElN7NLUczuDqFLz1Ytdxs03q5KEMlITvP-HYSw60RiR7lADEYACJEG6YoygZHEqI3T-H6YRzS0mci_lrdpVcWHP0iZ-WrPU9Yymqx7TepVor-of1zUrbi6_lEKe6uiMNzCEHkXpb3d6PQhI3evFJyb-y4uzsfT3zeBDNNbvcnniSY2r2dq-YI--QP6RSKy0k3Z7dLkLRamy3gZHXmn3E_oHo903gLIbiRy0oUZOaah5UZ6rSA4wtpMKhFg93YdBSE1iloD_HVbaFYQZpgCEu4BMvmUAPJPP4tOOkwuaLB7FG2wzfFKe418x9srEg0LE_54GpqoatPiYJ2Dn4pbT95NOMqdOgrFFs9-eWdSOtHSTdg1PEaO_rgyiaoY00i6GFsT6z1qNU6WxhByLYLwCIRfXTsiAOyPTV1IbMljiLD5u3ePHlSC7hDCzSwV0q1zriZUDUaA07YTl1xXA",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJJVQyld3tFZYRLducPnfGbsk",
+    "plus_code": {
+      "compound_code": "5PVX+G8 Valdivia, Chile",
+      "global_code": "47G85PVX+G8"
+    },
+    "rating": 4.7,
+    "reference": "ChIJJVQyld3tFZYRLducPnfGbsk",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 379,
+    "vicinity": "Independencia 631, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8215198,
+        "lng": -73.2499461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8201574697085,
+          "lng": -73.2484370697085
+        },
+        "southwest": {
+          "lat": -39.8228554302915,
+          "lng": -73.25113503029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "San Sebastián University",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114027309522958097836\">Universidad San Sebastián, Campus Valdivia</a>"
+        ],
+        "photo_reference": "AeeoHcKcQTM5LQa9u7XY7LZnRiwfUmPmBtnU88_N3e84l0vubZusSlw0hXDwRkYVVMx2zkuGhbxIazeNT2pcPwI2v7S2gB2imkjIzvfgss3h67U-leFZIgb0GpBX0q-MgIwTTK-fVirbpNQpSTP4V8LGb7sqbXHjQM5zvs3hBn6CSK2yasLz0bDw_2oo_QFJp3zrU4QVw0d7RIKIEr_GFnLTn5wKAJTdAU-GMGmXmpD_CkW46neQlu26G9Rv2_DOcIcp-KaQjbeVtzCJWlFC_NtDw5EpidT_3siXFNJoNvVR5rK4pAvilFJoJkyJLO8PAOVmObgmhkNvEIE",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJg6KXsnPuFZYR0IRph1G0mr8",
+    "plus_code": {
+      "compound_code": "5QH2+92 Valdivia, Chile",
+      "global_code": "47G85QH2+92"
+    },
+    "rating": 4.5,
+    "reference": "ChIJg6KXsnPuFZYR0IRph1G0mr8",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 118,
+    "vicinity": "General Lagos 1163, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81803650000001,
+        "lng": -73.247878
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8165545697085,
+          "lng": -73.24648756970849
+        },
+        "southwest": {
+          "lat": -39.8192525302915,
+          "lng": -73.2491855302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Campus Los Canelos Universidad Austral de Chile",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102644358660717307958\">Antonio Ruiz-Tagle</a>"
+        ],
+        "photo_reference": "AeeoHcI97jbMYkzNBRI_dZQX6EnEdrqpGuPvDO9VwA7YTVZinpveM5tK72Cf-MxVkvoroHbYaRKsOKoIRp6h0q1_YyoBB9WgPLn8oEiA3185qqD_oK6jHnVrKJ5pGWZJZBeE5f64JFM2uqwcTRGA5KEnY7M0lXIxHaKK-EbyzpcewBva954MS1dvSLIQA1YTFxpI_2YuztTz91tXcPhxhO5bAEhuoa8wNySo9oWEofoTNODkfoPDf0YvnGiaY_fcHigH7yreAnvqzL36BgombqHlv-GUfDOzrXxON4rn2PWNcVx-h345DoGI6lzQ3ydKco4iq0N2Feci28fDKRGDHloUGaBtIKlrEPqCT4om3ry3_nmfUwTMD2JLaSVaZ2kJ9mkVP86sv8699xjp13VuXouEozCSXCVdlgJHLSEYlD87FtGakkNVAPjqkkKndLIPmtDc6Nquajh8LDH6KKtnnJpxnZdwQzqdyc-zULZjaybOZRB1bY_RX9bkl5kTNAwmhocJqPG6dux_UZwre7DneoiX5lMtHDZMJ8c8xP6FC-wUjHooLTV7R4pcy7MHhuWDjOruSnaFJCycHHephRkjH3heWIcjsGZ1F3aPod1y-4dAwDy-y69rkXh_vPfvSIL_ayjEe8AGsA",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJGWWb8HnuFZYRKNn9xYPDyHo",
+    "plus_code": {
+      "compound_code": "5QJ2+QR Valdivia, Chile",
+      "global_code": "47G85QJ2+QR"
+    },
+    "rating": 4,
+    "reference": "ChIJGWWb8HnuFZYRKNn9xYPDyHo",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Yerbas Buenas 181, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.807139,
+        "lng": -73.2469859
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8058436697085,
+          "lng": -73.2455525697085
+        },
+        "southwest": {
+          "lat": -39.8085416302915,
+          "lng": -73.2482505302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Sub Unidad de Terapia Ocupacional UACh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHz5LU9ntFZYRkMM6OjnDI4o",
+    "plus_code": {
+      "compound_code": "5QV3+46 Valdivia, Chile",
+      "global_code": "47G85QV3+46"
+    },
+    "reference": "ChIJHz5LU9ntFZYRkMM6OjnDI4o",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.80652449999999,
+        "lng": -73.2495128
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8050646197085,
+          "lng": -73.2483203197085
+        },
+        "southwest": {
+          "lat": -39.8077625802915,
+          "lng": -73.25101828029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Facultad De Derecho, Universidad Austral De Chile",
+    "photos": [
+      {
+        "height": 682,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115710148763075392108\">elsa oliva sanchez</a>"
+        ],
+        "photo_reference": "AeeoHcKgitf9Jp4Blw913eY0o895KK984JggPGgzyi9xcpn5yZ29SSLloUvZL1MMob2-tlkylnl23rgviw7Y5NhZ7b5jF8UXUxpEyZZ5rGoeZv4hWqz0dx9ZkzPKZYObCAwU5l5PWqLH0OIu5N2w1XlvGS4VJwaKx2Mz2mTh19gn9CaHBq4-dFi7HoxARkwzSXWZP8I-mx93WDiqFwspCPKo3efbhaUlh1K4lWZUp83Pxp3fp_nmBj7f4J70AgNOm8WQaoul4N4RIueKumLO8SaUkyg5rMwxV3tfCLKwBLv-OkYIor8D11LLMBO6UFmJKJmZ7IMRqndT4vbN3AVsSVXkVt5mlpUQFf1WYDfLIznGebPqYXFxRaM1Xh2Tx-t7gFXIVaKL-jqCsQqZF15rVvjoB4dP9ibpsu1qYAMWHnVrvmwsC_E-m9hnNJtZHGykTiktIoaQn0-mb8kVv_PoUoDdJY5F008s4wep-V7OvtHOCWZ8Ams9CPgLRxEy36QuZT0p7HvWM093EuJiEvDc0GLnNzKlaMBMBurtZVlgNA3t-CWXTnhw0Oh92aiSUypJh7M7xvoBehRLlBwWwBnv99mGoTLTKz62ckzcLFwPCcL6KEli2zc0VORJlSfSIOtWjpljTfur3ZvY",
+        "width": 1033
+      }
+    ],
+    "place_id": "ChIJG6vuTtztFZYRYNpPCM4YSII",
+    "plus_code": {
+      "compound_code": "5QV2+95 Valdivia, Chile",
+      "global_code": "47G85QV2+95"
+    },
+    "rating": 4.4,
+    "reference": "ChIJG6vuTtztFZYRYNpPCM4YSII",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "Avenida Rector Eduardo Morales Miranda 23, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8063121,
+        "lng": -73.2516832
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8051203197085,
+          "lng": -73.2504523697085
+        },
+        "southwest": {
+          "lat": -39.8078182802915,
+          "lng": -73.2531503302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Dirección de Personal UACh",
+    "place_id": "ChIJN2nTnt3tFZYRlPpf5eHmIXQ",
+    "plus_code": {
+      "compound_code": "5PVX+F8 Valdivia, Chile",
+      "global_code": "47G85PVX+F8"
+    },
+    "rating": 5,
+    "reference": "ChIJN2nTnt3tFZYRlPpf5eHmIXQ",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8058064,
+        "lng": -73.2505413
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8045001197085,
+          "lng": -73.24954511970849
+        },
+        "southwest": {
+          "lat": -39.8071980802915,
+          "lng": -73.25224308029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela de Química y Farmacia",
+    "place_id": "ChIJu1d4B93tFZYRLbAfqgTxNnI",
+    "plus_code": {
+      "compound_code": "5PVX+MQ Valdivia, Chile",
+      "global_code": "47G85PVX+MQ"
+    },
+    "rating": 5,
+    "reference": "ChIJu1d4B93tFZYRLbAfqgTxNnI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.806288,
+        "lng": -73.25422689999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8050143697085,
+          "lng": -73.2529191197085
+        },
+        "southwest": {
+          "lat": -39.8077123302915,
+          "lng": -73.2556170802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Planta Piloto de Alimentos (Ex-CTL)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJpXNLnuftFZYRsKv79QlVX6c",
+    "plus_code": {
+      "compound_code": "5PVW+F8 Valdivia, Chile",
+      "global_code": "47G85PVW+F8"
+    },
+    "rating": 5,
+    "reference": "ChIJpXNLnuftFZYRsKv79QlVX6c",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8174169,
+        "lng": -73.2331328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8161533697085,
+          "lng": -73.2318652697085
+        },
+        "southwest": {
+          "lat": -39.81885133029149,
+          "lng": -73.23456323029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Universidad Santo Tomas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116979609651337006546\">Daniel Contreras</a>"
+        ],
+        "photo_reference": "AeeoHcKEdUmsdsB_1ekC_3YOECrL80C2U1r4IOh4PTmRqRV2juL7Eu-759yrj5i_pCA7FxwV3mG0YvJEjNgkRqGMVrRTNR_wEk8IJZ0V3FccA-nu2mcREI_8grCq2zkkKVkciWjXtKOGgQUjmofq_K-jYGW0tH2opsxh-410iMKwu7cQzOrW27ONm94JPu5-BrrffA7X09y6-Fu3Ux7YZLXYRBcQ6fXWyHTdgLJJLzGDdukwunmwfeXO7__oudeCQK0Q0eCW5S8vMT_zIIXhz8x4hRyKUSUt9yuIB2pSCQYzHf8Ug7qWByvX9A1BXjgihMaNBpqx7d89I6ibKl5zoPY-BW9PsVzbVixttMaq-gypMUB7Yb96Otf7aohx7WI2SR7qoKjuOtwPLC1sr7ShrE6Vg580HUFmxdICRWy_5JgwNO__lvZVQquKO2wbthgtV-nhNSbHIJXI0rFEiY8KjVWNYvS5u-GniEBk3SRs1lmW3fzdNk7SqWv58TLpuijWFz_ojr9i48CwW732btBZvC6U9D3dD-QpboARBvU0ToK1LgAxMGK4ARmy_3G3phxtLu1stVc6QJUxo3UBgU9xgCR0mGw9DCcbkzQQ4IfFyGSN0odwLWb3q6_TSkrqoQAaSEVB4q-7ig",
+        "width": 6048
+      }
+    ],
+    "place_id": "ChIJQXK_GyfvFZYR2Kk4F-2vLGc",
+    "plus_code": {
+      "compound_code": "5QM8+2P Valdivia, Chile",
+      "global_code": "47G85QM8+2P"
+    },
+    "rating": 4.3,
+    "reference": "ChIJQXK_GyfvFZYR2Kk4F-2vLGc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "Avenida Ramón Picarte 1160, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8046072,
+        "lng": -73.2538039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8032056197085,
+          "lng": -73.25262421970848
+        },
+        "southwest": {
+          "lat": -39.8059035802915,
+          "lng": -73.2553221802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Faculty of Agricultural Sciences",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101081362778054746233\">Eduardo Santis Torres</a>"
+        ],
+        "photo_reference": "AeeoHcKwcnl5YytX5UUhSmbd83i8QN6-yrJMqtqBFUjGEKrTe-AtfFQXBkKwt4s4hHy5AdjUM8Sg9aTx62PiN26lO1wLGCeJshJA2FbLAFsPtm8NFIk4-i4uejttCBet7CB90ZWEEXcSbfnDj--6gtUoNytm7QO0gfAXwJrTDkcJfzXyZgufAI1eWW3L3a2r6lmoS_3tfMnjClioqKYzPxDc69Z5rVfYyZMl9v32IoPzW9VFIggl4E6V2eN4DKjaxJLNfX7GJL4YhNGLRr9WdGlOgM_c69xT_UqiCgKgN7wogUNThUeDlCZFxmUnILS3x2UnQN56JJysJpCvHZONG5Ip2HQ8pX81ztOIG2K7mudYIGgHoMqOyV7j_op11NfpbcvUR4THii3jmahW8CBcqHwTrHwoPAS4daAAwr9KfMmmfLYeAfMAcZ6WCaD8isnDcvAtmJPsx9LSJcF3alaOQOwUwx44NhzT-H2laP1dI2QNuS3db-1qOPEv8X4zBy0naQXaq8IzQjYFVtZxN_8KwrUTjeoYlzrXBdW7JJNDdRGWDZGHuxoEQ_p0HOvBj36lxLn_U1oWyRQFoKVGK0YyQAfWmdbxGMthH3jth19w-Q6gbC3_XEKaRVQSUUDoKB9yWlr3N1PMmnZy",
+        "width": 4320
+      }
+    ],
+    "place_id": "ChIJDUx9veftFZYRHkCBUkyGRG8",
+    "plus_code": {
+      "compound_code": "5PWW+5F Valdivia, Chile",
+      "global_code": "47G85PWW+5F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJDUx9veftFZYRHkCBUkyGRG8",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Campus Isla Teja Uach, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.832716,
+        "lng": -73.2452173
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8313563197085,
+          "lng": -73.24388651970848
+        },
+        "southwest": {
+          "lat": -39.8340542802915,
+          "lng": -73.24658448029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Campus Miraflores UACH",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 758,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110440205424395378538\">Diana Carolina Hernández Figueredo</a>"
+        ],
+        "photo_reference": "AeeoHcLcZcQez9RRNg5eshEfaZ4_YhjQRv3pfngyPTavHU8gdY6v8tTjMXYNnhCXDKsAE8Wv42S1VIRYQa0hD70ZnmoB5N1zsV3ZN2XNH33WaGNfS5R1gqTTgr1A11IaU6faFZIqBTNu-i8hamvwts7b9g_R1Cm_a4wONl6iMSYFKm5lxzy03ALYJWeQzfEMfZE1DcJJ9OOHF4fYTQI7iVcl93n2RUdkaDlfM8Ssii84q8Lrhac0BP2EFguzXqkjIehuuP4AI0N1K1JReyYrDFrL5TGH69lq1TNsPvlpl_Kp81zAN0WDfyoNTDcmOQMWIB9P1Q6azhBfvFEbUfrt5_Jxcln_mSSG6_2alnZTOiPIdEjxW6g2yLn966bQURxO95GoEirLNfDeP2zMINYS4v8VOO5fcMoL4R-C-G0GZDf-pQrQSp605X0KdswCXGwx4FpsqqRikaVjpSJvJsIFjjd7yL83G4Ut9x5aVDoB2Mu8IR3oicJAmxTvUnTM62qBDrHV20q6m8APzngeoNB-xr6uZd3XaRNJ-Ujy1g_iOO8ZiTQe2dyfR_ZsUfJ83wf5YRRQvKoG2tYWQsIAZL6ylL6-rBlyqKmMjoY28RFJH4Avz6vWRm-U80R_fGcb3DPCs7orzDge9Q",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ0VR0IWjuFZYRqRvxeqrXgFM",
+    "plus_code": {
+      "compound_code": "5Q83+WW Valdivia, Chile",
+      "global_code": "47G85Q83+WW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ0VR0IWjuFZYRqRvxeqrXgFM",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "Rudloff 2130-2156, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83295620000001,
+        "lng": -73.2511895
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8316006197085,
+          "lng": -73.2499704697085
+        },
+        "southwest": {
+          "lat": -39.8342985802915,
+          "lng": -73.25266843029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Campus Miraflores, UACh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101003362904303331181\">Richard Leal</a>"
+        ],
+        "photo_reference": "AeeoHcKlKocKHHLc4THDD-vsAKWF8ugAysINU-P1YVwEFxL0CGcrLysXvcSL-umlvn2h68doRZMa_i04mK4yR7bk2lWA7TN4F1huCBHpdrA_e8q47Y9VGINoT2IHYLPF1H_W23mJEJd2pbQlN1lxsnPkfRAh8PUVhd-meDDhbQ5mZNIUf2M37F0zAkMbgqfsYowOoyolup-RTuDx4g8sJawN6nxP45vwUZpN8rI9j7Mhd9tZsLoCEquHdrYpgDEEWjotBWJpnZ74VParllBcmi9-IqMGf58DgbCKoATJBHqGLb_c2K-rQCLMN865k_YvTF4YTsc5Wz2GDp0drZe0ZyfsVSQlPrUUnNW0LM53afgkl-GQq3U3g4uNHzPTH26vRsshTnCMMzpWQ1keTZNrIj2yw-1nrpDNLePq2e-2iCLPK6DVemFcFr05WdcWeHkxaqYRiHJ8gDlTFYjBPe8OE0EhoFRelfmRhrZEnp12DnC1IAZ086_pMvAy4qOQBQxVY6bFVqwR3oZ6khbmiuRB8O44JB7MyTlFGfiitfHR3X8n9_cVz4Ug7FYjU38ZVV4wFv6ytypiq1uFMljGq1sUWgYOojjhGWMNVIIJu_cXBpmCfHFRD_1xfqrhdE9u8VzsWTNvXzk8KLn4",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJKT8gGUDuFZYRJyEKzdhITAg",
+    "plus_code": {
+      "compound_code": "5P8X+RG Valdivia, Chile",
+      "global_code": "47G85P8X+RG"
+    },
+    "rating": 4.7,
+    "reference": "ChIJKT8gGUDuFZYRJyEKzdhITAg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "General Lagos 2086, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154573,
+        "lng": -73.2474167
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8141198197085,
+          "lng": -73.24604996970851
+        },
+        "southwest": {
+          "lat": -39.8168177802915,
+          "lng": -73.24874793029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Universidad Austral de Chile, Casa Central",
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcK9b6fETf4UPxxn2vtpf2W-CEdZOBcDmEgcTzRKUvd4jbrnnINlcIx70GQYndmb6P2HGo1-eEROnWCgfDLvR1Sxi1Hm1Yi9zTYLOxGQlpTdUEvbzdhwaTxevKJ3kx4OJQTpzcUBWT8ociEbRZrENMyV7gtTsfUoPjOBLzqACc6Swm497fZQ101WPrqBmqjVdB8eXu-FQgcn7q7fS4FJ_DqR_WgSy2wQy8j6klpHTUaGW8iSnW3XvruvZz79Cot--nbBemaC4EhOVr_y2hZ-ofy1BibArO4wB4R_7xrb6zCc-UJp8eVX8nxU4Z-593jTdh66BQd5tMClFN6vfDjiTF8mD45JeqNkTaf2yTaRsS25W7ZfINbggg4p85nBfI66ekCs6vUZXPwmtZox6kkOSoOYmbKtEKqws733yiu1Mjynn1JsqYjEAbz91hC0EZ-1RpWtE6R2pjsviPzmSDhKe_2HvxwNlw02kVVOLEjq3QRQoERewmyOTlNrUFJfrZ3VPCL1Ml0kdBhBi_fnbLJt1eXtirJO4f3hpiH7M6EZ2sKTOlNYveNEVKmvtBgVBhEyc9ebwNm7OjZD0bfXiydNp_Fn0btqPWdx7_jVjQQAeFTc2OUHeu7dOQbhL_g3q9lqWVhwOg",
+        "width": 2610
+      }
+    ],
+    "place_id": "ChIJE1jCKnTuFZYRmGCmmBDbcq0",
+    "plus_code": {
+      "compound_code": "5QM3+R2 Valdivia, Chile",
+      "global_code": "47G85QM3+R2"
+    },
+    "rating": 3.9,
+    "reference": "ChIJE1jCKnTuFZYRmGCmmBDbcq0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "Independencia 641, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81433659999999,
+        "lng": -73.2469445
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81297901970849,
+          "lng": -73.24564736970851
+        },
+        "southwest": {
+          "lat": -39.81567698029149,
+          "lng": -73.24834533029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Pastoral Educación Superior Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_2H0dXbuFZYR2hQ3EPzYrgg",
+    "plus_code": {
+      "compound_code": "5QP3+76 Valdivia, Chile",
+      "global_code": "47G85QP3+76"
+    },
+    "reference": "ChIJ_2H0dXbuFZYR2hQ3EPzYrgg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Independencia 544, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81215739999999,
+        "lng": -73.24434699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81076941970849,
+          "lng": -73.24298886970848
+        },
+        "southwest": {
+          "lat": -39.81346738029149,
+          "lng": -73.2456868302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "santatomas",
+    "place_id": "ChIJVWRJNgDtFZYR3tm8UoJT8Mw",
+    "plus_code": {
+      "compound_code": "5QQ4+47 Valdivia, Chile",
+      "global_code": "47G85QQ4+47"
+    },
+    "reference": "ChIJVWRJNgDtFZYR3tm8UoJT8Mw",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Carampangue 343, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.817831,
+        "lng": -73.247964
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8164387697085,
+          "lng": -73.24660151970849
+        },
+        "southwest": {
+          "lat": -39.8191367302915,
+          "lng": -73.2492994802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Centro de Extensión Campus Los Canelos UACh",
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113096583204759274703\">Centro de Extensión Campus Los Canelos UACh</a>"
+        ],
+        "photo_reference": "AeeoHcImNaLRxmFNrY7AiZf3wCZ6BL-bcCcLAXF9pX0UAPdS3383Lr9YGvQ4Nx28a9AiTand0dlIEpoNJgZYGVUWv0jh8c5hSE3XT-eo4AhpIRC_fvy3XZ5IDw6wGVRDqfomnacgYL5DG8-BFaIYxqDVT_Q9wE5xexMj6MTSlYtTgRRJBgyiNIIhnPdz0wNz_GFwtwtGJ1YVJjJHyMWwcmqsahvN9o17rQgT9Nn3vqklSYh26z7ZmCBXCo9R8MXgp4aO2SGpQm5uW5jjiBvWTOJFU7hrE5hETQPofekJOC2in8SCBWXyWvrLUuO_V07ylppsJTeCrc-760E",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJU1PzL5TvFZYRvz73R00oHOs",
+    "plus_code": {
+      "compound_code": "5QJ2+VR Valdivia, Chile",
+      "global_code": "47G85QJ2+VR"
+    },
+    "reference": "ChIJU1PzL5TvFZYRvz73R00oHOs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Yerbas Buenas 181, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.817831,
+        "lng": -73.247964
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8164387697085,
+          "lng": -73.24660151970849
+        },
+        "southwest": {
+          "lat": -39.8191367302915,
+          "lng": -73.2492994802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Universidad Austral de Chile Vinculación Con el Medio",
+    "photos": [
+      {
+        "height": 719,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106159431622388311635\">Universidad Austral de Chile Vinculación Con el Medio</a>"
+        ],
+        "photo_reference": "AeeoHcK6ZjmgQrp_iFN7LUKiPT7azAYfE-DS6h2idlQM4M8Ju9xL5FAw2Rl4wvno4SDWUPK5lxax7i8gmPDrMk7xW3H4UeZFk32HbrxicC9qtAon6Nh6s3a5vujJVN80mwD3R3QCZM-kZw9zYZNuCxVDIbkuUy-mzhwm7-ba843kAo2KGysAsm6sXYKpUvxAqPP9ne-dzHoL8_rVeoq7kYuudkfTeNfkGA1eYhmJIaKG6bFQRK7A9gWVYb0vD0vLx7J-JYMtCPZnY2oEVy14ewOJ3ixI7tbmcx6EwVslGrFeFsVvXHBdF_7vaxcBdBpo5LYqmDCRYM5CnUU",
+        "width": 973
+      }
+    ],
+    "place_id": "ChIJU7XXXXLuFZYRFtN0B7mt99s",
+    "plus_code": {
+      "compound_code": "5QJ2+VR Valdivia, Chile",
+      "global_code": "47G85QJ2+VR"
+    },
+    "reference": "ChIJU7XXXXLuFZYRFtN0B7mt99s",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Yerbas Buenas 181, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8173673,
+        "lng": -73.2425208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8160427697085,
+          "lng": -73.24119131970849
+        },
+        "southwest": {
+          "lat": -39.8187407302915,
+          "lng": -73.2438892802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "universidad de cine",
+    "place_id": "ChIJSxy8CQDvFZYRcGEuIpotdTI",
+    "plus_code": {
+      "compound_code": "5QM4+3X Valdivia, Chile",
+      "global_code": "47G85QM4+3X"
+    },
+    "reference": "ChIJSxy8CQDvFZYRcGEuIpotdTI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8177238,
+        "lng": -73.2492547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81646551970849,
+          "lng": -73.24787626970848
+        },
+        "southwest": {
+          "lat": -39.81916348029149,
+          "lng": -73.2505742302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Prorrectoría Universidad Austral De Chile",
+    "place_id": "ChIJWXjRM53vFZYRVzKnEF1aS9g",
+    "plus_code": {
+      "compound_code": "5QJ2+W7 Valdivia, Chile",
+      "global_code": "47G85QJ2+W7"
+    },
+    "rating": 5,
+    "reference": "ChIJWXjRM53vFZYRVzKnEF1aS9g",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8163302,
+        "lng": -73.2403002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8149101197085,
+          "lng": -73.23892281970849
+        },
+        "southwest": {
+          "lat": -39.8176080802915,
+          "lng": -73.2416207802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Universidad Arturo Prat",
+    "place_id": "ChIJbaVc8HnuFZYRViwMSJyYOQ4",
+    "plus_code": {
+      "compound_code": "5QM5+FV Valdivia, Chile",
+      "global_code": "47G85QM5+FV"
+    },
+    "reference": "ChIJbaVc8HnuFZYRViwMSJyYOQ4",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Arauco 709, Valdivia, Valdivia"
+  }
+]

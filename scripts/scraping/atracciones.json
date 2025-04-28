@@ -1,0 +1,2040 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81304239999999,
+        "lng": -73.2450741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81171476970849,
+          "lng": -73.24372981970849
+        },
+        "southwest": {
+          "lat": -39.81441273029149,
+          "lng": -73.2464277802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Sociedad Forestal Bosques De Paimun Limitada",
+    "place_id": "ChIJmyeRJHbuFZYRnw51PDlvzlM",
+    "plus_code": {
+      "compound_code": "5QP3+QX Valdivia, Chile",
+      "global_code": "47G85QP3+QX"
+    },
+    "reference": "ChIJmyeRJHbuFZYRnw51PDlvzlM",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chacabuco 308, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.79988809999999,
+        "lng": -73.25819919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.7985137197085,
+          "lng": -73.2568441697085
+        },
+        "southwest": {
+          "lat": -39.80121168029149,
+          "lng": -73.2595421302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Arboretum UACh",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117854248766014106413\">Elizabeth Sandoval Salazar</a>"
+        ],
+        "photo_reference": "AeeoHcJ5b52l6_EGaqF-cNhvZt24bCc7m_OtyFKYfOspZTPmy1uf_bQuJ6HiyQgJfDQdM35aX87lthfePPI6lYJpfKsrH27p7j7kLhYmZJS--lYA6YV8qnS5mR550iJP9vhP_6fL37Sw5lgPyEOQnBbtfliZPECI62DUZ0JRwEmWeaSnzsQdGtIL3BjT88hYZyGNWh0cv5DDyZpR-Mxq3TNVRjwmiyniuIy5O9L0ZOi5HtH2wHxP3PqjSdF72DwZf94LbEzUoHaaB3rZt4QSJmVJULAvjhuxBPHYe5m6jA0ne9TK1bDjNb6c8ThD3GD3mD-c0KB3zhMFK2Qjqe-elVAel3akwE09SaiBe5mU4DZRtId7FBkl60WCeSKKjjy_DAFv6aLYUJLggJw00zIB4j2CfY2qgskdPHHAVVQhkv3j5qxyb-z-w0V724wrqJouzW_p_qRw9J0FrtNVXhRDE5uijc7y85RQ4SYjzkFSLXNVAgBe1YWLzvEriogsJqb7mDOp4cxLin6UxvXEccL79lrEwnStpAEFAu51PWYAykOdJHo6O8Wsip41mz4hs13SuM6gkyZdjfPGCsp7iUQsruRgSKb2RR7vwNemySTjdCE6VNdcA3u7no-ExOULynl-Povw6PMfPNpD",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJL1XtUOntFZYRcgdGE82qOE8",
+    "plus_code": {
+      "compound_code": "6P2R+2P Valdivia, Chile",
+      "global_code": "47G86P2R+2P"
+    },
+    "rating": 4.7,
+    "reference": "ChIJL1XtUOntFZYRcgdGE82qOE8",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 595,
+    "vicinity": "Unnamed Rd,, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83033390000001,
+        "lng": -73.2280572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8288533697085,
+          "lng": -73.2267333697085
+        },
+        "southwest": {
+          "lat": -39.8315513302915,
+          "lng": -73.2294313302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Parque Krahmer",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107240174948898150312\">Alejandro Espinosa</a>"
+        ],
+        "photo_reference": "AeeoHcIplUUsoiK-UfYgBlTItlwoN_xaH8D-qt7mlE02ApOU8Tz31jU9mhorME238-EMMTqPeH93lz73CQFeNdt2MLG-yBkeM_WOnKbWyiHL11yKkjhN5jZkoZjRXVHwLNSDCbBo4Ln2_CCBwCwCC2utMCG2Z4jj-odZPU07WfGKV9Pb3GZ59TonmWObvnm7FvB8gG9J0x7LB3qjZd9rnxDrrIbHjBjW91Di78ETzDFX-YGdsL27sG-JNsTWLx7OcDjqiJoSpLP3PQ2ZsOaZJG7Mt8j1S05uQq34Nhbbv4ycpDUoEI0rIJEsOf2xtUdKFmDXkB0nL4jKy1Afu022U1qJcken6mWp3mRbNoNGWeW_zKhSZBB6qhjZyBu1PbJFZB0REfMwPeHluTdASqHhQIik18eEr-POaZYJ6BOk_VEGpGWCs4YDHltFImtPNBbMM7MouZdpOYACyDAm7SXYjLHJ8h5fyoIWShigdbqKOx9lUT1igWlwAMRNJHRw2ljG8ZkOM3U2ZJTt-R17feH5UmjUijwmThfcmOH6E0jCKMLetIYyBDrEFpxv9h5thnCJFCP7n7jXUnTAtFtTDrMKzI1cTfLkORPrKrL55ovuV8VDLxk_0aQ7apP95CKu61qYJL2F7DrVIg",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ_9RiNfTuFZYROeG9n0jy0z4",
+    "plus_code": {
+      "compound_code": "5Q9C+VQ Valdivia, Chile",
+      "global_code": "47G85Q9C+VQ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ_9RiNfTuFZYROeG9n0jy0z4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1939,
+    "vicinity": "Rodolfo Beckdorf 1657, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8142014,
+        "lng": -73.2459131
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8128086697085,
+          "lng": -73.2447181197085
+        },
+        "southwest": {
+          "lat": -39.81550663029149,
+          "lng": -73.24741608029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Republic Plaza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105966108192158056593\">Nelson Rivera</a>"
+        ],
+        "photo_reference": "AeeoHcL26OPCeiSfjAnVFoLrFVuVarE4OoKsVofEETa5H0cLtSJKad_H9arLXmp9zAl2hVnSRBAkreWz7FE06GVHXuDhU_uOYHgIvNe_Kyb5gW0kilnGXII8CiOqK5B5tjyrohU-knKryQbDXCBFpBtvXAoUyZ3kNYV0w_4oWUb2v1AHDP49vhG6YrdIwsoGczj8NrQdlTw8hyZBXW0ENe1JV4xEdkcWrw6NEvM2lwt8x7tz-rZ9FXxpcZ9eSfGAYP0DZ0jvk01ph5OmFgXcaFAw5OSsS8daILsgck-9FK7KGAlqDaGs4mmBaVYcnGlBrzJaqewHtcp8ozPXSYwOuqnG910JCG1CPkqy1m_DoBLefINA_2c7WnY0uSMc7mUX5A0DrfgH2SaS11U-cBQyeejYol-jHJWU6swoAdH2AV2bi2cbnTGGrPmtKmnMKpehptNZO65RlWA3c7BVHzMNSP7eA7vj1jhtKhYFI7wScEKgjYZY-VUqd3kb3tZgnxsOE_Il-EBrzRdX4c1YZY2yOi5MCv3CiJxsPA7BNGV0xy-KH9bHVyDIlrWrLta1d3_DNNvp4ejycDBg-bBkX8mylNiS1jNEWZ245ncuw3mSr-_peMBm3zUSv4d8vdzXYgXg4s64Nrp5Ng",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJi8GkbHbuFZYROiTMdGti9QQ",
+    "plus_code": {
+      "compound_code": "5QP3+8J Valdivia, Chile",
+      "global_code": "47G85QP3+8J"
+    },
+    "rating": 4.3,
+    "reference": "ChIJi8GkbHbuFZYROiTMdGti9QQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4627,
+    "vicinity": "O'Higgins, Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.8125685,
+        "lng": -73.246213
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8112391697085,
+          "lng": -73.2447203697085
+        },
+        "southwest": {
+          "lat": -39.8139371302915,
+          "lng": -73.24741833029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Pedro de Valdivia",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 829,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108325654219339617732\">Claudio Aranda</a>"
+        ],
+        "photo_reference": "AeeoHcKptSWDZVAkUjkIuX4kNp-6v0j8zovIKdytlZ-MLuLmcJoifIo8serI7HvCc9DyQVdi54yNMy28VWbyI9ydQzfHaJTUpomBcxA53Ui5jntTmyfJqQ1zM1Oj4GerXB74LNxKTTfRyFf4NFkQlZ9RvGqWMhQYLG-nCshxMcGN8LBLVKRwqT_PRYTNH8tFgQrpxLaOR4xs9chYnTsgNPQyJ9_nYizFKEbW1DZph_nhAV9r3JttbM18jlQoCS8oILJU5VyNq8KAU5sInGe2u6o-ujHE0dQoYYkSfFhWgwP9uicIDNu9cPjKB8sDslcAbspz4-VMAqqbYBzHwarB5E_oYJMz5BdKJkD-L0whoRZw326vxeaxf0ID5MFr7KjPMISKnrp63zdUhsiMI1JLDtg5sajNhT5A455sSH2ABaw102iSal5-dShL47qzp8U-GyX-uF3xGaAIjqHgUV0muMGwFRzm42aeTWunNu4n4U8R-_RkmmkaWpf_PTmsoJyfIa87fpGQ9HXoySL3cGgqVTncWAmDfu9X8jkA1-jpvABoFxhtyxn2LmHkJ2jBJRybQrpKyDKJlMVyIgB9eoxdBJRswUMrPPo6YaIdcbHShlS9il23zBOlLF5Wf-tMPHfdQ-RP",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJMVmZMlXtFZYR2RqnKMagSvw",
+    "plus_code": {
+      "compound_code": "5QP3+XG Valdivia, Chile",
+      "global_code": "47G85QP3+XG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJMVmZMlXtFZYR2RqnKMagSvw",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.8123125,
+        "lng": -73.2469531
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8108381697085,
+          "lng": -73.24566121970848
+        },
+        "southwest": {
+          "lat": -39.8135361302915,
+          "lng": -73.2483591802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Chile",
+    "permanently_closed": true,
+    "place_id": "ChIJNfQpVQDtFZYRmVMQ8Owpz5I",
+    "rating": 5,
+    "reference": "ChIJNfQpVQDtFZYRmVMQ8Owpz5I",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "5QQ3+36F, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.817419,
+        "lng": -73.2426102
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81608131970849,
+          "lng": -73.2412219197085
+        },
+        "southwest": {
+          "lat": -39.81877928029149,
+          "lng": -73.2439198802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Fiesta de la Sidra",
+    "place_id": "ChIJaVt0W2XvFZYRQN1Soy8HwFo",
+    "plus_code": {
+      "compound_code": "5QM4+2X Valdivia, Chile",
+      "global_code": "47G85QM4+2X"
+    },
+    "reference": "ChIJaVt0W2XvFZYRQN1Soy8HwFo",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Centro de Ferias Parque Saval, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8173788,
+        "lng": -73.24253329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8160401197085,
+          "lng": -73.24119131970849
+        },
+        "southwest": {
+          "lat": -39.8187380802915,
+          "lng": -73.2438892802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "EL ALEMAN",
+    "place_id": "ChIJ66PTOgDvFZYR-9_8cyE05mk",
+    "plus_code": {
+      "compound_code": "5QM4+2X Valdivia, Chile",
+      "global_code": "47G85QM4+2X"
+    },
+    "reference": "ChIJ66PTOgDvFZYR-9_8cyE05mk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8134991,
+        "lng": -73.2402214
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119802697085,
+          "lng": -73.2388339697085
+        },
+        "southwest": {
+          "lat": -39.8146782302915,
+          "lng": -73.2415319302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "CABALGATAS VALDIVIA",
+    "place_id": "ChIJAS0XaADvFZYRVUuNsqnyWgI",
+    "plus_code": {
+      "compound_code": "5QP5+JW Valdivia, Chile",
+      "global_code": "47G85QP5+JW"
+    },
+    "reference": "ChIJAS0XaADvFZYRVUuNsqnyWgI",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Avenida Alemania 675, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.809037,
+        "lng": -73.2435409
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8077291197085,
+          "lng": -73.24222491970849
+        },
+        "southwest": {
+          "lat": -39.8104270802915,
+          "lng": -73.2449228802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Costanera Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3243,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110393657775386794260\">Sonia Zuñiga Fuentes</a>"
+        ],
+        "photo_reference": "AeeoHcKxQXWQaoFcvW-CeKPLkiS1zH7VZFzEZsivvXdTeqh0Md3ZryOX4Du9UVUopc3PSoGS4R65osy0TkI48H83iczi-PNW-b2JrnqIKPYryuq3aN291j9MiPchQjnvajEIh2tlPtpWWwr6O2UwcdFTiFCGjTS7Zl3qdC_tT8AqIa6CWxfrJU1MjSpgrofwrNiH-zWORo3D8NWMCgiUuI2I_alQHNX_hcI4D8e8l6_laAkr5r6P27zUfQfcx3yqFo7JCjlJ3jsptjvUhCFh1-fPWDqquoWo6i7pz-6JdywTzBKlOCT-eCmtLi_p7ql3WxFCBMF-GeE9pExsybaRBhAE1pMeOfuvn3kPk-4TYvckXjWrbvHrnG2yl1TfRoBZ27g5ouusn6pTEhmDfoprOJ2cxb5o3s1h5l3qOBQs3nUaLqLr_rMIf9WTlHhq8GQb20maZzvxsvbxsNciEbpzjuEF6e0sIXhvtZvgyATO94hhhtrKer-SkWSBb7xTD0L0c-e7w1z34Gf0JVbtokiq1UpChBiB5QCiCgxHHthR1NcdiAeknKWYkHj58f3WO1xNIRLVso-A1lgy6LLmQXvnp9L-92NLbVsxT5KwPlPxEXKFS5yTJEYq5k2u7_TBt83Hphzl7rnAG5cF",
+        "width": 4324
+      }
+    ],
+    "place_id": "ChIJlx2WtXDuFZYRDRGb9eSCK9I",
+    "plus_code": {
+      "compound_code": "5QR4+9H Valdivia, Chile",
+      "global_code": "47G85QR4+9H"
+    },
+    "rating": 4.7,
+    "reference": "ChIJlx2WtXDuFZYRDRGb9eSCK9I",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1477,
+    "vicinity": "Avenida Arturo Prat 2, 16, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81169,
+        "lng": -73.2527965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8103661197085,
+          "lng": -73.2513665197085
+        },
+        "southwest": {
+          "lat": -39.8130640802915,
+          "lng": -73.2540644802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Parque Anwandter",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100087894157535314287\">Waleska BS</a>"
+        ],
+        "photo_reference": "AeeoHcL3cHJImzdrqdGpzLoCPsgL7KWulV8BQEe33ZRNWyq5bD5VjP2aW3xw1ttzaUk_2PMBizECqsMMmzDXNE__f28vhiEKruxNy0iDOjh7_KLh2SPgy4EjxvjDkGwredxoyGjjGorZ14mF45qXJgKGvv9RBVwoYBbLjkow2FnD59oG1yVnvuSF8gKwm3r3DNdGzAJQ3myKfFie2kRFvqBJRkNSsXfoa7BWJozAlSBupa5rOoarUw75dVv6wKnK1QGHRwkPZG8Y_Zy7ldbMC6degsqiFEG4vbqKF7lNSnavZPMTQdjsy4snmnj7zxCitfJqo3pU_IRXuvCL2wxvEhz3QZ9LinirFG1zIEXBmiuCqT4XRD3HO44ofBjJ8BeLaQt9VSWqJrNRXCyDaX6vhGck63DjgYAHQk3_ljJPt2pT_FQ9OoDrW50Z24K4Rx3guNmZYVSEcrr5UcNu6HuOlEmhLPmRgHo6-WKk_jsIYjocbz3KbF1Quz16pIaiI13zSv45ROiL2WtA_Q5J7Hck0kcuZT9fuj1geT6sLxZVyyZ0cTj0TUd5xKU1M9IJf50NByIyZYopF6ZkNohYcdTRMwGiJEUn1oI1EDhPOPiihEZKQkmZvcpDJNz1wQz_8zL5BVKZvbyjbw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ5Z-l19_tFZYRDB0qtdufhFQ",
+    "plus_code": {
+      "compound_code": "5PQW+8V Valdivia, Chile",
+      "global_code": "47G85PQW+8V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ5Z-l19_tFZYRDB0qtdufhFQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81973230000001,
+        "lng": -73.2490299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81836976970851,
+          "lng": -73.24778171970848
+        },
+        "southwest": {
+          "lat": -39.82106773029151,
+          "lng": -73.25047968029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Colegio Alonso de Ercilla",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcKtKfUTByxPh4AisVG0tpy2gi7L9ygJqBGZjmHD_ZwS2wmVW3y3Xwb1HaDVhEdDBTFO8K2_i8N7xGz_nZtUQE2okg-QOC4KZfSR95YzQzR9Fciai81RQxikdWJ7AcLvB3hiJrbCwZCEvNSqRHT4o9o2Y2M21DbH6g4DjzhCcjMtvX1QWyjSN2FB5ST9YX0CB3GhJsK9DNbVmDH8NUgBt3t0wYtm7Li0v13aoUJM5qieP1qkkKirZBRIUhecM1CmqdRVXoA26Zj7uceW9DrURjxliuLdvAx9FTnkjxmqLBk8vWgu4sS8idp_I7cD5VeHJXf7gvzmOC6e90O_e4VHOj9LEIA-juxV7UL7NA--z1sqOZAuSpzTQhgF_O64oN9-InIYKhdSvgcVPc54RLuxpJAaIYKgyD1ixsnkotkTuE89SvtuHZZJ_DvcbnOeE7vgsbrrneuuTzT2zL6aLrLLO3U8cUhMMTpHlLDraXTVed-rvJsBZ0mWHBS1X5Bmh0B3ZMTKLXWGTKS6FhKh5CA5TKEP5YNoK2cSqZctdKg65Y9mze66hvMM9A3uLMzJ0SWYQcuq_RPHAMAfR9gfGroJDgsM9vr8OCT_NpD2pCATtv6n-43eGBpCcEK8xSslDYFy",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ56QJunPuFZYRiYdPR7zka68",
+    "plus_code": {
+      "compound_code": "5QJ2+49 Valdivia, Chile",
+      "global_code": "47G85QJ2+49"
+    },
+    "rating": 3.8,
+    "reference": "ChIJ56QJunPuFZYRiYdPR7zka68",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "General Lagos 990, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8205625,
+        "lng": -73.2478619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8191874697085,
+          "lng": -73.2464319197085
+        },
+        "southwest": {
+          "lat": -39.8218854302915,
+          "lng": -73.2491298802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Pastene",
+    "place_id": "ChIJZ8ihQADvFZYRV-3c688ib0w",
+    "plus_code": {
+      "compound_code": "5QH2+QV Valdivia, Chile",
+      "global_code": "47G85QH2+QV"
+    },
+    "reference": "ChIJZ8ihQADvFZYRV-3c688ib0w",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Vicente Pérez Rosales 1077, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8153092,
+        "lng": -73.2368652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8139926197085,
+          "lng": -73.23559401970849
+        },
+        "southwest": {
+          "lat": -39.8166905802915,
+          "lng": -73.2382919802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza salesiana",
+    "place_id": "ChIJ04rcPwDvFZYRSygZHhMRvww",
+    "plus_code": {
+      "compound_code": "5QM7+V7 Valdivia, Chile",
+      "global_code": "47G85QM7+V7"
+    },
+    "rating": 5,
+    "reference": "ChIJ04rcPwDvFZYRSygZHhMRvww",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Avenida Alemania 880, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8223232,
+        "lng": -73.25002049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8209880197085,
+          "lng": -73.24857206970849
+        },
+        "southwest": {
+          "lat": -39.8236859802915,
+          "lng": -73.2512700302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Espacio Casa Hantke",
+    "photos": [
+      {
+        "height": 1556,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111112967969700424736\">Espacio Casa Hantke</a>"
+        ],
+        "photo_reference": "AeeoHcJZ4di6c6t3smOkxiMqSndHyqtzo4-Ybl7Lu9d2Vqie_m27017m90R1I6DmiGxEpKOcQOh1bURT8uxxYbA0FAKT2KYnf3mnzbVc2Oewn2JJI51z0tMw89jB9Y_Q2km7wCnsURl1fz_ppDYhmik_edi40dDK4VvPHL1pTIwEjcOkWRW84BAV3xGEXGt4X0wlhkhK_twjjPe8nj2u3NM6LjsuvQmIMN67IXu50fIw-f9EwTAP3x26NToHPnpmlO1ydbZ2ZkUVMAziBJkQmYDlKwxuQHZbKWeAq-qr04OxmuJ4GVeOMS7DZVjgowNdN05oXHub9lzwtpg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJn9Vk9VHvFZYRKCyLXqrIaLk",
+    "plus_code": {
+      "compound_code": "5PHX+3X Valdivia, Chile",
+      "global_code": "47G85PHX+3X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJn9Vk9VHvFZYRKCyLXqrIaLk",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "General Lagos 1221, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8099114,
+        "lng": -73.2559109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8085542197085,
+          "lng": -73.2544277697085
+        },
+        "southwest": {
+          "lat": -39.8112521802915,
+          "lng": -73.25712573029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Laguna de los patos",
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109780378808306967398\">Bastián Rojas</a>"
+        ],
+        "photo_reference": "AeeoHcLj5MdPve3H07yyeeYr3scWZYTemxpVxGsEN0ODx2G3SDM_vrQ4XoEjXyCsfD-_2AQ-9qCIiIr-UzQyDt5lJpaQrDMPBgFoZN6xYV6d4WX2VAplOiquEstbzTnRWJzgg3wN3ZlU35sXqKHs-RvwK1Cn8Vku2jPg8glkrl_WDkrk1a6A2Kze1wtDk_IH85BlB19jzc50_fokHT_n5qtfZe0JLqJcjzJAuj3kCoYIPgu5PZugWLrYUo_Gs71JXVjzlg70xaaRWhKb6T1chKuV-kQOOAjnTdE-35JKTPJbYBDQ-_68X0fwWsc94PGVUcwMGVobC36X_AgUq2FBgn9en7ZNx5LtncpDseSWTKoabPu-weK9F728naXBwuQQVRMSzDyLSX3uYCd-cSQ32tOfgMPNruZ1SPtwQldeoC4H_rXlngRDy8DgbWwtkrGMW8W3sZ_Y6wwvn6jXJROKp9Ux0ehl1gEdI_MLThealZDsrh5TKlU-IL_0QBmDru2tn7DukI_Zg_ygSNhsejaZALoImufwPRyD7lB2RVv5UVE8JF8cD-tQq59Cxvfs_96eWRgVuQ7PmmObaU4mqOtlFeQOL-IxFAMH97bEQOtbL8Nvt3AjSpms1BFfJELer91c8N1jMHS93w",
+        "width": 2736
+      }
+    ],
+    "place_id": "ChIJKY9-yeDtFZYRVIyDC5tdZYU",
+    "plus_code": {
+      "compound_code": "5PRV+2J Valdivia, Chile",
+      "global_code": "47G85PRV+2J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJKY9-yeDtFZYRVIyDC5tdZYU",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "Isla Teja, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8106822,
+        "lng": -73.2571273
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8092342197085,
+          "lng": -73.2560406197085
+        },
+        "southwest": {
+          "lat": -39.81193218029149,
+          "lng": -73.2587385802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Santa Inés Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110652447871230924117\">Carlos Javier Gutierrez Oduber</a>"
+        ],
+        "photo_reference": "AeeoHcLQXPIYKSTdSy2HbJYRH6n-3X0q3bxm7hz9Ax35PyL46m0CbsXGlmRujyXkXbIUQbXGJRPi-wqXvY85XYVBDo-nze23SDUMcflNOPRrn9VdKrZgPKYtVs2Gsz72upnTqv5dkQcUwvKH2H63RDMh98iLO859rPi1xEGCVxHm5yl5LGCaeQKBc0z9G42CAk-3ISuyJe3ep6vMwsrNiusa6gb3Y6eU0nxrJaghdgVI_bcNO0NreEAXHG9GWucqnrzywwv92E7wgYEc_Rk0V0699XGVPzSDARbdTDQNm_-C0AR_iFr3pBnPPpyasawPzYau6KA9E46-K5rA1PqeaKq-kVHefOyKbLNwJDECOOVfd7j5uwO62GHpUlHwr3wZh9Sqhzeml3lBNvMuzn-VbXxae--GyrHTjTJeyQRmoeYeePPGKzOz4Fex-vzHKemUTED-kQM5qnCc3S5FCT6rv7ThQg07dnB-mRDihZjX-Gg06mVtZtqNzJIKlXpiADpL6g2iQaL0PD99YVAI3WYzX1K8Cy8E0fUmCzLn5O7tjz1SuZTBuyPGhI3xbu9L6AFep9ygxpmOaTf_qJZv3CgCa_12W5YQup6cD7sZAtG9jaiOOvaELYH8zqylhYvBKgk205RjQmMz0Exf",
+        "width": 9424
+      }
+    ],
+    "place_id": "ChIJ_z5-puHtFZYRLu_QuipKrwg",
+    "plus_code": {
+      "compound_code": "5PQV+P4 Valdivia, Chile",
+      "global_code": "47G85PQV+P4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ_z5-puHtFZYRLu_QuipKrwg",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1157,
+    "vicinity": "Los Lingues 601-679, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81378100000001,
+        "lng": -73.2583027
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8124009197085,
+          "lng": -73.2569359697085
+        },
+        "southwest": {
+          "lat": -39.8150988802915,
+          "lng": -73.2596339302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Casita de los choches🩷",
+    "place_id": "ChIJ1evDUgDtFZYRpGPvsaU68rU",
+    "plus_code": {
+      "compound_code": "5PPR+FM Valdivia, Chile",
+      "global_code": "47G85PPR+FM"
+    },
+    "reference": "ChIJ1evDUgDtFZYRpGPvsaU68rU",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Las Quilas 443, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8060565,
+        "lng": -73.2523491
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8045489697085,
+          "lng": -73.25093461970852
+        },
+        "southwest": {
+          "lat": -39.8072469302915,
+          "lng": -73.25363258029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Oficina Innovat UACh",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104840894140560614569\">Oficina Innovat UACh</a>"
+        ],
+        "photo_reference": "AeeoHcJl8dKKBJ4SucYW-jUGFLTDbpMg9FCfbwd9lCMLY179Jcm84QeK1yXI6yacZXOt3YxoAosWRdx_v5tYwfgBc4M8zgnDly6YsZvBrb_S5ArPqBOuZ1t5d12pPeMb9g52lHi8wNyLgA6oSRHruHxpdgPsaKz7Bc0DIFjpey225Wu9yGqXqnF8jF9Gx28MFF7YtM7ZuzvsP8-uzEU8VQP9I9gaHr9366DuqQG7Vmfu_2tsoY__yB00sg2SXmFW05cx_Dii3AC136vAJEk1Bvq7C9_--tcBYuPqRQzb9PtW8qs-0yMvjCAhZauvAcO_FU07u_191tcH0cM",
+        "width": 1284
+      }
+    ],
+    "place_id": "ChIJK8h53e7tFZYRI68EblDbQeQ",
+    "plus_code": {
+      "compound_code": "5PVX+H3 Valdivia, Chile",
+      "global_code": "47G85PVX+H3"
+    },
+    "reference": "ChIJK8h53e7tFZYRI68EblDbQeQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Isla Teja, Avenida Doctor Eduardo Tallman, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8189037,
+        "lng": -73.2349682
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8174473197085,
+          "lng": -73.23354051970848
+        },
+        "southwest": {
+          "lat": -39.8201452802915,
+          "lng": -73.2362384802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Harnecker Municipal Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109381569005900398061\">juan oliveros</a>"
+        ],
+        "photo_reference": "AeeoHcKN5ntU0hnRnfJxRpQLPfOvTze8iGEZpyn-_-QF97jWsp9VFUmOj3qCyldCJHNtAIhO7vH91WP5y_f_a8xHa9HOOCJULxKGglW4vEHlF_9Bv6huyccvSznZFIYN5-QzohpTjUZH5ePwDsBaUmthVaqwVEg-taH8splvZARGJ6CR61m9ENshH01dL_C9IcAxrsNVPDD7j5ag0gRGbnSrH1X_v1qsIGJc1D6cbYKwni5cjY8sbB9frjPDpDhiIL4AWwNdTvrn8k9ZGIioR5yaLAQRc0-gL_oG3h5K74RxZ38OX-2lJ_JVn2RZRvJQBAiYtvWpaZAVnVWlwmv-mp64mW36weIg0Z_xFyU9oUCNfyh0R_WMuxwo66l0_HmAKO7dr4C8VdAGMQyCtDHl-81B5i8ebENrA1WN1ypOJo03uoDrMtmojz-eUazpiQAxl7miLckMQQR_zdWmQle4-aEO7F_-JvEmiUoAvaKcYDF9tLD24kroKuUguC46L39E6AHYWW32xlmTQ81ujFvGzcmxqU6FShI3xZtvdSduGXaBartR6laIQx9Ve4m0yihNT9mD8G-gsuW5N_s4Ty1HgsMbB-BjiDTyvXtWzjp41p82PiN7_fM0s1F206FK7p2pKvBK",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJn5NzjnzuFZYRrqAGm-9sNOA",
+    "plus_code": {
+      "compound_code": "5QJ8+C2 Valdivia, Chile",
+      "global_code": "47G85QJ8+C2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJn5NzjnzuFZYRrqAGm-9sNOA",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 116,
+    "vicinity": "Errázuriz 1101-1299, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.813355,
+        "lng": -73.2516954
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119481197085,
+          "lng": -73.2503437697085
+        },
+        "southwest": {
+          "lat": -39.8146460802915,
+          "lng": -73.25304173029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Museo de la Exploración Rudolph Amandus Philippi",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102347229717523900172\">Francisca Mardones</a>"
+        ],
+        "photo_reference": "AeeoHcKGtLGqHqUfmHFNvyygJEMHPxUSkzIlOpYQMcNBWhUKGq9K_e-AJWCFk4sGQkVeFfGoMwDyJBREbMswsFzMGbpSsUZBMsemDh6omDdOGrUxUVO_Hu_CR98qjADq34rEEAvz8b1jgzoa_X--0hH4cz4WufPyIKB5i-K5qX6kIOW29o9-Erqo7xYhwnW0VJQPkMIFz2O8n41F8hMP65_RFqYhBvdlx-Y70i4giHzFBEPbgVKNWNIR249TnaIQX6tqQzbvztlLL0aUwqbxmka_o7CtV9VtB4_MtJT741VxeuxPkBw34jQK0vTXCZYiCgLDmd7bzgcjClFVLv10rLV5FHmq70NwPrJicVfCr8WvqxZG3ebgMIdk-tUTZm3TiYxEAC6vYT0ZyjpeRacIfctAXrPPsafocEX7ZIPuHgsf2JHmUfeLC78X0HIvPirLSi57U0dBXnMMVFhPvov9XKtKvjqOFzrQAcfu5WmjY9pGvrxllg2nPmYAw4yqaeSqdHdbeK4ll90HowVW0Wh8aHU_XyYSWs_Wp1Hz7nn38Q_y501BKT-vmoG7jHSiuJ7ql7WyVcNrrsGRyOLMiumdbTcOPFJDJ4e84pTO2_tMvZ-3F5QUePgPSJTrijd80hKv_1BqHYsFyWwJ",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJl1pq9N_tFZYRJ3tI4cr2DJg",
+    "plus_code": {
+      "compound_code": "5PPX+M8 Valdivia, Chile",
+      "global_code": "47G85PPX+M8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJl1pq9N_tFZYRJ3tI4cr2DJg",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 371,
+    "vicinity": "Isla Teja Campus de Los Museos UACh, Los Laureles 95, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8140836,
+        "lng": -73.2486019
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81274611970849,
+          "lng": -73.24718246970849
+        },
+        "southwest": {
+          "lat": -39.81544408029149,
+          "lng": -73.2498804302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Pendulo de Foucault",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111581780068876104132\">Leonardo Álvarez</a>"
+        ],
+        "photo_reference": "AeeoHcLbtUYaD4wYl09bifWIw672cpdZszFOVhhTZJZ5wdxyKHYPYRNl2-6hYHteEyUm0g3DuYym_TtrvsL9TnHm-92jZXNDzkoN86geVjZG3EFV0jLZ39ktya_47Gmgvm-e-h56etJBZt1RsZ-rL1pAht5wBXO9QNoZmdcuqriaGCv0nNO1JgCM0-9OMmAKWlXk4Zio6LfjrM7pPouJZbl_Uc0Up54MrRB7IWx0WjxLXZzwMZWzlgWFQoZPKcRvOJ7B-C78A1C24nfuby0TXKLDTVAV0vs9RAVAlsJzsKm9SQgOWWP8HoDOJykgAPEixaLz-8xyJcIzzPF92L_GH0D3oT5tRIDd-hDWtYR9BCvfyXMtr1zAcq_QNS72TJTRY2bocTC9E6Pt_WNeffsDazp8ksu77FZ7HC962yK5UZ56mWepJTn-0hXaTIlp2OUGlFiOxWeLf-7jFJlT1PTWugvgQtL1jjrirYnkHoe6__NoSdMlD9QIBXo3VQZ4Mk2j8KvKLp2lijJchx12qG3kikpy9UYnS4ylWBoOX65gqa9GWK0iTV1z5rl6nBTKgys00UwaNNJKjZuwh8H9mlZPJqug549Ax_H9jtuXR_GshrTPaRfKj5dPUoDMjZGEox7MgPdt",
+        "width": 3934
+      }
+    ],
+    "place_id": "ChIJmQaglHXuFZYRrBdp2smLG90",
+    "plus_code": {
+      "compound_code": "5QP2+9H Valdivia, Chile",
+      "global_code": "47G85QP2+9H"
+    },
+    "rating": 4.5,
+    "reference": "ChIJmQaglHXuFZYRrBdp2smLG90",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2779,
+    "vicinity": "Av. Costanera Arturo Prat,, Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.8163408,
+        "lng": -73.2485734
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8150108197085,
+          "lng": -73.24712436970849
+        },
+        "southwest": {
+          "lat": -39.8177087802915,
+          "lng": -73.24982233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Centro Cultural El Austral",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102411594181605036064\">Juan González -Kopal Ingeniería</a>"
+        ],
+        "photo_reference": "AeeoHcIHVyuJAkOQQyPJkHcuaYoA2TP-DsWrodsmDZ4HngA76AJ14-QG_z7anwuJYqeW6wslDisPQZEV-9yPMppaNefNp9NNoo8tfL4l7XOtv7L4yTPYMGgvRu6G7zS5gLF-eNBBIsNL44Iw8GpsEwrEQ-pr0X2n8tyfcI9t1v-F6aNzF69kPXGgPvfB3_TlCfplX5waRu17eMkz05K9Gkdmezi-Wez_iT85YnoxL6024d1cUP8CYpFep6N_E_lxClycab9-m6QxLyHq8O6bXwLRbLVectUBw6bZw6iE8IBlahMUuzcozF4Td_L6zquMY_YuCU0pZey7RwA0J2njqOFSZ4tarRAXziX1JSS3mdb0dk990LwpZVfPNjh4YjVAZ7gzk2GbnzKxA1j5MQsxXCPxtMPmEu1aMZ2Aew4lXhfLCAkonV2J8Cz5uh1NcbAv8XH7EFbwREhrRmFqD3OmvxrCzh3e2nq0_zsOkYK4MZAcrn8TOphpSt1sxQiiCB_THXuFVUSw8S5sNtqSoPgisbWJjCvKl8TKkudYaKn6qwLpf8FFQeekMSBHfujvquxczE26WaYY0wIkxYL8aRiZ7wFjkSpITPR76_zRA6xorUDugxyxFu3mgrLMtZLb5T3n-JBDU8ol9g",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJJ-J3R3TuFZYR0f6sxGRI0ws",
+    "plus_code": {
+      "compound_code": "5QM2+FH Valdivia, Chile",
+      "global_code": "47G85QM2+FH"
+    },
+    "rating": 4.6,
+    "reference": "ChIJJ-J3R3TuFZYR0f6sxGRI0ws",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 115,
+    "vicinity": "Yungay 733, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8204764,
+        "lng": -73.2491521
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81911101970851,
+          "lng": -73.2479262197085
+        },
+        "southwest": {
+          "lat": -39.82180898029151,
+          "lng": -73.25062418029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cabañas General Lagos",
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111993537037648306278\">Carlos</a>"
+        ],
+        "photo_reference": "AeeoHcJCYicDvxqOs-NN8hP7BLV2JagCb86vNd8hwC1zOaKAPlBJpwLbxF9z79MQW1ptdmbE7ze5IqGmomCozSYREjJuQ-ElvuZrhWQ5Stf56gm94RlYnm_WPhidp-YxTzTSo9YdsSm9sY0XYSZivrI8Ms3-_qmHl99arNNCIztqZ8fk3K14SgfPLbFh7DAMRa9nQLKmaSYWaji4BuOo5Fc4oZnfFLcbJt9AyG5A-ozvRErE3lfnKquENky_2qF-IJu8DxNsKLe-UprM4cerCTDOEFWevYaY7PVkk3p6h3hKe8dMZXMYtUUd5wYyVOYaXNNQH94He6CQN9J4Y_LcQxI3mSrtOHFXdiLmi0R9brAsx_TqFPxtyZkgNcE71HCkDrd_cAnZHNdwJdbgY8r6lXAckgErYxze0RK2oXIRAuM6XD8hgIJWclFJZUuzLcQjdLxLh7ayQuBGii4_AsxG7L3zibBdZP1CJJWSxWJxvS-OfStqS_mH5ZZvJPVBxHquNOxWr_MNqgiGCewIbNZxi3pXzfQ-SEcWEuHBUXU1DccSr5RbG0xg10g05wKRDIHUyTsfM8T6iqylwsx5nyf4O_TCVmB_QvEo_dZqsWLfsaHrD9gAnAIzhXzdEa90qK8XFvj6nvK3r2Y5",
+        "width": 3096
+      }
+    ],
+    "place_id": "ChIJW7a5UHLuFZYR4YfKkRkpi3M",
+    "plus_code": {
+      "compound_code": "5QH2+R8 Valdivia, Chile",
+      "global_code": "47G85QH2+R8"
+    },
+    "rating": 4.5,
+    "reference": "ChIJW7a5UHLuFZYR4YfKkRkpi3M",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "General Lagos 1080, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83033390000001,
+        "lng": -73.2280572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8288533697085,
+          "lng": -73.2267333697085
+        },
+        "southwest": {
+          "lat": -39.8315513302915,
+          "lng": -73.2294313302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Parque Krahmer",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107240174948898150312\">Alejandro Espinosa</a>"
+        ],
+        "photo_reference": "AeeoHcLExr8GMkFz4-8Aa2hZdlbV2dgYXSi4ud0Eg33v-x2W7PzNC_pOKakbc-N3ej-9S_s7hYl7QVYZYUjm3BHI2YG53RdR0MrBb6vZRaxjQvpHZib0zAZMlkvR-KX0us024yfqBgIhVQSdDsXexpxWRmWVnZ71DHI1ctgdsuarSQt_dcSJPsDkkRsxOvTqHHJlSQ7QE_9MwsiVdqfhYAlX9lL0_pWRw1oyJvLXTZbyOqCYj3wQmDlAinr8Z4aS-AOnGPQwjWCpz5MWQvgnir1mSznNh_zFytgW7qTbqHBCmGdq1fn-hOFoeMEDrZAvAh83oV6lm0Sx19fbXhlkEgH5tfz6Mdt__G9Jc-194zXZQA1g4WbOPs-zHWn4_WaVXcdUbr_VZ5q3GUVwBE8eIERq8PRUXs1efZrgGvUXtfbaAtZSwW5sD180HCwaPsYbDw6X8oM2s8cBfg5eowMzZhCElflm1o9N8UNboOocrOEsfvp9Kbh2EP5CORA4sTGMivpa2fs5WjoCM7M_gPGKFztvfxMk_uTLRu8TyFLT23YM-qtweayxGdi7AXaT6cvqem8saklfFyHwOksLBfi6llRXfv2a6urqJXK2F0hWmKrUdNlsE5jzK6Y4us0eR12QaCUehkT9VQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ_9RiNfTuFZYROeG9n0jy0z4",
+    "plus_code": {
+      "compound_code": "5Q9C+VQ Valdivia, Chile",
+      "global_code": "47G85Q9C+VQ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ_9RiNfTuFZYROeG9n0jy0z4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1939,
+    "vicinity": "Rodolfo Beckdorf 1657, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8311423,
+        "lng": -73.2566325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8297678697085,
+          "lng": -73.2552596697085
+        },
+        "southwest": {
+          "lat": -39.8324658302915,
+          "lng": -73.2579576302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Islote Haverbeck",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117105682308814668515\">Kevin Beck</a>"
+        ],
+        "photo_reference": "AeeoHcJiLycKgCet9VQidFoi84bm8KypEMsikkh1LWBAQa9LwXNnz3MQdMmIkJkdgagRN3Rpoz0LWXHgLN0-Di4CsQ1JMaZ_ht_M6bqPrfMVEXtlHLNuKjzfAaa5iYyOKJDfFlohURPTk_8brqv-VRs6QPTTjf7HIRTsRa406hDfvVO8UEsxGMXReCgjn8quHrMk0OGaWNS71v7wKLWSvdXFmm74Vq-YwuIOWSZqaxEV6yrW771Toc8UqhgteieUZqoX_vYVf2dLQ-VjyrLNQHf-7bSD05_aSCPMyg8C1dTswAvm6D4tgzqByLk9ZVokTm-V7FL98o1HbjwUcOO6ZdQGq02Ph0GCIwIFuLzmKUfZEL3-V5w6OWElwMwk-_rJuxt0wxXW2Xrc6gYOJpj-1BMk_Ln_sYecA7oQ41mZZqENDdBo_AYVlDFXMxBt-_ruAKtrEdHBRltrXg1McPLIk6vLCI5rKEujgyWLBdr9KAOKtsduDAwQwsQx2nfKtBezXYJlgtogZNlAHPdMyOpykTRHmrlhMs7EECw2wwzTsoW3c34eiTW85wN4UR53CzUFfx0XlxO37YV2HP-aOBZQh4IRoNjI24OU04_cmGms9qDL5h0Naz2yozcecPzHM_mjim4g90eFww",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJHUVapBXuFZYRe1U9UqLEiU8",
+    "plus_code": {
+      "compound_code": "5P9V+G8 Valdivia, Chile",
+      "global_code": "47G85P9V+G8"
+    },
+    "rating": 4.4,
+    "reference": "ChIJHUVapBXuFZYRe1U9UqLEiU8",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 250,
+    "vicinity": "Arica 2233, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81399649999999,
+        "lng": -73.2463257
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81265701970849,
+          "lng": -73.2449121197085
+        },
+        "southwest": {
+          "lat": -39.81535498029149,
+          "lng": -73.24761008029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Our Lady of the Rosary Cathedral, Valdivia",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100718102553692159710\">giovanni :D</a>"
+        ],
+        "photo_reference": "AeeoHcJU7JpsCY_enugqgXbPH0c_bBCOsanlhzdH766YTDVc-7Jx6cLCBbZFaA_HIcxp9fcJzYfUejhL3YT0SbhaBcYiLB15iqbWc9SzSwFO9WOnTZzyRGu_aESYTFlGPaNAYqdddrkpXHM5AUl77YlEHAaviuQpb0CXtsGmcttZkAG82JQ7Ibv4MdhLzXZHSLRnchr0GfLxUxKp_4ZX4bMErqgkwqewbfroKIeGYNCw4bWCIxMbsfDHaZJ5RPGkklvef0lTYjQ-WZuXPypzMD8MFueT5UzXqzPnCJNRnn2Anj3XgsJBXEKQm7t0cTwHJYVMlfg6n2YLGhMmIE3b2lFpixhI33aqZ_uV7eZ0Q16SLW5V9WO0lw2REP9WPch6oIDBcjUQScWWvuQiwiFoaJDFHJzS9-_AR4fJhZYvlXi4g3l-xtqeUivN1pF7pdpTlGTDmwaNQiZ7dR3UzbkoGg17g1tnrODUqFMAoYMWjWMB_JLkUBBddqoCGlXMB2vYZqhcbzUoN3e4mol3PxJGwMWMaZiE-npH7PncAayceOQDb7mm4TkremYkH34W9Mb4kF8rTE4mI60A6gKhYmBiHYVm0XlXhWaptj5_ruLDmqG0iO3LoM1kyh2zPGgeYTi70NUMzu6dGxsz",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJfxKPDHbuFZYR2PbtIh9aw44",
+    "plus_code": {
+      "compound_code": "5QP3+CF Valdivia, Chile",
+      "global_code": "47G85QP3+CF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJfxKPDHbuFZYR2PbtIh9aw44",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 166,
+    "vicinity": "O'Higgins, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8143666,
+        "lng": -73.248614
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8130227697085,
+          "lng": -73.2472238197085
+        },
+        "southwest": {
+          "lat": -39.8157207302915,
+          "lng": -73.2499217802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stand ilustraciones y arte",
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113029026857822003204\">tavo ext.</a>"
+        ],
+        "photo_reference": "AeeoHcIwv9iiD66rKC02ydt12czpQ_2vpxF5_Lfi0XQChAn88xxtSNZ7e1X4cxTzeRh7sRDaa3DtP8-MkAb-FBtul4ocmpTE384mui1WGK4hm_wUZyZCq40ylkxEwY-YL1V0ftEwe5wJdWQK41hTCxPLsSnHap4CRG9WihXq4QhrF7c9_8h3JVXvCPE7t3UplMuLUsEtnZJT58_gU0u1MitUfHU8eTcoEubODStD1HjX0MinBkhtHUZz3GvTWHgh9izcOyvjTjb2nmsPNM_wdzDRkK8DckP9GHPJ-B4C7IQ7F9JRyf6HHha-weCNbpOIyRyu0wBYOR69jRHA4AhLbvG0SPrCbspYYjQW3vEPUqm7Zqd9vlD4Mcl7QGsndd_u07zBtq5JiY94lFgAwMQ507P65_BbSebeYj5VaMjKuBtMzNyECd0U0yJUHjVdOOj1ouZmVlAK7zvZeIo7JSFKKVzKYVFSe5pRyyHjHFRxLX0CtQmEjQff3NSF8AOQePL3ebCxWikcvMe_1fAMEjpeOatBzzyrNdjlyJ66AsAVtLIHmrXr1Svvf7OsuE0iWJhpQwUb-JukyeXyih9F767esERiVlFUskZYUQyU61mUKpem_PF8JVTEhN98zQ2PILflJ9SDJPmZByvm",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJF8wadADvFZYR7LLj3g1XWZQ",
+    "plus_code": {
+      "compound_code": "5QP2+7H Valdivia, Chile",
+      "global_code": "47G85QP2+7H"
+    },
+    "rating": 5,
+    "reference": "ChIJF8wadADvFZYR7LLj3g1XWZQ",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Avenida Arturo Prat, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8132249,
+        "lng": -73.24846509999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8118952697085,
+          "lng": -73.2469961197085
+        },
+        "southwest": {
+          "lat": -39.8145932302915,
+          "lng": -73.2496940802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Costanera",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102936705445639577197\">Roberto Ortega</a>"
+        ],
+        "photo_reference": "AeeoHcLtGITtUYlQ10V3yrEi7bPTvv3kM3gIxXPH1E1yNGF-WlI59b41afl4Rl5yRj62qSnMJOMQJZT6BA9AeENPFujVgfLuJC0rRQhP7-mcCvyhe1ywL5quWB9uBzlN1kGsmgW378gXBTXh8hwNSE2SOXdc0esKTCE2vuSPJr7gBcb9GZXG4xJe0FdtILB6wVv34SM9X7GLT9aWggP8aljtrWSqKhT_VkD81U9J2OcWx9XGfNOiAVGLIPS3zxJJIqJow4bMultw8tZQvf8055423kT-EiGZTM3yBmSCwInDdzxgsUeYeauLVn7DsacN9hJfjM9zH_Q0QtJpFou76i3TDjWpb1zyFxVxrs01zPYDAh4lBm-Jqih4nfETGHYl1BpbuFFKm5TNThTgPQIPK0hzBQujhZ3xr_kJ4ZN0hzhLVZGnkCjvKXxjkf3Cp-VgLjKJWMW5A9UKGyXlrmtec0KwmforWcxK622duVtHPWz6MlNGNJ69VWOwbV7hUv2hSCxgRDUiMWOPAORLx8r5C8vvUNp0d1Ui2YgzyfZnPV_zWlo5Q1VVWw0WF-E2P4wUGct3bWkFLKaGYjuzOT7syPb2sOasX9YwT3VyS6jp0He4u29COspCLJMkSZ0WGppehnFUTpmcHg",
+        "width": 9248
+      }
+    ],
+    "place_id": "ChIJgZFwLt_tFZYRS6o-h0legKc",
+    "plus_code": {
+      "compound_code": "5QP2+PJ Valdivia, Chile",
+      "global_code": "47G85QP2+PJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJgZFwLt_tFZYRS6o-h0legKc",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4756,
+    "vicinity": "Avenida Arturo Prat, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8121423,
+        "lng": -73.2480302
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81080856970851,
+          "lng": -73.24660606970849
+        },
+        "southwest": {
+          "lat": -39.81350653029151,
+          "lng": -73.24930403029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "vive la excursion",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJjWCPv8vtFZYRiI1wkb-_mL0",
+    "plus_code": {
+      "compound_code": "5QQ2+4Q Valdivia, Chile",
+      "global_code": "47G85QQ2+4Q"
+    },
+    "reference": "ChIJjWCPv8vtFZYRiI1wkb-_mL0",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Avenida Arturo Prat, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8156061,
+        "lng": -73.2491697
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8142930197085,
+          "lng": -73.24763321970849
+        },
+        "southwest": {
+          "lat": -39.8169909802915,
+          "lng": -73.25033118029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "museo naval submarino O' Brien",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114436731178881965124\">Daniel Vincenti</a>"
+        ],
+        "photo_reference": "AeeoHcIqzEq96M3CxuNzfTB92F6TnFEY4AzstX9uG2-P_nVjqW83dYDA9W7Y9oeDW_mJZAZRUS3_zH-Y1CNH1U_YN8V_ZAicdJkmQd9O8rjbw3vkcec8zjPgwteGtiwjxxOsMVn_MoDvddJG5NYEC0dNCN0_a37gO8BM_r4anGOUvRzVdz9FBzZ7ljt8XsDPGVpYUGI0iDXh41mPM4b9Oel-3k00Wy8Rdc-OG3AbyGgF16jlU3AFFOIhpuuRw9yMB5PJ2kYg333PyXuIZ59otES0EPMH1URgy232Ey4BRyNg5oITys70qPTUfHspkwQ-HvionzAOWsqQM6DcYSAOnc3rk9JtWRRpauy7tCIJ5gShdBJaEj_I_giAbSJ4KkHWqEm50P0N6b3Q_eIRF6hRwxKRt4p1FoLueFFwFeYduE3b6LUWQreojKwfMde4SLzSMrJtmvFR8x2f29gjHY-sCGwzPUlsHV7ycJCu_ZaqgeFO1nohNRq9gN9unwyzd2ouFn1CkC_qjtlNkIa8rxgD8aHR9NrGJGijmcPn9vG6psHrSs27CNEhyLpsqgT36kst_2qQmCWT3NCwj-ADWNNVMlHPdrbJ4O0YcssU5xYmb-1zSG2x2bPQReNeEpP-QaCD_Xqy7Zj-Q2hL",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJGaxXtHXuFZYRLVPlq_Ksj0I",
+    "plus_code": {
+      "compound_code": "5QM2+Q8 Valdivia, Chile",
+      "global_code": "47G85QM2+Q8"
+    },
+    "rating": 4.4,
+    "reference": "ChIJGaxXtHXuFZYRLVPlq_Ksj0I",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2546,
+    "vicinity": "Avenida Arturo Prat 2-20, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.816049,
+        "lng": -73.2493002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8146792197085,
+          "lng": -73.2477611197085
+        },
+        "southwest": {
+          "lat": -39.8173771802915,
+          "lng": -73.2504590802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Submarino O'Brien",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115960270981559684649\">Juan Pablo Pezzone</a>"
+        ],
+        "photo_reference": "AeeoHcIVzMAANIjPqISZkGbMknKTVBmaltam9-Gm1q544BHy7MoC6eiEd9lewssoOFj7rjZc0OW5RxHM4uNQ8mR1yo10sOy3rxr5RmQZCj2ca6-nGeCa98E3oqXWPW7I4s3Gc5I4hLYOABzUl0JbEIV6gfZuPR_Yeu1vvkqULYqdiDkH15MR-_6MeqyQp7M7wy1PGChFOy9gmAREKk0fBy7ze0NR7ZosTxyhIWoW4v-hxPUZ2fli0os6Q0-Zb3CM_hsTgQZgN4MlU3iPPaX8R7DIxo4TKZniGhthnsPw8JWnhTlgol-emOMBnGvoNRVjTXn7BzRDzBHj_4lHWb4QVdxIhsVIPIXhfypPUP1NokqL7cmkMsZUQHn5aby3CMEyWW7KsWPeu-CxoqJU-LoEQJ8RYaTn7eAr0CIulKISTHE6k_purycwSA3LA5iLjyTbqqB3X-C93XkWZd_R_kzmQ3Nc8WG5gumvaXaj--5M_JSsNTgbL3EuNTaNLTka_VQrAc-arOvi567u-V7Zv15MB0sqa9Ol4iHpfAejLNGG5F0w0JP8-Ky3H5drNoth65pi8jnOYLVj56dwhs1_eR25rTFFS5_4DD5Pb_D1CKCi96wZ-sfxiE1-NcFAKEsh95jHen-YzoE7Og",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJtbfnUXTuFZYRQ1QNTAq6JTQ",
+    "plus_code": {
+      "compound_code": "5QM2+H7 Valdivia, Chile",
+      "global_code": "47G85QM2+H7"
+    },
+    "rating": 4.3,
+    "reference": "ChIJtbfnUXTuFZYRQ1QNTAq6JTQ",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 97,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8111811,
+        "lng": -73.2475642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.80986851970849,
+          "lng": -73.2461392697085
+        },
+        "southwest": {
+          "lat": -39.81256648029149,
+          "lng": -73.2488372302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Embarcacion Fenix",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101838235481827897903\">Patricia Salinas</a>"
+        ],
+        "photo_reference": "AeeoHcJd7OeS-gOeTdS1jgAzqABTzwiu2dH8dErNjU6TdswvvDWyuozSEWpj8fSKi9CjJcPx1v4G-UMlP9xmdL2ClTCmqJ8qvVmIJazYxbU6icwgnABHH02W2uj5gszSjIIcABRXz5XAQywK7gHKuVls8K--uNf6SsfjUf2eKDv2FFw1w2IugiPEUAqxQk_2oGbmU6VJaoQdTpKYwdTNf6Ow5TbzyRSsHjUFaFLyEZ7wDMjDr2yj8Csqyo5w1ZQ8cvMSTPPbGfZkrlFyrFPxIBnUqWD_R4EUcz9Cnb4OLSPIfNlr3g57DGjQVXRI71cn_DAIzhoQ5969b_YWpK63CYo34LMnXxWhY5Fe_KrkvLyv3dxJiPgFBHSnfLLj6ktEIu_7nvt8lOQiifSFoz0QxWyO99wuZj565p6N9D6SbTI2fk2a-dKLS_yHvIO1loyPlzh5_tBUL5cC5k-WZ9k-6qmZ3rAZVg3sOzIqD2kyzeYK0SYc0W22fBrNMAXYNdBb5ydwzHhnUtiqNDleax3DSnBBRMbdm2gfSiH02p9saPQkhnXEkeQQ6HX8ljUs_OkVno1pGv2yT1XTqmzRqHVBXRJKA1OQRvvEm6Q9eJYxhPcZg5tBe9LzG4XD_9ETJnSZBxcxHLLrlA",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJgWZWWgDtFZYR3wy4n9y8dBw",
+    "plus_code": {
+      "compound_code": "5QQ2+GX Valdivia, Chile",
+      "global_code": "47G85QQ2+GX"
+    },
+    "rating": 5,
+    "reference": "ChIJgWZWWgDtFZYR3wy4n9y8dBw",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Avenida Arturo Prat 25, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81103890000001,
+        "lng": -73.2473396
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8097075197085,
+          "lng": -73.24595396970851
+        },
+        "southwest": {
+          "lat": -39.8124054802915,
+          "lng": -73.24865193029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Muelle Panorámico",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105914589141188385769\">Alfonso Salinas</a>"
+        ],
+        "photo_reference": "AeeoHcLCiJdTqMW44qgr54TbpVpeafULIydZxelqJTDCuSuNz5t7ioBl30qX7RB4gk4MjXrIOqsWBszZE7y-l5avrsGj6pEOWGutlNDuzTNjghg_1tIhO92LYR04R9wAgPDPbUUHgk5NALyTrRFg4XvprrFmV8CGb7LzJySL9SYKF2361BdpUIRfAmYb38n9f_G21z1d0T2EsJMA5rbMgZJZaPO_Hp4H71ULm7iV5vCVyXkz8WVOa31m7jzOfhE-x-9RmueAGQz2EpEuJAshpVakuSG0I4ncBrCkFYLD65wJRZBr5v1WCnkO9A2-sLMF3mrIV4TeXsd6Nsp3rZUvpu74I4NU_-naThj56SeIVisBKETfVg8fhdMixg-PPUiDiW8n0HoSvTz-192V87Ye8CgQhMtGG3TiIopY3zn-1nSTJaP3SIomrnZNsg2h54yfBIHRRGX5cL6EEXbwjN9jnkLe0gSa32FJELiM5SY_px5SKcPejfbOHMx3u2KdMSADCD6Rj3JcqasN4xAD9CCm9X1zDDgnBWPXW69pNdAqyEod2uy3JWHjottz2XNvO1gsUcq3WdG0Y81Aix_LmsUDOzwQmPVzX26fJcmuhKpre9IFP1aez7eAyHU53MItxfc7Av4O",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJYxeIvbfvFZYR6-oJmys51N8",
+    "plus_code": {
+      "compound_code": "5QQ3+H3 Valdivia, Chile",
+      "global_code": "47G85QQ3+H3"
+    },
+    "rating": 4.7,
+    "reference": "ChIJYxeIvbfvFZYR6-oJmys51N8",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Costanera Prat 855, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.812692,
+        "lng": -73.24181639999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8114577197085,
+          "lng": -73.2404951197085
+        },
+        "southwest": {
+          "lat": -39.8141556802915,
+          "lng": -73.2431930802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Plaza Obelisco",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109575823643984387768\">Barbara Garcia Verenzuela</a>"
+        ],
+        "photo_reference": "AeeoHcJdss9Dm6hz2Di2G8KI2Y1cVw-sp65Nmp3p0icohLMMTPNszvAR2IDjHtGLFKooVwMDvXVkEYmk09x_oTgM7mxj2bEoFiZJ4KNYn-er98p_I0it0Pi3qc39qZKQoiFTrTw7coONv9b-EKZea2hHHuoa74cb05D4R42h1CSmtgF5HMtu7Vcp-8_N1cKZqhCISGD1W_gD5P8m2c4ucjcrLzbOmTiGAJvBBFQv2JTsKP6XcJlnDBtEkfUyW-c2B33kQ-EN1dpwGO1LABVck92HZsJuYw5xlqtW8dJjlqHVmRHablYW75W4vGvbFdtUSTSJI3_e3fC1e2BREZnZVley6jX5T5s8VktHXn5KGPAqgD9h30hQYNQtrMib__TADprmv9_eKk4fHo8kQBcsUTt9pkvOi9zb6csJc48vP6asby9CEWTTQv11xz7NWtqDf1qjTr-F764foGmUn0QBhqWxuvEHNKYY45-XEWZ-x4IRmp1rJ5okS0TUxc-xK4r6vq7dkI6ZGBimv812Ks1ykUm9OnKDWNhrCPNSiuN8g7mOMSlI0ZI_I5V7RUfTtCE15T23pSsK8PqHwefiqMPprICD38BPYtSwFMiUt8ShIQsbRx-UVsF4yzqMeUTNe3oW0Bb7yz11dQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJUdAL8HfuFZYRpnqtJL1vVCA",
+    "plus_code": {
+      "compound_code": "5QP5+W7 Valdivia, Chile",
+      "global_code": "47G85QP5+W7"
+    },
+    "rating": 4,
+    "reference": "ChIJUdAL8HfuFZYRpnqtJL1vVCA",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 169,
+    "vicinity": "Avenida Alemania 500-598, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8106315,
+        "lng": -73.2473174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8093885697085,
+          "lng": -73.24582581970849
+        },
+        "southwest": {
+          "lat": -39.8120865302915,
+          "lng": -73.24852378029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Seals Pier",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118432996679027280274\">Jon Fisher</a>"
+        ],
+        "photo_reference": "AeeoHcJHRYnWRbSjV8qbahqjtwEyo9OawvnGE4Fn0AqzOnjafkdGFEJd0Ke8ynzvSNog9t4Ko_86SMkGnSIWxA0XG0QKGvmTXTZBZ4uOhN4vQUeE3MWzK1iityzw-A0hpHs-MwCAPQlyY51G1J1k7TKRHOq91RbNJaguIoI2TylkFJ_UrLknvpUYodkFINW1gbZzuhNCarjEGTozdDQC2i5ggwWM46tYvHXEHfqTHutC4h2L5275GD4nn0qsT_Ux91iL4ck5hwO0GH29kijrE7xW5R5QtU8DBI0jTzz41VrTCGsJV4nClrPJkUsXRCn0k6Dm9xflvNubtYmVyxxwl-HIH4gAeR3zVPbEkaeyuZtI8rbAnJk2OGSaPzrwyAHDQLsB47kl1xkONIkfqOOhnzhxZlvKxUA8bdxVG8lzZ-Xf_dXOHRkPQ8e80AJyFPbKVn0nbagIXJeX2zJ_rx7Q5Kzn0PWSBWx5MI4ZEpB_eNTuwLhI8lt3K0lRmRRHUQzTF7LDdDyoxpKMVlx4MCeZDo0G8apfGOBd_M_P8jYzZb-ILe7MpuWLnMaNHohaHmj8yBnFXapG0TlaKJZk13kEAUxNvhZGtFLnjzZ-7nBmTXXgZ2wnZFTkSwBj8YWzj5DZiJfGLaS4V3mA",
+        "width": 2252
+      }
+    ],
+    "place_id": "ChIJMSmKQgDtFZYRvWZKvh88W8w",
+    "plus_code": {
+      "compound_code": "5QQ3+P3 Valdivia, Chile",
+      "global_code": "47G85QQ3+P3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJMSmKQgDtFZYRvWZKvh88W8w",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Avenida Arturo Prat 100, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.813511,
+        "lng": -73.2507316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81209181970851,
+          "lng": -73.24936696970849
+        },
+        "southwest": {
+          "lat": -39.8147897802915,
+          "lng": -73.2520649302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Museo Histórico y Antropológico Maurice van de Maele",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115893341212060192371\">javiera</a>"
+        ],
+        "photo_reference": "AeeoHcIIVto95s9ikBK0IGPDFZpSA2P4JExH4ELEfZYQMoOVLT2WV6S4dzE7iVe_V_1n7zaBiv8nacoXrZr_Cb0APxTZvDBCQOsZoy65Tlo74AB3P12GJ8CwzdfHegGEu8TPMdsfOYCYJU4cVcj8AuziDL__KLr3mklIYEPw_Naxq302zV9zWf41zmev6hhgR7p24fvKzeUU4Y8kgAh5ytQmCo-YMGM35p958iN-DLqT2Iq5nBGp-ybrVLYduLy_4hFpQ4nXwytpcrq7VGeQ_sw-Wc5ir8ZXpPTjVTKLUUPMHbbKw8lUwGb-cqn3Yigf_m-EtQeoz46Rlc7jXKAm1KZrwjlDQraa-RkuNVydDx267_liGNSoXL-kfIktcsw5lWVOl69EX1IrD45wKXtnQXH58c3smwrvsWUwWs9Gf6TG3RorNk1Iuzy3sYlszQvH_LFjUvSk0rDa6p4STg3jIMuPvjzVSI2UVtcNcyi5StcZIiC_pwXOKRmo-HEQVb0L3ZnRBwacm4b1NXUDIpwFxfZ4uEwQHQRSy0pFazTha0vu9Mnrv57OVRLxqKuJgbxsklNeEwNK1SrXfomSFFAfvf9DjG4mVBfEv_iQ_0ejZ7qeydeBL9cw_JYVwjnccCuEAktSWg8zuQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ56Mnm9_tFZYRGmugRyswACw",
+    "plus_code": {
+      "compound_code": "5PPX+HP Valdivia, Chile",
+      "global_code": "47G85PPX+HP"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ56Mnm9_tFZYRGmugRyswACw",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 793,
+    "vicinity": "Isla Teja Campus de Los Museos UACh, Los Laureles 95, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8114868,
+        "lng": -73.24937729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81002811970851,
+          "lng": -73.2484704197085
+        },
+        "southwest": {
+          "lat": -39.8127260802915,
+          "lng": -73.2511683802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Puente Pedro de Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110887977273438416687\">Angelo Oliva</a>"
+        ],
+        "photo_reference": "AeeoHcJS5D4IxB0SliQtrEVQdwWVoHxdOLsQDculWPIjNCaVc3tj-Sa6szXEwJhPrVh_Y6PhlBXmVc34ZbgfGVQEDXPJ7Q7wm5Coe-NZEnOBoAMl2G3VSA2rVpKzhfT4oIQjQowz4VlkE9v7h01xjtksYNEZk2mfwh3-E2YGYo8VKtGEIHtuXKh3dyZ6o-DRFCnwqY-RK7KUfYkbhOzgYLPv1NBn9oa_vsZFiTkOX6yLeXSlB_kMXRXghw5nS4Sf1NBOmmWp1LycErZmL3zvy-oJB1ChlI0xBfTp-0KqjF_rWVNOvHOLtycjM6LD3TGv54DGCfT0JNfUVVFna2BZxxF_HqbS4vdnjNFKdaWmm8nFUlIxDxNEpSlmZN5q9Hurriw6LTl9qOPwjLLEsQJpE7uP1-3SdW48CtzZexa-dXDiGQzNQnYVjbWbgKLmZy75DIoQ4zdtQbF9i8GK_C5y2Wdl7ZQRZamB4woMmU_tH2WhLdbQpJBUTey6jgFvPadn_8hsTog7UCVGEPzd5byd91oE3v_sDTxNmAdsNAVkpbacYVGyBZ2LDFCPQc_RRDKgKMi1Lr8PFCIdGj2S5Xo4VIX8Ke4VBewxUaeDlhOwG6hDQA_AlRviuHN3TXEcsccTMeWn-QAFHQ",
+        "width": 9248
+      }
+    ],
+    "place_id": "ChIJ3YVmEd_tFZYRE1ljRHz-nYs",
+    "plus_code": {
+      "compound_code": "5QQ2+C6 Valdivia, Chile",
+      "global_code": "47G85QQ2+C6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ3YVmEd_tFZYRE1ljRHz-nYs",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 191,
+    "vicinity": "Río Callecalle, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81796059999999,
+        "lng": -73.247582
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81654031970849,
+          "lng": -73.24621076970848
+        },
+        "southwest": {
+          "lat": -39.81923828029149,
+          "lng": -73.24890873029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Iglesia San Francisco de Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109669399393660971977\">Clau Soto Osses</a>"
+        ],
+        "photo_reference": "AeeoHcLzjJyldI11EmV9WLdvFNj09TaHMj-3Acb4rmskoVc2HtPglRs01HelozNSnrmY-dzmxRftVNCS6bk7TiNH-TUE_WFDZHvQYAPidIcdsGSZFZiQaWGp8exphXwiyaCkJKqP41S2_FIcN3LIbsJO96KFVAMbtYKkWVEX-IimMrgeAVCfZY0dKp7raVYALbeOA344rBDKnU6YzEB4i4Fq1DAP2JqJ8r8xbY2NIzugaLxObF9zbCuh67rUExBq9UayI4U-qmkHgEWxwYHnd3uWJUYTp6_jVzmLxtoWbLJdKF_YxVeaf2cqviRlGuNSJ4Qej9pu1ZB8o8ic_ko6fzOF5A60WsnI9TsLXhM5YK5hZmYiWd-nkTw6c6lha0gHOmQXpuO8G3aLUlFaFA4pioN1TNjCFJYuLmRlh-3y-9gLfz8dGMny2NQyBfT-Dk3qgKi-HfoEzPfQZzAD_3ups9T8jz96PTO94oyY2xYIJ_e4juQyfecq2Gy18ELuIYsctG6ZXMDdp_TeChMjppZNxeN-tYk8o5nGhxxW-nW8Ld4XuwO76LAb6zvJrCBwmmVl9iCH1N2YZ2E-NwCdR4N-DAcqevJ_3SDSd0dr8JBxpxRER8fGUGBKDlgV7dl78ndXAisSvXEVIQ",
+        "width": 2252
+      }
+    ],
+    "place_id": "ChIJYc839nPuFZYRK-s_fiN8BHY",
+    "plus_code": {
+      "compound_code": "5QJ2+RX Valdivia, Chile",
+      "global_code": "47G85QJ2+RX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJYc839nPuFZYRK-s_fiN8BHY",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 169,
+    "vicinity": "Yerbas Buenas 181, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8142775,
+        "lng": -73.2510826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8129412697085,
+          "lng": -73.24974001970848
+        },
+        "southwest": {
+          "lat": -39.8156392302915,
+          "lng": -73.2524379802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "chuster",
+    "place_id": "ChIJJWmFeQDvFZYRLxSmmgv6ziw",
+    "plus_code": {
+      "compound_code": "5PPX+7H Valdivia, Chile",
+      "global_code": "47G85PPX+7H"
+    },
+    "reference": "ChIJJWmFeQDvFZYRLxSmmgv6ziw",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Los Castaños 10, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81973230000001,
+        "lng": -73.2490299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81836976970851,
+          "lng": -73.24778171970848
+        },
+        "southwest": {
+          "lat": -39.82106773029151,
+          "lng": -73.25047968029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Colegio Alonso de Ercilla",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100795927032409492889\">Jairo Guerra Inostroza</a>"
+        ],
+        "photo_reference": "AeeoHcJROrZhwdU1woSKXaTaV3TGrGhSsDAbpcySfK5Ppv9hpzWHzUgs8up4vPm4zuX1iVczZzOXoVGtURK8k_13csOQdE7yJuuki8hzEHtZ-DtyjobNkosL-585JzDnF_Q85dMsBWO8dodWcSjymPcJbq-WXjpa1I6MWqcKojglEWIOANWLfDHRPdvpHMi4_5lIJ_qCCK8VVApIreD5hFIcRighaXdyw-UUXk8eVz9j71TavmKqSJPYSR_ZNbbynqYi-TO_iV8YDbalwdpZoo7lJdKkblEt7lDubCwa_4XGMSHZEotwtRNX1iWmNiUVrH1rZjCLVdu0Hv5e55XfdiTowNegDL-E1G3gP-1o2tVo_NZtHQODKzcn6z7Xq8ptgyoXdYNkREHoe_ni9g-jBhZkpL3S5c-eiOTIU74fY0qACIbtm1doaSdJj5uSreHuBQnHDvM1YhJz3cYB8Igc3P7cGX5wzebYCtv8GVr7RxNiWdKQW_1rclTD55AvqQLndlgvgsg_97Smb0Pl1R8FUdiqXQ49cE2HmK6eC3u3R3909T9KUuWv7KEb0FCSj6ZTTV13p5JVVK6wjmxQGYysJMhmFXyRWWcmo9Vj-WgKN-n6aRNga9RZ0cIlM0xY4J2b-W6p",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ56QJunPuFZYRiYdPR7zka68",
+    "plus_code": {
+      "compound_code": "5QJ2+49 Valdivia, Chile",
+      "global_code": "47G85QJ2+49"
+    },
+    "rating": 3.8,
+    "reference": "ChIJ56QJunPuFZYRiYdPR7zka68",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "General Lagos 990, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.82520969999999,
+        "lng": -73.2514152
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8238615697085,
+          "lng": -73.25005491970849
+        },
+        "southwest": {
+          "lat": -39.8265595302915,
+          "lng": -73.2527528802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Camping Orilla Verde",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102760368144369852284\">Viviana Aguayo</a>"
+        ],
+        "photo_reference": "AeeoHcI9ARZ5dI4Cb2hqVfD6gGe5aWB6v215fWVBLIXUecGws275hq2-yMUbIqrjWsv0c_gJZKu-ygqVPPC8rXBAqKfzug7GMp0uPNLOB7I76rh56pkjx9NA6f-1a70FqNxRUGn9l3SA0Cbtw_-6jDq6ydkWt2Ts5KMF91n6EgKB2C9nQSHlTL-PgSjLdzu15d4VnnBQ5ZFWsBH6j0O9qIOx4_DqCiNDLAxHoBcYION4Z6dEP7rH1HYZuL7WsOTxBR9pY0PfcEmn7mAANkXCti1lYGJAA_RTfvxeXixB4Xm6jOfhxgzUQXY_2PRXa3w0g03T6NAFg-KDPvYH6xtSs2Ro-c5RC8mFAvRw5jsamfder6MjMWF0yfE7y3wCdyfkFMRBajCuu-rD97oGWngyeyYFfMqhNKSZkrEWF0JouxwEBid4_rEzCgptfb0u51tajpVVBqgrPNNriQ2wVaey4KbUb8eA7S9Qr6dqja3g5lmxm42jrs-sUEs1bPFgSx39mAyOuse-3wQwcaje0fSnwjRF0p35bcdlgzcrhZh-g7iuGylkIdR2FFYvXAB6IBiCwLExhi4e__enPglDDfxG44QzxLpBytdmTPGtz5308wC2w1yndwTbpk3zhnXTVuCACGqOZWw71Q",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJ96AOF23uFZYR-6QTK_tzbjw",
+    "plus_code": {
+      "compound_code": "5PFX+WC Valdivia, Chile",
+      "global_code": "47G85PFX+WC"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ96AOF23uFZYR-6QTK_tzbjw",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 360,
+    "vicinity": "24, E Lillo 2, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.808998,
+        "lng": -73.26820839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8078277697085,
+          "lng": -73.26696806970848
+        },
+        "southwest": {
+          "lat": -39.81052573029149,
+          "lng": -73.2696660302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Camping Isla Teja",
+    "photos": [
+      {
+        "height": 2604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110109846308172786776\">nathalie bugueño</a>"
+        ],
+        "photo_reference": "AeeoHcKodGBs4Q-GGNovO5ugFGKL-R9Bqvy5Q8PTcuv2cXQbpzGwTfGrHvpvozU75DpCdx6OhNPaz_nnvM1iJZLDYqxgTsN0gRY6bVFMFGodffLlBgpwkQ5VQMQsoPNd81ZP5ahtCdXipvJ3aO_LyPLyluRO5PBFiYx3sXd4oLsm3ljMSADVkBp5Q8Pos80t8P44yVPSfJrsXXvxtBKNy6r60qaqwFUodgjjTyNZjbeuzkHA1Qm2QumW6h4_mFhG1rJSqTvpnmjTPrVpDE9w9iyQhAcM31rEOm1-YOvWYSSX4jIq_kAPsouozMrHjeJAoGZqKS-bggKFCImNYOJYgODHMFflGOTfp6bIcK_RC8ByRX8KwkOwPGauJVJ09r3Vv2rziCaZ1s2bT2KgcJ-HQT0jonKiT4nsuVXfHPo3wSfR1Zd3s7PUUlKuCYaTcY6f6uRgKvML_6it5Ns95MR-03dgyOsgpzM5pZj6nklQHkhz8U4KjwGwGCIXjkkEZjR1Gq2g3CYSRFRJt40NrhDmLEkfe8-8ppo7rGhfp_tLCVC1F8rc4vO1UMaiv6X_1DLlF1pqrPDways8f-P0-Qio1AnDuQ4KHpailXuU28wbTbWA2YUEmfNuRikHZNNUeIg8nmHDedhOBLig",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJN3LokPDtFZYRpFogs16U98Y",
+    "plus_code": {
+      "compound_code": "5PRJ+CP Valdivia, Chile",
+      "global_code": "47G85PRJ+CP"
+    },
+    "rating": 3.9,
+    "reference": "ChIJN3LokPDtFZYRpFogs16U98Y",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 503,
+    "vicinity": "Los Cipreces 1125, Valdivia"
+  }
+]

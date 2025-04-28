@@ -1,0 +1,3908 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8133957,
+        "lng": -73.24379569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8120470697085,
+          "lng": -73.24244431970848
+        },
+        "southwest": {
+          "lat": -39.8147450302915,
+          "lng": -73.24514228029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Fem Joyas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105810098453538374731\">Diego Contreras</a>"
+        ],
+        "photo_reference": "AeeoHcI5AqvYvOn3d2b4l9jV9SzS6R2zxAxPMOKH6A5M_hTFONjF9p0V27egE85ahUMIkTo_0gxYwoebxhChlKzh7vVPTG-Hm6jHODgD9Kg2XmkzMxfKwv01lQIMqfS_imBHT2KBM5rnmoruxdMVCJUG0RS_TMcj5NgRa67wQwcQkYCr_wn_Vz8tLXaGa8x3CPBFaZxWUNaoZH7DICGxdK7SpE_jO5T0xtrJgY1e1s2kjEcV4RA868P14-8FsPY3LdCP7JTwgT0Nf5OEkfDMQ-eolc08-vlua7fiHvNpW9GwQ_8LdusDOIEB1WmV3Fv-KgXssuXbK2Sq0_OIrXKozWPfuM6TTOB9GbschwC9dSioKI6-c1j9iOC0OKKaeIZ-jC18FqO9iZr72LfYFY63P4bBeDWMH_nkw-0eMYICM0Lmvc2w45ZHl8_d0dkD3YXtKBbS9tLEoFElbKNgmt4FDw6U6PPIMPUb0-aS8zYhmnRQQNHSNixs2yAXUTJbH3Ph7e09oeZIQgIGSti3olz4a-M22s4DekJwhPKCBN7vlWhxhqY24jV4vQoRJfAimE0oNrluRvZEtE77KpryjD3Lvu8XZyF990RMpCA2WXVMGwsvNeY21rvxhdRjdY_l8e9oxR5Nbo_hog",
+        "width": 2336
+      }
+    ],
+    "place_id": "ChIJK8nFy3fuFZYRxUp6bBFHc-s",
+    "plus_code": {
+      "compound_code": "5QP4+JF Valdivia, Chile",
+      "global_code": "47G85QP4+JF"
+    },
+    "rating": 3.4,
+    "reference": "ChIJK8nFy3fuFZYRxUp6bBFHc-s",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Caupolicán 402-498, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81603619999999,
+        "lng": -73.2423436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8146855197085,
+          "lng": -73.2410087197085
+        },
+        "southwest": {
+          "lat": -39.8173834802915,
+          "lng": -73.24370668029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Plaza de Los Rios",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107353427266203462596\">Plaza de Los Ríos</a>"
+        ],
+        "photo_reference": "AeeoHcJbuYgObv07F1Sz0i4pZS55WoCdadWgKRoZD5wFQhTTbrhG7Caf1nrqyEUGNegDcA_N4rbohmTB9JufC6M9hPT7Z0XuaVddwLMGxEKhSJBm7qH3hMnVh84lMZc4M_COVIEiuwDtOwKPIuZnGLofSLG32hHQiaEOrYIuiPolCS12yEM30msZ7aqFXeXIE0s4rvS7qJpe4ImL8THnDTAP40b2OUB5Ld9cGGNGrtHbFNYwjDUIi3Yavhyx1JavudrtLMmM47PG1c4gpW2mNIjLbJSnOD9HZGScFFyaLtrt-qzJefDR3fLzbQymRXGZhwtz1s9v-8wEkcI",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJrVigQXfuFZYRbJtFZRqJFbk",
+    "plus_code": {
+      "compound_code": "5QM5+H3 Valdivia, Chile",
+      "global_code": "47G85QM5+H3"
+    },
+    "rating": 4.1,
+    "reference": "ChIJrVigQXfuFZYRbJtFZRqJFbk",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9583,
+    "vicinity": "Arauco 561, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8137458,
+        "lng": -73.24536650000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81239696970849,
+          "lng": -73.24401676970848
+        },
+        "southwest": {
+          "lat": -39.81509493029149,
+          "lng": -73.24671473029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "New Taboada Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3978,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117131966559433105632\">CENTRONUEVO Taboada</a>"
+        ],
+        "photo_reference": "AeeoHcLHOXKAlc5H0_PkTeVOWHdY1jpBcEc-B-HmoDU2AEL5iuJRAzLsOBUbl9r7-mvFk2y8xhvFh149yWkUptvJWJMc62cyqxKs_kGasNZgOdHhenNDRWy4WlqEvcWiz1IPE-Q0u5lCtAwQaB6hr2sYqQUcHRzHZAMt0ARyh5NBfPpG_G-WN4H2E0xq8U0qk53KK98DzEWNzMJw9B5rXtpI_m2q8TZtLPvyAzsufTSmbWEJZMhnk9s0_YyOLG24-RwGTM114lpk9eZuO7r34Pc2ZJIfunt7id9kBvPZMi01s52oKNarxd7NLFmC63fvigYziLa0M0dOvlc",
+        "width": 5968
+      }
+    ],
+    "place_id": "ChIJ89iZbnbuFZYRan2U51Qydt8",
+    "plus_code": {
+      "compound_code": "5QP3+GV Valdivia, Chile",
+      "global_code": "47G85QP3+GV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ89iZbnbuFZYRan2U51Qydt8",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 411,
+    "vicinity": "Camilo Henríquez 466, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8140735,
+        "lng": -73.2468765
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8127165697085,
+          "lng": -73.2455699697085
+        },
+        "southwest": {
+          "lat": -39.8154145302915,
+          "lng": -73.2482679302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Primero Mall Chino",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108003148543133771360\">cata</a>"
+        ],
+        "photo_reference": "AeeoHcK3i8ZlNPaJJmO7opUjf5dxY2jzh0ltiY6yxWqQIUYU3oV4KQmb9jamKA-fAw2Ja95aqaZQsQW3EAxSzBssyxpuNFPt_gnLFhzt0VSLyM_sYhuBehQRn9-Y7qAraYsCxH5bD7ahPX9AJ3Rpt_grkowHKRQSXUZiTOe0Dw0HY7ciYqVe2mEvOZk1Q4f6LJAsL7uyx0YaHJ4x4pYvQFuVZJsebd9whzogN-t_w4GY46CwZoTzf_MwmAoduY7mANviELOQ0hgyE5TnuCG5rHZWhEQ5CpVaq1Dr-ycCebCQwJFEOfebkW9NvPtT0c0UL4t8-3vOUU-1mFfbA6M5boMPp1NoKAKPR0NHQJQCvvhWqPHhtdh6X7U4pKRpXLQTYHkKeoPCkTbvZ_ieTSXMySjptxhylM1TNhO9kY55WzN9IDyku_QcT6HWZB3FQtVhBUcO-7ZqHf748iYP4QzRfTgWvDIl3aU5256VZKBghrpuLwe8pzcRBYxVJHnrBZwd22WcFviBwFTO2Hp0Qimf4QbER4FoGOsQQaSyyoW6j9-VbxvU2S-Ug_wj9SEyAJq0iQmdeZJHdhHQc9Awtd3ODthoQf0yzYhFKkap56sFZCHJqvnnM5ARql4fmxpgdkv8zyQmodqC-w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvTSyCwDvFZYRY381sDyKygE",
+    "plus_code": {
+      "compound_code": "5QP3+96 Valdivia, Chile",
+      "global_code": "47G85QP3+96"
+    },
+    "rating": 4,
+    "reference": "ChIJvTSyCwDvFZYRY381sDyKygE",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Independencia 528, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8137072,
+        "lng": -73.245166
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8123404197085,
+          "lng": -73.24392776970849
+        },
+        "southwest": {
+          "lat": -39.8150383802915,
+          "lng": -73.2466257302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Weinbrenner",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108003148543133771360\">cata</a>"
+        ],
+        "photo_reference": "AeeoHcLf1t7deV5mi4o046Yo0oxI289uytAOxzH0s8UjZYRTV8w2XJAMkWafidhBn_PPbhz9tND8gY_FRXeYJCNa311DLPzlB_qSSo-WD1RFQFx0XnibJwcsV0smf3GRo6XsBp1s_7_xZl-bkUacLIuNYWiapWZmR-YywkHVEAFMcLit6j4K8Khkw9tVDvfM5TmIC_9Hp4XOCQqSGFwQPm-8tuUOdhpS1VZ78y6xCOUtuvHoWwEje4tW_32wRghrfdU1zGUjPKevjOLj9Ermr6tku8--dpJCzU0Q_NFpKAKXRAHVRPvPFnA8s744Dn-SEnYrYFpY5jzBYyrzecynVo3uLRmbvQ6qCLuCulKg4AkEZ-qT9gk7eUr0Id3E7k07I1kIet9fpEHp4xSPnDV0BU7Wyttm8wZK9y23na20cRyA578UPl10_S7YpRfB2Uy93TSaEVydQ0fFHix-cbZosCWddZYYHTZmorF6mFq3mze9_AXf5czF1w4xm76tgpeeVo9ReYCu_7AbBp2vvwaXPfeEoBqDyJRp60RF5fOtM2qkqI9KwVNdBt8FJfoyykvRjzQaLt89Mf-G-IIr6kBx2Mxxue580liqa84wZbN90TgSaEpFL9OY8uFQh2GXkTIMDdumZAXaxA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJwTKjEHDvFZYRZ42019CnJ_A",
+    "plus_code": {
+      "compound_code": "5QP3+GW Valdivia, Chile",
+      "global_code": "47G85QP3+GW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJwTKjEHDvFZYRZ42019CnJ_A",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Camilo Henríquez 458, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8143078,
+        "lng": -73.2471427
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81296681970849,
+          "lng": -73.2457471197085
+        },
+        "southwest": {
+          "lat": -39.81566478029149,
+          "lng": -73.2484450802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "COMERCIAL TREBOL FAMILIA LIMITADA（POR MAYOR POR DOCENA）",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106841444954478976423\">蒋文杰</a>"
+        ],
+        "photo_reference": "AeeoHcKXfs_fri3_vxk8ya7T6C4Uw68mx-Bj9tL1z4USfy63yT1iFB44XGJc3Uwx5T5D01L5OC0vOpFn02XaVNX5v3l8zKvz0ewRPtMlKPcQSfTaqhfV4434vSMVycbNPY0mu3ylN0EsTlYHn2GV0S5wa1QwG1U2QvxAMY4m6LNcNwX2eRDjpmpKcblkhcgmJsU-9aSmnq7SKcc2aXI6QJGpSyhmoFRI0Yuj7j_QVDweuE8tphE-gkv74_txMzkvzMebXtrlHh5ldypF1d7ErYFR6XZm5jlNe9OlDF4Bk_9Ya9a_FPlHFGOwycyO1NNZnOqywzgMbEowqwUDdtxJ3dg48qSOjihx6lPxtQKxpnYQ1eqeDkMnCN91GgtH8VoMYodfmdAWZomNlg4l1nuw6WFjhrqOxUJHg-o53DA6F27zVmRKlrymBYC89SmJGR4hJTyRh7LRC2H9oybzptM10yOeAW7gXfACpNU4Qm6soKz0H3M5MI8rnAjQfUBhmNhaNqCSY721XAG9PzdFfPMpa3kI4bazb9PXXMU41Ati07F2Xt25DOIDPBt547Kh7g_qdqJr4vB8U8buJwckiQSfCZG_tg0QcWimnQRiPwRRN92UXmnEMlXQo6hZ-c60t9U9-zEf2gf7yQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJx-sX1hzvFZYR_-GdJYXG3Ec",
+    "plus_code": {
+      "compound_code": "5QP3+74 Valdivia, Chile",
+      "global_code": "47G85QP3+74"
+    },
+    "rating": 5,
+    "reference": "ChIJx-sX1hzvFZYR_-GdJYXG3Ec",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Independencia 545, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.813696,
+        "lng": -73.2444585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8123872197085,
+          "lng": -73.2428471697085
+        },
+        "southwest": {
+          "lat": -39.8150851802915,
+          "lng": -73.2455451302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Santiago Ferretti",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113279928589588026289\">Martin</a>"
+        ],
+        "photo_reference": "AeeoHcIs72q8gKlJhNZdga9F3U8PW5rBwvWY9hzGqwi19RyNhjbnJiW04WeTKSW4rTpOF3lLEwqBY9gQWoICiXMVf2lMYNuVdWqm8PbTLtHBLkg0TBUtbXs2zOdhDtHOj3Sn5GRsvenp6PV2x3Ja43nfAOXlAp6Y6ON1Kbi16wKrTC5jxmjhc1ABVmZTVo5te9UCAn05KOKi9TcMyqaivFeRaRT_VI698RPT7l0N3vKiqYZuyGZTQTalp2QaPRhFdSeQXu9oBRKFYt80eagjMfGeBNRBOUpAFcph42Y1yoE1mn61meUI7E9VljObIMYPvDzU0FT5kIRPQhlXIIl3X5FeBBI1ISJzdBAUr6aXdpTcSm-64P_kSkcdKl4ZrsixUIQfHziu5KBg1LZEd8mVZWkcoix2vsye2D7qoRHJikn8Dk1ezfYTPQxQ3zpmzjLk4Cw2hbb-alWfQvzNypQpsYM5wZfgk8kQn2OCPnM7dUjeOn9Nat6_u3RG9gNK0LUQUjuwE4jyCru1-z5ReSuavkYtVjfjMEa72k-Jt7I-a-HWV9cuY3EUrqz4IsW8XBJg3zYA-4UmZF1826Hty3Hm9xoDpRwV5oQ7IV4SgvQpAX1kBveWUxsU4jjvOFZtunnh0X7EUgZJTOjs",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJz90isZDvFZYR9pRga75Ylhc",
+    "plus_code": {
+      "compound_code": "5QP4+G6 Valdivia, Chile",
+      "global_code": "47G85QP4+G6"
+    },
+    "rating": 5,
+    "reference": "ChIJz90isZDvFZYR9pRga75Ylhc",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154331,
+        "lng": -73.245488
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81402466970849,
+          "lng": -73.24412436970849
+        },
+        "southwest": {
+          "lat": -39.81672263029149,
+          "lng": -73.2468223302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Arauco Mall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105223450330245909305\">Carla Icarte</a>"
+        ],
+        "photo_reference": "AeeoHcLLkDWZJtE_ORk7seretiiX-PkKkHf30AMWAwTZzTY76DTT0itkJiV7MwwUP7Nsq08lAA1G-MQ28mvKtKfE9QiVSJnlW0Ypo4If6otTq84rVaFwO5yFOHk5mS2s9k9hsB14XH8pnyN-qgLsLY8aEzG0uLfJAZOeNh6jPBJZ4wf_XMjYa20_pienCYiAiHognf9ANj8w_q8RHfvGFtKQH2y-pKE913mAMdOns0E3viRgwOqHtoaCCxalBcaM1XAGMyGMDXE4OFuEm3hpg40h94R0qadtsa0KwRh0DKnRMqFznB5P4TBzz7AnlQaxRv36rzUfXs6PfhfmU_OyGyh8lczg16Bf8vxGQkyGQds9nWiBgsBnpsu7PmIfXNFob06L-qwFUhqaVNgJzG8hBAs-ccvOcGQp7-ju3t70PBlENhlWyUlUnJ6TeM4hEnPY_pd_FS6rUf4KUaRMi_IdtNMU7ZnfqXsm36feONcbIvmmLDGAoI2Y-A0jQEBEO_ozAUqv6FjxaYKguvckfEnsbBUhrfbGxZS3l_hUjNBuojbasjJGUOFbGdQUmnxzFy_dYvK6bnx4XnclHMDNAuJc7Te0KvRc9uuIptv7txJIp_tIoo7Pe2KB7ceU3RyawOPqHv14zXV-PWpT",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJDXU-8nbuFZYRgvOXPFKQuZE",
+    "plus_code": {
+      "compound_code": "5QM3+RR Valdivia, Chile",
+      "global_code": "47G85QM3+RR"
+    },
+    "rating": 4,
+    "reference": "ChIJDXU-8nbuFZYRgvOXPFKQuZE",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 446,
+    "vicinity": "Arauco 331, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8129723,
+        "lng": -73.24654559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8115790197085,
+          "lng": -73.2451848197085
+        },
+        "southwest": {
+          "lat": -39.8142769802915,
+          "lng": -73.2478827802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Galeria Benjamin",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105008274701788284574\">Gerardo Cocio Olmos</a>"
+        ],
+        "photo_reference": "AeeoHcLp2rqXGake57_DPCdLMZUkkaJdxN8RNWx_B5lEc1GHJ5aa1CJNJepUr2dAbDRmIDOakwLf5lcCZqhG1bwicfKiH5qgeq9xXeuW-zfHbnMYJ2ofh9uSYBpodMckojRG00VjE13wpS49sKOnLvubCLVUu-vvu2mVwjLXio65e7KjS5LgcFVA0_vQJGoV6dljiFfqmSm1ZI7ZJ3xfvTsrSypE2JzpQz4YxNsI-P771-a0cZGrUBk8OXZa2Tufp-Jh0fxjA8cke5vq0oZc7e62N3wrq8beroxdWUSKCBy4nW5bSTo6XHr5yoJ6th3qCDHS85hAQlleDJqhb4HVCJ6hHyhGBluils24hk6fg9AJZ4sUbyrNBhI21YJu_1qLqwJKvd7zoGdv3mTo6ATk0eWEj5Y0qjdbXCkFA6DXTZdpE2DMyPZFLBW6TZHd-JRm-jcVsL87Kwhb5siXvye1i_rKKlpVYETXh9gE7rQRyTP2VqQafLeayHecTGQckoBKKm_A9RpcAkpu9nbg_tUC5_4BX4_t9veU6X9xfCfuGyhnEH02aBmbtZzIJ9pbGv19bCaQ86aszcN-6BdZ7uI0BWvgENmZ__LgmjuX8ASUV7mqQNOy7_vLe3otjAsoCzGLFwTZrMEmJRKL",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPRwtz3fuFZYReNi545Rc0qM",
+    "plus_code": {
+      "compound_code": "5QP3+R9 Valdivia, Chile",
+      "global_code": "47G85QP3+R9"
+    },
+    "rating": 4.2,
+    "reference": "ChIJPRwtz3fuFZYReNi545Rc0qM",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 258,
+    "vicinity": "Chacabuco 112, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81326969999999,
+        "lng": -73.2446341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8118656197085,
+          "lng": -73.24327141970849
+        },
+        "southwest": {
+          "lat": -39.8145635802915,
+          "lng": -73.24596938029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mall China",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111117305715107938472\">L.A</a>"
+        ],
+        "photo_reference": "AeeoHcLNlVsg5TFWRQ01zwCdL5lQ7Cbphotdxrm0939lvg5Cm6apBqo1oifx8PleRZiz36gZkLVfipdkGUQrTVFQBQp7uU6_RJ2rZLRpGYl400agdL8Zq11b4fxT8j1PHeOprw5199XrXwTl3I41lIIZXr8sULqumbZUQ6MqMCZty72GwQA9uFLmV7CrGywlTgfaNoT02guLD-OhlyDWMGZufOpxW2PTB5nEsI9_OfkCtjsyinr0hAFKfhGk10BoGL16rBZVIMo9r0_8HLllO6Dop_mJggf5AZ_hvNuYjZuK-d7JusjTOqE71y5KfKFxpFFYgb01_gI9QOLz0jHkgX-mtsGWrwy7jBtHNIVNjFFYHwM5TxpxoziJxgBeoka_EY0g_kIg6b9G4CvFO6OojJGmMY0tzoh8r3R0AOuKvAaIHSx7_CXW1JT-8xJkJAiE4BDiKS6GTzk19bkfS4KFXg00IbZElLKKxWn2z0pl3i71ODs0K0EFXQiKUOvOg182Ev-05nQb1OFAjblQ-VK1zNqbHdYk_6ujuMOduvEkgpH683cdW6iIolxbpz-ZmgXPoMQpYP7di-S_mAQjDMleSN4UVzIkoAoVe2Bx0W2m-Zvn9qDUW0GEhHHA160FBgulIsIZK_hLVCWn",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJz3mVjVLvFZYRzstzXry5YRQ",
+    "plus_code": {
+      "compound_code": "5QP4+M4 Valdivia, Chile",
+      "global_code": "47G85QP4+M4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJz3mVjVLvFZYRzstzXry5YRQ",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 185,
+    "vicinity": "Chacabuco 341, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.813963,
+        "lng": -73.24414
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8126256197085,
+          "lng": -73.24271516970849
+        },
+        "southwest": {
+          "lat": -39.8153235802915,
+          "lng": -73.2454131302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "París",
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109393312532179007114\">Diego Alonso Dienemann Soto</a>"
+        ],
+        "photo_reference": "AeeoHcIHPECEDd4GAIT_yto45e7v7DwxgjdVDHXr_me0lGE7Pzj1sBnssJLmyGKX1bmPgCZHJ9bKJFpZnmdG2GQJ0CDQSkxvNdafZM-9t36tyuiOTOYkDY0VLUlLaBpMeW05hExTnhsjsg7OWdhbMlFArPZO_87elKyD5NoLhdI4mZkAr7yQwy25Boa6BYYf_wtRkZ0Z8fb2uI6ImnvMgd_UaNGtnOVy-8ygGkxDZV7q9JmJmWCFwaSWYtuebYmUnL3xMyC9ilpfVQEIedoleFuaZWzQvy2t-cQsGgG0yi7zMiyoFtmBp2dYRCa25-DGlSdEuegIquKW5phW4KSneMW0QqmouywACc9iibcMMNX4r-NKotDPPMwXj01L-xW-MLL8rMaKr1SFVX3gVNjLb-xVoYJ8AevkeKu4g_-TuLCU-qRqzqM10DLrpARGbpvSmDJMjGupk33sH19waMTYsra_uJnEyIFFqNSvXKTqqYs5n8cylszEK8LHIppQujiWgtAz9hzfsRHNZP-Aa0IewovJQ8F4_oUhAuiDgXpjESySXWAIeUxRNq-jGFv0Z_jpwUnSgSkw-abaqS1ZCslg5LwO0eJuRMEF1xIikVQkDjhYkkXo2Gnv0k5TLoi6gDP5JA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJl4JBR7fvFZYRtvk3UEzCGXs",
+    "plus_code": {
+      "compound_code": "5QP4+C8 Valdivia, Chile",
+      "global_code": "47G85QP4+C8"
+    },
+    "rating": 3.7,
+    "reference": "ChIJl4JBR7fvFZYRtvk3UEzCGXs",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "y - Caupolican 475 Entre las calles Ramon picarte, Chacabuco, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8148971,
+        "lng": -73.2475008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8135646197085,
+          "lng": -73.2461569697085
+        },
+        "southwest": {
+          "lat": -39.81626258029149,
+          "lng": -73.2488549302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Librería Costanera",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102271825456681400834\">Rodrigo González G.</a>"
+        ],
+        "photo_reference": "AeeoHcLSIOK-tBzskAM-fouJJt4WUc4RxSCcljcuica4unaqVh5oXVjRY-5n5fwrDXCFxEaatr230zuSW7_NQmfqzGoyRDqkMVijdCfSWunxQx-hVvZbCvuX3LYtlxnLyHQmvprTXBamlayJMZ_UOqosQPZU1vPwHqqJzylkxqaaDtgU1A8TLzwBrG-CLAr5m2KCAtP-RGux5AmtSOoA8iI796llnhbb6WiPGqJvjU5eRB7f12o2f7ABYFu5yHc1kd_fdSA8CReHbnoDGQhuVAi-tXRiRyL-ST4n1xaiM2EWLmTwHl8UksmwjCO4urbovDq5RmKXapxf1VkaZj6Fy1ybaV_rFScFCeSrQxFm3Nt5kwrUCCVt_id6c9zZf2EwlLCkwGA0AFYYzFvdBZy9_s-v4hMdJ7-03EMaaPCPvzRn9HTr_RLx_MT8_jV2tTQFWTZcvAcjuBI-WM8s2vYmwSbIK5eTdFAKNMQg_EldsTb7Mhk8WinwQfJiN0ljxr51nY0Mr_EhWc-7cI6Rj_my5D_2W76AhHek0hOMGTSGHT9hJjqJDk7W48qAIQanagK62n9cS2wDd3sYGrR2DL2LLvliyGzpImYDkYZAKp1G-l_Efx98Pq4E1zVyOxKkaRUX1WFOXdHR2A",
+        "width": 3872
+      }
+    ],
+    "place_id": "ChIJH5ewZjfvFZYRBOiVEm6Mn9I",
+    "plus_code": {
+      "compound_code": "5QP2+2X Valdivia, Chile",
+      "global_code": "47G85QP2+2X"
+    },
+    "rating": 4,
+    "reference": "ChIJH5ewZjfvFZYRBOiVEm6Mn9I",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Arauco 132, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8152498,
+        "lng": -73.24456239999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8139947697085,
+          "lng": -73.24323656970849
+        },
+        "southwest": {
+          "lat": -39.8166927302915,
+          "lng": -73.24593453029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Centro Comercial Santiago",
+    "place_id": "ChIJQTgXIgDvFZYRyWXQNzOnZug",
+    "plus_code": {
+      "compound_code": "5QM4+W5 Valdivia, Chile",
+      "global_code": "47G85QM4+W5"
+    },
+    "reference": "ChIJQTgXIgDvFZYRyWXQNzOnZug",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Arauco 384, local 20, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.813315,
+        "lng": -73.244351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119075197085,
+          "lng": -73.24298851970849
+        },
+        "southwest": {
+          "lat": -39.8146054802915,
+          "lng": -73.24568648029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "CENTRONUEVO Taboada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJmWgh5UPvFZYRZr22wYOG4nI",
+    "plus_code": {
+      "compound_code": "5QP4+M7 Valdivia, Chile",
+      "global_code": "47G85QP4+M7"
+    },
+    "reference": "ChIJmWgh5UPvFZYRZr22wYOG4nI",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chacabuco 369, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81375209999999,
+        "lng": -73.2440596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8124128697085,
+          "lng": -73.24264711970851
+        },
+        "southwest": {
+          "lat": -39.81511083029149,
+          "lng": -73.24534508029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Galería Cadagan",
+    "photos": [
+      {
+        "height": 2278,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113908770773032264853\">Sergio Hernandez</a>"
+        ],
+        "photo_reference": "AeeoHcIMvS7DBPGQFm2nZSpT4CCnF4g-xO_M1asGDRb6k1fPHa6mbFHRlxZl9aUfwUz3y9Rw0vtfFv3PoQqO0REp1OY3_H3Mz0gznz8a0QtXHQNBj5nXAhxDkvWxpNbnK7e_oFMAZbQcddj5uMgZdZGzG3h1xx_65GAkpKK_XfdB5AqEymb-Hug_39A7m9v6eP67oPPlIX-l2cW1OYEdI15cr5p6I1B75aN6eZXfTzD3r69S75ZDTW_MV5nRMBzvFkEa_TXmQeWiibO3byr4l1Q2FyYaXIOLaqDCjh0uWwlT_U2P28qglM3OfV_GkZJiuoO2vMl0ttU80Z5qfbIf_TeWgVahVBdUalIL8qHjY4d2CWbrUn0ESThOsYUeH4kL0zvKmUcNtOQi0IEw_K7JEpTdKQgR68jq_CJGbD4QXu9aOQpGGjIMJjwsKQS8SsxmRtw2rlifY-1Sh_zPDkZj6PLiG0u2TgguKXHRnUFigGKI7XnMs2FSZpy86qo0LQS5KchkmXSAgpdq0tAib8eIHlLyBXg3mx4VmHQv4SqYmigwDtNfZ2OgexQJ0LgW9FcL7jLxETbaiTGylgkh-er3mOhMkTQmcLL7khOaVR_RxJTCwmg6ffi2AQHnkhbFTqGM5h9JKSSpyyNY",
+        "width": 2278
+      }
+    ],
+    "place_id": "ChIJnbDYYg3vFZYRRnPRrJSXZFw",
+    "plus_code": {
+      "compound_code": "5QP4+F9 Valdivia, Chile",
+      "global_code": "47G85QP4+F9"
+    },
+    "rating": 5,
+    "reference": "ChIJnbDYYg3vFZYRRnPRrJSXZFw",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Caupolicán 443, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8149877,
+        "lng": -73.2441985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8136359197085,
+          "lng": -73.2428722197085
+        },
+        "southwest": {
+          "lat": -39.8163338802915,
+          "lng": -73.24557018029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mall Chino Mazzivo",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106914386820738284833\">Gianella Vilches</a>"
+        ],
+        "photo_reference": "AeeoHcJxc6Ca6xn6xjd1YOq82AWVpF8OKKQxLA-xeTfYKxp2FQ5ZvKt9YDW6ieII_p6d6YgmviFrh9S-dGGcArBjzo6i8W6wCHvl1rAJqwWLTK8KEyi35U-F3JxgCKvk8uHJSWZ0jeAPAeFUemvB4eiOtOpXw5y45VbPn7YZDehYiHhJ3EBBKLD3AL57vbQvM_fF3Qh8pzDMorZU3Nek_boUog4z_c4gqQLmmKk57zQaGNufwvzYP18NMvBGJC9fgSBtCxeW7frB4vooJcJOQqPALPVaaQJyXWo_Ov2jsOSFwsn2tO6aN152uzx788wkmfqkiDNBRMiveGPOl9bIo8z5OptPKRH1btBvpZxBX9vcbsIz4xizQaDyyrS1dRRgcVMJTPfCf25iN11VwW75HbiOekM8nRQ04ZHMaFYRhuD_p0Rt0e8FtkdKPS-u90IOJd1KM0RTsuHf8IuhnbD22m5CjIvPWpEuZtvlZU5WKK9frrGP1p4a_MYFL2pNtdvrtQMRqjcevXV3eLpwouXJe-tGv4YMVDkxF4QCKMBpZgsAXpZCEavsMPC5fEBrK6x-fOGHiAzW78vb7PLia_QXNu57NqGbIP7c2BvHASDDLXo-Qh_a1c7aM-vGKUryo4b2so2aI_hSDnEk",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJl4xqbADvFZYRPXKds5wBIts",
+    "plus_code": {
+      "compound_code": "5QP4+28 Valdivia, Chile",
+      "global_code": "47G85QP4+28"
+    },
+    "rating": 5,
+    "reference": "ChIJl4xqbADvFZYRPXKds5wBIts",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Caupolicán 550, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154003,
+        "lng": -73.24722899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140407197085,
+          "lng": -73.24594131970849
+        },
+        "southwest": {
+          "lat": -39.8167386802915,
+          "lng": -73.24863928029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "J&M Seguridad",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJZzP01HXuFZYREeajvhfOwgA",
+    "plus_code": {
+      "compound_code": "5QM3+R4 Valdivia, Chile",
+      "global_code": "47G85QM3+R4"
+    },
+    "rating": 3,
+    "reference": "ChIJZzP01HXuFZYREeajvhfOwgA",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Independencia 630, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8135502,
+        "lng": -73.2439998
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8122100697085,
+          "lng": -73.2425907697085
+        },
+        "southwest": {
+          "lat": -39.8149080302915,
+          "lng": -73.2452887302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Galeria Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ4e-SynfuFZYRvq9FSzzparg",
+    "plus_code": {
+      "compound_code": "5QP4+HC Valdivia, Chile",
+      "global_code": "47G85QP4+HC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ4e-SynfuFZYRvq9FSzzparg",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Caupolicán 425, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8132834,
+        "lng": -73.2476732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119421697085,
+          "lng": -73.24627551970849
+        },
+        "southwest": {
+          "lat": -39.8146401302915,
+          "lng": -73.2489734802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mercado Persa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 474,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108414291607028640088\">Nelson Omar Soto Valenzuela</a>"
+        ],
+        "photo_reference": "AeeoHcJJXPq6EDZ6M1wiSATcBcGMUTZtSt1nn5_nIlgckLIwKwNnZHrf41n-UaPiiOnon2jvB3bEAEPJm8-DSXtSqTjtFF7q80P4_QuiIqa8lT-isNUkJQOG7tJRUer1nR4UoZpqRJ-UqGNljiQeTEGWvysV6koF1RZCFXJBbUHyFQOAo9z2mocveN710J6crx2bZHJh9-Ua21-K1yKL9TD3e6c8oPi8y52LfxdUDfSh_qVLwGi4XJUQJNsn2Przj-y0T9SbEfdNWn_GIcxZw65x2C2yI4Kk6OaZ3Dbg3gt1XOtVLHOJ9smHGicUUlz7n8SMicF99ICIYY1_qWjEsFuyNO68PDQHs0BU2bD29JVQGNUnUaYvEmrDlpZ6Ucs43v7EQ-RUMuLTcYssecJtlnqSnef4C_vw84n_-Grdlm9BzH5q9bbgLK6QNts6KWBdEC886HgfaBUF93sQ7fpJziOpr7h-CU-lgBItZz-dMpuMusESIYNVuJkqdXAZHmzgEW5-P5arkGvb9a4RsAuOrRyjvmSeWwjvJMpIqM6cdLupFUpp91h4XlBi1lo7ZEIY3J9sv4QN2-0lsiRWq58SN66uoXgzQ760eMr6o4IVaWnsHOKvlnOroDxWlf-zThnYfTs6eLhXNnWp",
+        "width": 869
+      }
+    ],
+    "place_id": "ChIJTw-wJfDvFZYRvfyPVEvVEsw",
+    "plus_code": {
+      "compound_code": "5QP2+MW Valdivia, Chile",
+      "global_code": "47G85QP2+MW"
+    },
+    "reference": "ChIJTw-wJfDvFZYRvfyPVEvVEsw",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Yungay 447, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81415099999999,
+        "lng": -73.24369039999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8129367197085,
+          "lng": -73.24237371970848
+        },
+        "southwest": {
+          "lat": -39.8156346802915,
+          "lng": -73.2450716802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mall Paseo Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5891,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116199935259828328784\">Mall Paseo Valdivia</a>"
+        ],
+        "photo_reference": "AeeoHcJM5FdqfOLxAXyPOKvSp4uT6hjJ1PFi-ACFRtehpHPKpKxfnfhCoM31SE3vliipe6h7Qi_c1Re9z02hYAsUePjXbZSMohz5_uIP7_Vr_6YiOSlh2aR-atA6mpqqmuNCotQSZHgaJnc3MIQHG_Ij2lacGSYL3mWeRypOdJtl5DlPFEYqG_zb0KxSOO3aWQe4BgY4G8dvdTQau4YQztc26iI0w-_jGtMU7x_GrtNXbhS8hl7E_mLss3e4DlTP8lcbJ_42D-jIOGOwb8JvNQKE8LmbAQ5pfRQlRE9INjaA7pj9esTjTXUOgsL9caxHLTzRlMrFYi12ZJc",
+        "width": 3927
+      }
+    ],
+    "place_id": "ChIJDwNW-YfvFZYR8b1pVih76o0",
+    "plus_code": {
+      "compound_code": "5QP4+8G Valdivia, Chile",
+      "global_code": "47G85QP4+8G"
+    },
+    "rating": 4.2,
+    "reference": "ChIJDwNW-YfvFZYR8b1pVih76o0",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 452,
+    "vicinity": "Avenida Ramón Picarte 422, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.815879,
+        "lng": -73.24638600000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81450431970849,
+          "lng": -73.2451832697085
+        },
+        "southwest": {
+          "lat": -39.81720228029149,
+          "lng": -73.24788123029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "AutoVal Rent a Car",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1441,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115720632510123296934\">AutoVal Rent a Car</a>"
+        ],
+        "photo_reference": "AeeoHcJgPYNVvqavOoEDQdV1bcDVy3RsJVQK3mIQNYvySaVDOX0FJ5wolG8ZG3ocXU9dJqGynD7lmSJpSpXbFYiN2dFqMcQ6akiW5giccSxGtW01V61PSMDXTbi0yDY2_YdMq5ka14PEsqEX8GzWADiR91ahQeWdnv8icN9W5Z570S1G_JI9kI_dP2cOc6-P3AcAP3awxEEdzM5Ej_7V7rOuv1NtMiiWxTtP5UtGMhg8jptScDKHo_1iIU_XlFc-9j6dWICuhzfG7oPnFxZLBeja1sCNlHYdIj3LbNTtPdxrYi-lYRtQX8cPQfmMQHajHYb4NXOYA_7Lf_s",
+        "width": 1229
+      }
+    ],
+    "place_id": "ChIJdx-0mnbuFZYRade1fG51m1s",
+    "plus_code": {
+      "compound_code": "5QM3+JC Valdivia, Chile",
+      "global_code": "47G85QM3+JC"
+    },
+    "rating": 3.4,
+    "reference": "ChIJdx-0mnbuFZYRade1fG51m1s",
+    "scope": "GOOGLE",
+    "types": [
+      "car_dealer",
+      "car_rental",
+      "real_estate_agency",
+      "travel_agency",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "Vicente Pérez Rosales 660, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8132904,
+        "lng": -73.2408267
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81183266970851,
+          "lng": -73.2394524697085
+        },
+        "southwest": {
+          "lat": -39.81453063029151,
+          "lng": -73.2421504302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Automotriz Tecnosur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102481062144177218704\">Soc Automotriz Tecnosur</a>"
+        ],
+        "photo_reference": "AeeoHcJNDPF8YRQOu8abZRqWjJTTB4qsN_dKHRAX5jgQAq9q8DhNYqDIl0zWE3E8JxNt4Reh_rKbIr7R2hpGWq15apuPVfFR3L5BYR7N4JJxGVYxrLxsAWW6YpJdgf31Jgf4dUy9Uq1OKjLKPL_pe7pyLRhE9lkJUtb7q5-bWQ3OeRDZ-VCX8ttkThrn0yTSUshbinH9JRWyblzEsrMDtpRIZ2jj80BGjWvyVbd3MgZrC4Qjlw_620SjePhXwLN2qTu17mxp3eo2TYE4IKq3hOZceJOnl29GV0_OdBsR18pADc999HspXkDQQ9lWKL-HIfE5W39bEQZra9Y",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJyw3ZmHnuFZYRbztsQSfhFYw",
+    "plus_code": {
+      "compound_code": "5QP5+MM Valdivia, Chile",
+      "global_code": "47G85QP5+MM"
+    },
+    "rating": 4.4,
+    "reference": "ChIJyw3ZmHnuFZYRbztsQSfhFYw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "Avenida Alemania 665, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8104569,
+        "lng": -73.21892729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.80916636970851,
+          "lng": -73.2174818197085
+        },
+        "southwest": {
+          "lat": -39.81186433029151,
+          "lng": -73.2201797802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kaufmann Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111402731395388770552\">Kaufmann Valdivia</a>"
+        ],
+        "photo_reference": "AeeoHcLABHslU89fHmjcOSC2FaWY3-xCZuRdkyHVCwo2WE4lAX3XkpOMuoUxVcixMZHYFaerqPkYKTxj1_L19tD6XruzLt6RZMac_EXh0FoAdPVGC4QzrLi_bmaific757_RkJ_xbr4KHopVGopKfEaAU6BPGprhLw25kmxnlwz6I8bv9OF7kuobLFUHqXxaXm-G_gqRb9YJ_PbYFwViiHkR8SHyarOWSzVhQS54h-byCrVBVJLkAtxWtqGvsaaAom_cJNRXyk4tlWcJ3Fdtyqn6OtI0DsaupGeZzjcopTsyc6YPc3Xu1mD8GZp_C513XSV8IQTcRi6zIZw",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJ2XRQyoLuFZYRwJD4JuLvmXk",
+    "plus_code": {
+      "compound_code": "5QQJ+RC Valdivia, Chile",
+      "global_code": "47G85QQJ+RC"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ2XRQyoLuFZYRwJD4JuLvmXk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 199,
+    "vicinity": "Avenida Pedro Aguirre Cerda 585, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8153729,
+        "lng": -73.2442968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140204197085,
+          "lng": -73.24297126970849
+        },
+        "southwest": {
+          "lat": -39.8167183802915,
+          "lng": -73.24566923029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "La Boutique del Calzado by Sarella",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJQcNo_HbuFZYRlDOOTCi0rCY",
+    "plus_code": {
+      "compound_code": "5QM4+V7 Valdivia, Chile",
+      "global_code": "47G85QM4+V7"
+    },
+    "rating": 2,
+    "reference": "ChIJQcNo_HbuFZYRlDOOTCi0rCY",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Кауполикан 590, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8146025,
+        "lng": -73.2437211
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131678197085,
+          "lng": -73.24235156970849
+        },
+        "southwest": {
+          "lat": -39.8158657802915,
+          "lng": -73.24504953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lapiz Lopez",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105360506038554749561\">Rodrigo Muñoz</a>"
+        ],
+        "photo_reference": "AeeoHcKoghBJBw2_rEGLGhtkQdH1f5sOoXWCBSt-19F336R_CdcwT34ZTz7LuCwnTjnCzoGKgKB93SpymTXyauZ9WqlJG-7Nixtua-VY04RgcZ8GDjLSUPJM3j5jAoMe-yUmdGY20xfXNMOOG1ZURnioCu9NmHZd6i2s9bp921X5iESTpSjfIekKxaQyB3oXLVPogepqsGpzkrdt9D-OubM3loxwmH5qntJNrFiN7v5CFfkwcGspy-hQyJuilcej9ixikMXkKqt1BLr9H0Lzadxr72a_LAXeikVMNvAb_Vg0MsHtcc1tne-v115PbeDUvppO30wUHztCW78aPsyaDKrSTxyOHRxOz55hpnwM3gxp9B20qZQU-4YyeHmvUSmJkbhIbKF080IWTL-fxrQJH7E4hPSRshDFr5eF-dsKD0fQuZOyqTQ3fehC7jd5MYeSUS-lHCfhs0WCGS7qWz6EprXsqJCmQ8soh9qgtUQ6AYaI2FFOexOpjoq-Df9EuV22FhAkheAgtlquarATsNz790nTQfg6Y3tl4rwxlFUo8lFn-u70dxnndo1uzII4AHlygr2nrzqcy9v_1f0_rpw20rOFaIHtLf67-afF6RCn40-jmsZn3Abx5L1v_lmbMYHeAKtokhkOZIJ1",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJWWInr3fuFZYR6YHV5YzbdJk",
+    "plus_code": {
+      "compound_code": "5QP4+5G Valdivia, Chile",
+      "global_code": "47G85QP4+5G"
+    },
+    "rating": 3.9,
+    "reference": "ChIJWWInr3fuFZYR6YHV5YzbdJk",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "Avenida Ramón Picarte 417, P 1 Loc 3, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8238813,
+        "lng": -73.2280234
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8224957697085,
+          "lng": -73.22662241970849
+        },
+        "southwest": {
+          "lat": -39.8251937302915,
+          "lng": -73.2293203802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Neumaticos San Jorge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2786,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112774250585762291742\">Neumaticos San Jorge</a>"
+        ],
+        "photo_reference": "AeeoHcJ7sZnUGKzZS7I_UlNs_nWOQmtS8ezszhcxKK4GMCxVuOZP5fYAr1uGGmqs9tvqEbAgCRqVrx6yxFgWxv0cwepcJgO9Ldh4KxyV4x5pa0_u55MiZqgpkU1xX-LtyUpt-h7tGnrnlPFn7GjAkDB60hNSaIIVWB8JjrVn-kknOdZ2QkTdUKosYuZu3KugDtGvAddoycXQHdOrjtuyOv5o6YXObwvWpIFUhgnOrIPQN83GpueHEBuxSRB90NIMXcaN25HEapw72vYFzgjIGYSbFfroMIGL0IfLMGM7ZJo8UEmPScI2VCDMD4sI1Wmlq40e8Jq_GqEEkJ0",
+        "width": 3715
+      }
+    ],
+    "place_id": "ChIJzS8y64nuFZYR8Q_TS1RZ49w",
+    "plus_code": {
+      "compound_code": "5QGC+CQ Valdivia, Chile",
+      "global_code": "47G85QGC+CQ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJzS8y64nuFZYR8Q_TS1RZ49w",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "Avenida Ramón Picarte 1685, Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.8122609,
+        "lng": -73.2403427
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8108722197085,
+          "lng": -73.2389485697085
+        },
+        "southwest": {
+          "lat": -39.8135701802915,
+          "lng": -73.2416465302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Ábaco_Delifoods",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117814191391152730659\">Ábaco_Delifoods</a>"
+        ],
+        "photo_reference": "AeeoHcIVfX10kpJOtCIcyZS9O81tD9uoUwUYHS25L76KBQn9lyOaW5WfXQzqtRrzDhcnwymfSKXUF8jSKvBA--MXq6JxKHlBNi5OLuPbsJqIAf6deNHwAXRNlXA6v6kGPRCv1qD3YQYxAEAUJkWqqQftOFXG4SOBkxWDi1e07nKejqWK9q6XqLICB4ZGTi9QLIOt_dnELmfgyEWb1lyZgc2DtRWiQBUT53x1QM9VhKp-w7oK-Pyy3kZh0BFYLaEA2ijsNi9lavP4rC6wqkd48OI2yvPZEjLKz0GToq8sK37S3ScW-KSnDC-S9Le25s_k4cwAfhobzXMRcNM",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJr4qb0YnuFZYR4RAw6vusS7w",
+    "plus_code": {
+      "compound_code": "5QQ5+3V Valdivia, Chile",
+      "global_code": "47G85QQ5+3V"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJr4qb0YnuFZYR4RAw6vusS7w",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 148,
+    "vicinity": "Carlos Anwandter 619, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8162435,
+        "lng": -73.2424288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8148978197085,
+          "lng": -73.2410524197085
+        },
+        "southwest": {
+          "lat": -39.8175957802915,
+          "lng": -73.24375038029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Majen",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113226138478315265450\">Pia Peralta Vega</a>"
+        ],
+        "photo_reference": "AeeoHcLHkjIyd7PJUQW2_QaECoecrB5d9W1dBpRYJLrvsSsLWsz56lbC-SuaM44QYZvSNlsOaaXAPxTSD2N9IGf_kl4NBlnwWIXwu5p_cubQHETPsHde8PfaoT6f0fWUWthZY7917LU4Nm8OCs0eHsECiTEdd5WUs4HNW5bANjxJzwUcRHXS8r890HS1gUdezAPxVviK5KnVLYc_XfzF5ltTuJWrebJM1dVLQiygXoLbUL2UKFlLD4vm2rmTQShTCQC9xp72CUW2EHWOu-5EwCRKb6b-oOezrjZoMRFrsBrZhPHn2zxBvUT3r4qmE7XuK0UvsoEvulesain-jFtTC0_AivSoIPRciEiZR_bdSKzAQB5vhSCMB5tNMkPzjvhqCRdoUg0DYL42P6SDdJe1sQu4FDvDKxujLrqShesb14txfyg9m2A8TuHbk4sCwm_MvQOi9_kYs43uj4-ykkz8LE1fK5SCz-QWn_ssEvsn2Fj0E9zj9cg4Ib3ua8oEGci89PxsfWimpQsI-Rw7xJ0ks4shRzlyYkc7GEgf0LZzbO3QUtbt0_gyYe-sJdujIdjKn24gt-fToG_DRPA8CXiE_FEi2z7arICPFcvys64a4GRV2TXeVwJdHRUa_Bdb3b2abhEQhRQOXw",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ87LtMXfuFZYRBL6cek_09Xc",
+    "plus_code": {
+      "compound_code": "5QM5+G2 Valdivia, Chile",
+      "global_code": "47G85QM5+G2"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ87LtMXfuFZYRBL6cek_09Xc",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "Arauco 561, local 2050, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154432,
+        "lng": -73.2450862
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140580697085,
+          "lng": -73.2437283197085
+        },
+        "southwest": {
+          "lat": -39.8167560302915,
+          "lng": -73.24642628029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Farmacias del Dr. Simi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115805531766961237224\">Farmacias del Dr. Simi</a>"
+        ],
+        "photo_reference": "AeeoHcITwkJ211PrMdflvJRyg9g88xlPIXsAco5sS-5m_NCziVERXvIBYCn3NEjBKF_yX4UbvlTkMGIPver7QlIE8iCijoUZhX70N78qRNlHYW_d3jFYPfVRcT50om3b1EYMxjZ3upzxIr0Yw5HO8DHZeq-eUtVlf3_eBu1jIbzQ44U3ePjZwxQZl_eVGW6_puU7wZpb0S6VNVeIURpBYXcERI6awZ_SX7JZYf2hEbaB6NbCqpeHn4NdSFGX8XH4LxKq_Hkj0XNSnF4A42sM6iNg9QS4poIYZi_wrnEIOvfv-5wecpgn_M1dW1TDOcIml6-xDh0wfCw8ctk",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJGyyN9HbuFZYRS8Pm8V91qi0",
+    "plus_code": {
+      "compound_code": "5QM3+RX Valdivia, Chile",
+      "global_code": "47G85QM3+RX"
+    },
+    "rating": 4.6,
+    "reference": "ChIJGyyN9HbuFZYRS8Pm8V91qi0",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Arauco 371, 373, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8226056,
+        "lng": -73.2463805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8212765197085,
+          "lng": -73.24508776970849
+        },
+        "southwest": {
+          "lat": -39.8239744802915,
+          "lng": -73.24778573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Cooperative Valdivia responsible consumption of Apple",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114492452982208963847\">Cooperativa de consumo responsable de Valdivia La Manzana</a>"
+        ],
+        "photo_reference": "AeeoHcJ-dxVrvXkryCmZJDvq3FRVAeuOb-CoTt32u1Zb_EwDsTrysUjDTdcgGHOmbm6CgsnbAG_yQjK1t0QUGezRXIJtc5FM_OHZMcjDCRLOb8IbEjdmG3bS6wsEp11JXKJAoSBri4sdKd07k17NUZa3ZiEJcoQENC-ZEauGlt1QocuXMxh4-nv0D-841PnnYkZi9PkyAXh5xvZrSaSGhpbmGWnzoIPWGVSLHj3Laz5vFNLsmbyoLIBj1-CyJbLFEE14vX28s1Lc556qBd2qjMqlHpFYVW_GkLRNXxcq2bi821Jx3QphJ92fr8erWX30GraCNyFdVl1-iu4",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJvYBUCHLuFZYRVapyd8RulEs",
+    "plus_code": {
+      "compound_code": "5QG3+XC Valdivia, Chile",
+      "global_code": "47G85QG3+XC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJvYBUCHLuFZYRVapyd8RulEs",
+    "scope": "GOOGLE",
+    "types": [
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "Sotomayor 1186, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8133484,
+        "lng": -73.2444988
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119149697085,
+          "lng": -73.2431303197085
+        },
+        "southwest": {
+          "lat": -39.8146129302915,
+          "lng": -73.2458282802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Desarrollo y Soluciones Computacionales",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJJ25aMXbuFZYRHolBl9Bj4nw",
+    "plus_code": {
+      "compound_code": "5QP4+M6 Valdivia, Chile",
+      "global_code": "47G85QP4+M6"
+    },
+    "rating": 1,
+    "reference": "ChIJJ25aMXbuFZYRHolBl9Bj4nw",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Chacabuco 341, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8155461,
+        "lng": -73.238278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8141581197085,
+          "lng": -73.23706531970849
+        },
+        "southwest": {
+          "lat": -39.8168560802915,
+          "lng": -73.2397632802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Gomac",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJFX7qdXnuFZYRwpVNtUZpGJw",
+    "plus_code": {
+      "compound_code": "5QM6+QM Valdivia, Chile",
+      "global_code": "47G85QM6+QM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJFX7qdXnuFZYRwpVNtUZpGJw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "Avenida Ramón Picarte 819, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8136154,
+        "lng": -73.2457221
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8123087197085,
+          "lng": -73.24438381970849
+        },
+        "southwest": {
+          "lat": -39.8150066802915,
+          "lng": -73.24708178029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Augusto Poehlmann y Cia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJg4OoFXbuFZYRfLbtRDdIbDg",
+    "plus_code": {
+      "compound_code": "5QP3+HP Valdivia, Chile",
+      "global_code": "47G85QP3+HP"
+    },
+    "reference": "ChIJg4OoFXbuFZYRfLbtRDdIbDg",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Letelier 236, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8266575,
+        "lng": -73.2258872
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8253616197085,
+          "lng": -73.22460501970852
+        },
+        "southwest": {
+          "lat": -39.82805958029149,
+          "lng": -73.22730298029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vamproden Mr.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101362133201536839735\">Vamproden Mr.</a>"
+        ],
+        "photo_reference": "AeeoHcJdaqLqiYp7XXkkgKJp_ZzpG2We8uuvJX-nzEpCdEqtG94CsiHDQavu9qv6H5IfKZLm_p5szQVIN40tvPy75FvDDVS8tVhJv0wDxFvd0F6gGpTDdVL5Jrt1BvKg-6dkTvOkmSpNUTz4MUfVMfwfuQe7viNkVDMIJ17GKUdBUlH6tCBh7C9Xvv0YYNNjtfO6RDqyWz4DT-bqLg7q_ZoOjMtRbPq6vzBXWw99HMe32I3x-8xkswgGcSESDyaYReDpNkrndf4fLngC4fwWJh4ITYBz3FxnaI3rdDowzI3XKSVMe0MXaIYZ5GVpKkKlSiTK4YfZyzkz3Ec",
+        "width": 567
+      }
+    ],
+    "place_id": "ChIJveopDYvuFZYRGhvMr8PLMo8",
+    "plus_code": {
+      "compound_code": "5QFF+8J Valdivia, Chile",
+      "global_code": "47G85QFF+8J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJveopDYvuFZYRGhvMr8PLMo8",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Errázuriz 2066, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8134382,
+        "lng": -73.2451923
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8120790697085,
+          "lng": -73.24390636970848
+        },
+        "southwest": {
+          "lat": -39.8147770302915,
+          "lng": -73.2466043302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RAMIREZROCHA SPA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_5lhlHfuFZYR_opBEOjHgeA",
+    "plus_code": {
+      "compound_code": "5QP3+JW Valdivia, Chile",
+      "global_code": "47G85QP3+JW"
+    },
+    "rating": 4,
+    "reference": "ChIJ_5lhlHfuFZYR_opBEOjHgeA",
+    "scope": "GOOGLE",
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Camilo Henríquez 430, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81605309999999,
+        "lng": -73.2419522
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8146294697085,
+          "lng": -73.24057821970848
+        },
+        "southwest": {
+          "lat": -39.8173274302915,
+          "lng": -73.2432761802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Comercializadora de Calzado Guante",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113279928589588026289\">Martin</a>"
+        ],
+        "photo_reference": "AeeoHcJnA1W5tGyrxzzwaT4SYaelo-F5fsJXjSWSNY5jSmzsKQIOzmEjPvvMYvuQmrkZEV2KIjuw0SBoFg1d8a1coRPN0-1DUA2CvYZf5Vo8eZgy3fzGDZTDTsK-YXpohCybTJw_J5UkjvJ27BZxtqu7cZNRD5t0Mou1YTr7-62TfNWetJJz4RjrhKhry09_V2MfZYJzD7ql1Ie2tJaPYLkYqNudpuWPPOVY-mAvNUgGXhR-Y5nClla3zWHZmJdCrpo0Cy1PnkEqrDP33wq5O8UbyYL1oF5n36ekIRHnP7AZwJUrBrTRnNHX30qdAeVVTKDiXB7YGZul82lGHX3M7Blq5cwKgub9whCCMm_wfBAPN_W0K1IBJYRkzEQpz7GVvIxqmOm0wcYsYqEsRpODgRSWhxG2xYJ8HDV_PeUkggCosBTsjYj4yY1Ucp4ZGg1htlTLxLsOkf-EMrE0x6vdm-7BDkqJcK8CEyTX3m-0i0gggfUP-dq70AJ4G2oWBIVb3rI0qFjXvvykfjTx8QlpLOx7-U1P5cj0ARYAv_nrDlVOnkrgD79HIJtK_LLP_qdHLRdQtWZ71Un9_4zRJMqJ7l0IgpL8g7RkG_9tjheUYlkZKwwNdPIm_HRMxC4LAjYQaSoc",
+        "width": 3458
+      }
+    ],
+    "place_id": "ChIJ2SA5Q3fuFZYRJpS27buRI9c",
+    "plus_code": {
+      "compound_code": "5QM5+H6 Valdivia, Chile",
+      "global_code": "47G85QM5+H6"
+    },
+    "rating": 1.5,
+    "reference": "ChIJ2SA5Q3fuFZYRJpS27buRI9c",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Arauco 565, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81604000000001,
+        "lng": -73.24235999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8146911197085,
+          "lng": -73.2410099197085
+        },
+        "southwest": {
+          "lat": -39.8173890802915,
+          "lng": -73.24370788029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Preunic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113279928589588026289\">Martin</a>"
+        ],
+        "photo_reference": "AeeoHcK9JZo3BxrRAl9D11WphuEzntWX3IJKl9HCxkalISxo3ss1NFiqjOhO-pOB-sdcr19qsqknwlvanWyVLaMO67TBvoAQbM5F0NsuOlFykD0JTA3ZbeHTO2WN2qf8DYAVHeisMQuf9Q7CHK6Ivb9PmoJzg3JVjPCCzdB6fBnw4WdOcoQI7RIFZihudXV2KtmV7yjt3zsfb16AM9syw8xrsaxlw5BcKR662xVj-6kl98L1OIew7q8D_5Lib2he6kvoB9PQejptCU9tzXIbY4phS3NSUlC0qnfmPtLHp5V3JHJU70IG3etawglnVhtFf6U_wAKSCllZ4EC_1E3hL3zGLA9_xXIR6Dl_XCgZUyFjgnYyG9dtgqzJbIZyfR57z7IOw8dye2tYXofKIhGUYO84qm3dcjxQ88bqYOwMveyCFvbtcvPPtWmyPErWS1B3ZDBkcTHkAyzOO0XykU65r_ojvoslc6gqaWjqlVXbCkalDW9vfNTSL39PBuEcs71D0WMpGwtPGWWuucjvkxK76NI8e92ktHLWtru3BynUFNFxm6sdx6zmhrDyYQ9Ny6BEsODi9Xnu9krVCrX-HKvSki7Z_39tp1h_qAUGYpRVFWzCQts66WUuKQ2QK8c6pJHoawwT",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJrVigQXfuFZYR-AMh7gE_zAg",
+    "plus_code": {
+      "compound_code": "5QM5+H3 Valdivia, Chile",
+      "global_code": "47G85QM5+H3"
+    },
+    "rating": 3.5,
+    "reference": "ChIJrVigQXfuFZYR-AMh7gE_zAg",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "Arauco 561, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8148357,
+        "lng": -73.24014640000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8135273197085,
+          "lng": -73.23880821970852
+        },
+        "southwest": {
+          "lat": -39.8162252802915,
+          "lng": -73.24150618029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "GAES Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJAZdDYXbuFZYRtaaatV015mk",
+    "plus_code": {
+      "compound_code": "5QP5+3W Valdivia, Chile",
+      "global_code": "47G85QP5+3W"
+    },
+    "rating": 4.2,
+    "reference": "ChIJAZdDYXbuFZYRtaaatV015mk",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Avenida Ramón Picarte 702, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8202012,
+        "lng": -73.2558823
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8187780197085,
+          "lng": -73.25453456970848
+        },
+        "southwest": {
+          "lat": -39.8214759802915,
+          "lng": -73.2572325302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aprobosque AG",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104163291721676126558\">Gloria Vargas</a>"
+        ],
+        "photo_reference": "AeeoHcK23CDHRCtLMHW8lx4c1BSsdwbxOCIbKqh_BdnY3Fg8Sq1kVKqdQgUD9I4ptTnVZvjnYyfMz53HRkrV4QERAGPMo-FXhxIjGW3L0n_q2Z2AlbckArRIwOJ69BFE55J1-zCrCjtQ9PyL5BxTDntcbPoqTaYrrqMlPYkVBJOc-qfDIyHOgENbPWIT9IQ7iWkznucHF7AJFtEi0XHCerCEU1BuhTw0JUZLQqMIn8dQATKJaI_QgOJHOaj-kGJJNQdj-p8vyq6g1GCoEtfx6R1hfEkeLlpqFiDEwsJv0ejlEiveQ30JIGYocjcdZScG8siEuo-xJey1rZ5LuUbqWdKDGqkYLNUOthZoeRbvVfVKUx_aZ5MPBX43MAkXqJtbimZQhqGVfY3KnCiSvlNE16je_2q1jfyWCVM0qf66NlT4mOSIUwRxgORV1Cq5_UNO8DmCrOKO-sjK5j6wHfPtSC14PD4SIL5hpY9QNDmBtHjyOdqy1BVyY6CYdTdUqvujyPdDH5BymYs8OvaFgqf-ObjBHpHpzaE00AmEaG4K-GNAn41lAEKvSahOAXOvYXoxSbx3tu_JqfMhtmEtPn7VJ9nIHj0VWUNipmXwVtnPkyu05yEeORq76jngA-FNGIgFxJZzUfFqHA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJj_2PFXnuFZYRXVCxbJN_6fs",
+    "plus_code": {
+      "compound_code": "5PHV+WJ Valdivia, Chile",
+      "global_code": "47G85PHV+WJ"
+    },
+    "reference": "ChIJj_2PFXnuFZYRXVCxbJN_6fs",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Los Ciruelos 160, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8151061,
+        "lng": -73.2411762
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8135947697085,
+          "lng": -73.2397790197085
+        },
+        "southwest": {
+          "lat": -39.81629273029149,
+          "lng": -73.2424769802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Serviteca DACSA Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114272386336552876576\">Moises Munoz</a>"
+        ],
+        "photo_reference": "AeeoHcKYN15BlohvazFC5E42nkpPk9P256Y5MhA9ouRamOLEZMhY50gA-XbzZAMPsQnSa3NHvICr-kK0i5KpIEULk8qxYQq-axg0tsNKil2-8niTXIdt5STz2euAvg-rxN6xSNUVyi5tW9aDEOrNg-4X1GuV6rwWVa0W2xQ_cizFDS1gEbN1Kas0tRAQ9sq3Q1I1egbK52Y_8Vr2MaPV-nB9pgUKPUNzkrE75uGVaGY0R0EKPsKkE54244Yd12NGA_c92pfO_piCmFfyB049EE9PMyuV0SN45O69C2uyq3-lssJWW_N5SVSUzqz_2-pG6I43ji8U8EjEBByPRvccXPn0wPN83ZT3N1n2_y1YKkphdM3h9__ck2lNNt3HzWeVmTEa-KmsjJM4EmXILkr4VJz1U7aVZ-FxPCsZEj1IjFo7vIvWGl_TpeNJN69Ae0SH_C7bkP6xT0FCdcZ0b63MBOyiXyQiFUk677NAVhTt7Elfb0XzsypA3DIoP61gp9RJeZE_5EeGm_N5QuWwPUjqMDJlqfj3gWAmjGxImSHwhbgzpUqdlyBEQwzKWYl_ivaah9AuouCc-uaNDs1kWMxHpmfuhQsQOgX5orGGkS9Bp4Normr6dHyoG1X4UbBdWq7dJz8nOnXabaY8",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJxW6agYnuFZYRY9YMYAlhj4k",
+    "plus_code": {
+      "compound_code": "5QM5+XG Valdivia, Chile",
+      "global_code": "47G85QM5+XG"
+    },
+    "rating": 4.2,
+    "reference": "ChIJxW6agYnuFZYRY9YMYAlhj4k",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "Avenida Ramón Picarte 639, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8153729,
+        "lng": -73.2442968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140204197085,
+          "lng": -73.24297126970849
+        },
+        "southwest": {
+          "lat": -39.8167183802915,
+          "lng": -73.24566923029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "La Boutique del Calzado by Sarella",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJQcNo_HbuFZYRlDOOTCi0rCY",
+    "plus_code": {
+      "compound_code": "5QM4+V7 Valdivia, Chile",
+      "global_code": "47G85QM4+V7"
+    },
+    "rating": 2,
+    "reference": "ChIJQcNo_HbuFZYRlDOOTCi0rCY",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Кауполикан 590, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8137741,
+        "lng": -73.2452469
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81241216970849,
+          "lng": -73.24397861970849
+        },
+        "southwest": {
+          "lat": -39.81511013029149,
+          "lng": -73.24667658029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "7Veinte",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117589255816507081703\">Jonathan Oberreuter</a>"
+        ],
+        "photo_reference": "AeeoHcLvIyDzxnW6YudieekxSOVbyczVqEt8FztbP16SR213PGNgJHtpMwhCJZVdhYGQHeu9eiByMo7qWph4lAbb-WpPiutM8IXuE0jZdW3TSszpxhWZO0Exzomeh98lI3d2mqrc_Y6xVVZEZPYL_jxbK25KrdPYNnGZd12gxifYLy6uqgYSxbBL2R1y6_B-f5aNLBbPeSmQifBWnJdR5syMbsmtpAq7vr4hnbu_JHBIu7x0buT108sqzS2oneET3p7FlHf2w5KLrcnUTEQ-eX_5tT3nHys4_DGxmUkxKDo1xJeCRDY4HtOrO4IJEyg5lJR-H4SognsKEXT0i-6uIrmMtMGquixwL1MLlsNVrnRHwbW4VJxhjD6JRJcsFmIbVeTqU6MWY2haC2zHand2TJSNd2wlZg0G4Zcg2e-l9iXxlOPnZN9E2yYWdlXVbeYH9glwvYBhphp1wP5gwDhPjbOrLMkbKehq0JXkb8iPGk7l7ffFh51IIxlxWgc_a_ImRidPpC8Bq_QKjDcuvitJgyCuFxGBlQ_DHSKOu_BcpSVNfLt-PQPG6_jbnLxd28TAoLuUZba5UQD64T5q79TtAz7Y-Yc2CPyxMDszvTpCx_iSiTROy8MUIc8nvTr7bgody5U7GV75-g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJg3oOP3buFZYRk9J2bNCkw08",
+    "plus_code": {
+      "compound_code": "5QP3+FW Valdivia, Chile",
+      "global_code": "47G85QP3+FW"
+    },
+    "rating": 4.4,
+    "reference": "ChIJg3oOP3buFZYRk9J2bNCkw08",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "Camilo Henríquez 466, Local 1, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8129064,
+        "lng": -73.24551439999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81161606970851,
+          "lng": -73.24418176970849
+        },
+        "southwest": {
+          "lat": -39.81431403029151,
+          "lng": -73.2468797302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tienda Sublime",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ11b2IXbuFZYRjQfb5Z_ZKdo",
+    "plus_code": {
+      "compound_code": "5QP3+RQ Valdivia, Chile",
+      "global_code": "47G85QP3+RQ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ11b2IXbuFZYRjQfb5Z_ZKdo",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Chacabuco 280, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8137639,
+        "lng": -73.24404659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81242346970851,
+          "lng": -73.2426418197085
+        },
+        "southwest": {
+          "lat": -39.81512143029151,
+          "lng": -73.2453397802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CREAMWORLD",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102614789098207465551\">CREAMWORLD</a>"
+        ],
+        "photo_reference": "AeeoHcIoIHiO8infnBxSnEcQ6HmspCopFsQT9hm1TmxkVi08JZHJCECfAT7Z65Pme_1HP5hG93bIdSv95NBappJsDGyQ2luoryauty8Yw6kivBpVBxURxJW4B2jTwPxNUAfhl-o13GnQH2319m2Sso7uA--f7AAxweupnUyq3ZZbID3e_H-S0RtJToU_zDpxoE_Br2S71__0IwKmTgYaVS0fDKs8zbzFVe5yS6NlXKD4TDl8vBf7peOrH4xekFBmS2x_dCf8fBAzkk7pELpAtQBbvElWFSmuxJtCQCwdyos5WzTW1cma-by177tC_g3qvWjrtJiAO42uu38",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJn-ImdXbuFZYRtXIG4R6fSvM",
+    "plus_code": {
+      "compound_code": "5QP4+F9 Valdivia, Chile",
+      "global_code": "47G85QP4+F9"
+    },
+    "rating": 4.4,
+    "reference": "ChIJn-ImdXbuFZYRtXIG4R6fSvM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "Caupolicán 443, local 10, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.815424,
+        "lng": -73.244612
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81405871970851,
+          "lng": -73.2432575197085
+        },
+        "southwest": {
+          "lat": -39.8167566802915,
+          "lng": -73.2459554802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rincon Nutricional & Deportivo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102349955948035826894\">Rincon Nutricional &amp; Deportivo</a>"
+        ],
+        "photo_reference": "AeeoHcL64NQBqHNJliMeKlDaZmPHarnvBKrIIjACoraQs2HyNX0K0izl4dUKnfATpu_GzH0lUfHfK7WkqdkwejWJDfucim54tDxwZc_ePrZTRDAsZt2xtfAbO8tE6TG7-Exj4s8qsQL4bOy8CXUsWs_PrSVKFanlWU7QwJf2Aff3bEmkRWFfloAQUw92irc4mbU4DG7KULEO4ejq7uPp12_Lo0njKTFfaT_p9_ypq87LxQ7MXIFtkhsOXxsymARLPyah1Nd_E2ePv5ciUzdMYqwlvdOkRZkutQtnJHkwifBvWLsk0KMrgZdLZOHWy0KJMVVfLXv1FA",
+        "width": 850
+      }
+    ],
+    "place_id": "ChIJc6LH-3buFZYRZNL9sehif08",
+    "plus_code": {
+      "compound_code": "5QM4+R5 Valdivia, Chile",
+      "global_code": "47G85QM4+R5"
+    },
+    "rating": 3.7,
+    "reference": "ChIJc6LH-3buFZYRZNL9sehif08",
+    "scope": "GOOGLE",
+    "types": [
+      "health",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Arauco #384 Galería SANTIAGO (local 9, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8145095,
+        "lng": -73.2438456
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81311126970851,
+          "lng": -73.2424848197085
+        },
+        "southwest": {
+          "lat": -39.81580923029151,
+          "lng": -73.2451827802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Flores",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109473794805454450592\">Rai Singh Uriarte</a>"
+        ],
+        "photo_reference": "AeeoHcIY5MoDvoS_zgDGHVcr2bAfOG7ahhiUHpWBc10hS5dVDEB5SuDrckwAjaN7jF-5Az5GugqkD-wTD7LmQNmAXUrlOcgoALO426n58ZYZyl-C66oMnAV9NmapNQ99Vv8M3taC0EZkNyjIjQQ8lmLOh7THh5GPANwEHZQEXocxN-WsMb7xrnNjrrx-NQoSp990Ygs5-V63A8tHS_918r9eDmNOKCSh8KpmGe53cH4axtJ0npheKQPM3GI067639SQWDBKGpWWQUlVZBWM2WF9TgtOx3Now2uMThKH4dt07W3DtnC096M66fxqOYk-_dDVYiILNL898EWhF4kOZNtM2z2J6PceJr5KoVj34T6xVgZxMys7j0FvlSMW1bv_7VDAwZO9H2Lg1TqeFGrW8G8q5Z1770c7jOWFfaUE2WWWbh3NXWpFT5JDCVUqKXC39eLPXiGZ0TVVymajeIsQGH2b4QSQUzl44bZME_XdW2ykrkw67i_-MdC3P0t8vbZY9_KnMwaxxIzMhpltDbbEo2FMwVSJbarWJxG4kT1eORIbisnujXzG10hsWCiNapYIWI1YdqTJgwIfEtVChA5esLaXReOv9DbAsuHg0dLrh9awDGwXmrUoJFCwnQkgFfuHXWtidRLubo2KC",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJmbNorHfuFZYR_LM5eiAIBkg",
+    "plus_code": {
+      "compound_code": "5QP4+5F Valdivia, Chile",
+      "global_code": "47G85QP4+5F"
+    },
+    "rating": 3.7,
+    "reference": "ChIJmbNorHfuFZYR_LM5eiAIBkg",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Avenida Ramón Picarte 417, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.816093,
+        "lng": -73.2418545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8146597197085,
+          "lng": -73.24047726970849
+        },
+        "southwest": {
+          "lat": -39.8173576802915,
+          "lng": -73.2431752302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ripley Mall Plaza Los Ríos",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105360506038554749561\">Rodrigo Muñoz</a>"
+        ],
+        "photo_reference": "AeeoHcIBK2-1IIi1C2-AH3yrqvcaHFWfdS0cGpvrYaZc5opb1vCS5v0NSLIo7D-Vkf5yPQu_fFYc3tXj0wtYeYZKRkYzZDN1iXxzS5VB6EGjROT36Nxy8gk5Yb6YniiOdDiwm3lq2RWIu78A_IkepTEz9mhtJcGP5jxWw78JmNjR6IBqp2XeYfVzrLdXEv-tJa27WuvqWAZuZPF3j3SfZ37S8S7Hfy5XHQzmaU2YEO0s72U4QWtCAeUfoUofO4qtoqwogcCBdmE8Jy5ni73wGssvXBpl3oixDC91wzGxDz6KDbTb2LGaeIPo2xBKv1BU6i6h-_PWBsso_vWlMpnmurfLJwUztKNBxCBXNLbPSC58Tpe-YiPBmn2spufq3DTuSVx9GsaS1-CVm9J7QWhB0qmVNfaiHZlxWdvN7Omg-tMs3x-SJt6-zcH3NMZdUvVEhLipNYCqiXYpouXkL9SUaatFXVuLQ9xym6lyKxZomCgtAXqI4QR3XvE_oYfCYolPgCqAVGaLOWuqapTMQHNUs_8j_zMgOzABoHf7BLZW1-mqvg9e3aPMPz7tYo7opf9uuZlYr3-Qyz90sln1zlC8FHl-xx_HI1a6QygGENz46P_kHtVAblhzzv8wjZzRsWXNBZhXWiwqTA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJUdnhaXfuFZYRdChgP04G5fg",
+    "plus_code": {
+      "compound_code": "5QM5+H7 Valdivia, Chile",
+      "global_code": "47G85QM5+H7"
+    },
+    "rating": 3.8,
+    "reference": "ChIJUdnhaXfuFZYRdChgP04G5fg",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3472,
+    "vicinity": "Arauco 530, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8262566,
+        "lng": -73.2269598
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8248612197085,
+          "lng": -73.22554721970849
+        },
+        "southwest": {
+          "lat": -39.8275591802915,
+          "lng": -73.22824518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Manufacturas Gloria",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118032323626800565614\">Roberto Catalán</a>"
+        ],
+        "photo_reference": "AeeoHcIkxO1eSGuuvEgTBe19YMMJlnvaO-RfwJcKATjv4vF2rgQYxFVLOKgf8Ov69ZeAN6BfEfwe3O85T3gqUIXX85boDFpXdxgCyu33oMOaKlSgRy3y6M_8Gw6lmVKNT8oL-z84Bt5Reh1uR5KS6azRV0qrY7nwdU0YmL2Xkl4ILe564ULkVtqqK1bh1HhSw0a3RmtUwwlwTiGssMqzHu_PvucerW8P1L2NBKNUl0IzYxO3om8noW-BI5Zcs7zmqczljMxIQHoa7dxYaRMxFC8LWZK8cqSW28XpwYrfXESJNVmGB7t7E-8dp3S1wp-BSaS75Q5Sjus-Im8qkMmMkQnXJsXuRMjDxBxpkOpQVdTbEY9j13Sh_uEOU4e9iLWGHDEPyJmz1Puj5KVRyqb_y5GyuQ40B25X3EfhwXODzKOR-jNVKy0RavwqImWTz-mdykv-YmW78u8yG6xNXi6xob9R2-HlcdQPkNq_XdwWlkZlc636W7enQu5k1M3YMJ0Ext40txOG6cs6aEZxDiYZCdPN1cFT7X4VMVgdJjpvmpD5i8-HJ_7YdoVX37w1t0uBvhFrsnZpLogJesBlUC_m5VF2fN_T3eejPA_6J7tvNeU8e8KGf2bENm4mzcpTkW_O0GeG3xvSeA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJSwO7zYzuFZYRZ-cXGMiX4Uo",
+    "plus_code": {
+      "compound_code": "5QFF+F6 Valdivia, Chile",
+      "global_code": "47G85QFF+F6"
+    },
+    "rating": 4.5,
+    "reference": "ChIJSwO7zYzuFZYRZ-cXGMiX4Uo",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "Errázuriz 1981, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.83751379999999,
+        "lng": -73.2310131
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.83635416970849,
+          "lng": -73.2296931697085
+        },
+        "southwest": {
+          "lat": -39.83905213029149,
+          "lng": -73.23239113029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tienda Mi Cielo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102751918924193759140\">Tienda Mi Cielo</a>"
+        ],
+        "photo_reference": "AeeoHcLPqXLE2CrdSu0h8RQddiaf1eTTr17sf8OwlBigP7fnxWMx5CP1kMzRWriB2VhyhcoGE_lNe2V4I5232zhx7bHhALBIG_636ypFNJYdz1dtIBEfkCi1x3udDi7V6QMMLJcB_mc5vBoff_UlvIyhis8OuNS6qDw_zH2oNVhlWNlj5DBKaGr4h9F5BIZG5mHyyaIq5NDErDSi-oGZ2RpI-KXaTVFjbGNe0lP4LX1mmig_cSqsiCZkTQskFWW-pu_LyEv1Gq2d-k9MHB3mLlHbsWUPUH_dfeLb8J7MIGtFPxO4F-myksmN4uKQZ-930qTFhHCtnXbQ4f8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJI5p8LV7uFZYRUEBMmpURFGE",
+    "plus_code": {
+      "compound_code": "5Q69+XH Valdivia, Chile",
+      "global_code": "47G85Q69+XH"
+    },
+    "rating": 4.8,
+    "reference": "ChIJI5p8LV7uFZYRUEBMmpURFGE",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "Avenida Francia 2651, Local S2, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8500587,
+        "lng": -73.24655960000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.84872521970851,
+          "lng": -73.24525816970849
+        },
+        "southwest": {
+          "lat": -39.8514231802915,
+          "lng": -73.24795613029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "IMPORTADORA RIVERLAND VALDIVIA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJZUJhfEzuFZYRr9KitWgriF8",
+    "plus_code": {
+      "compound_code": "4QX3+X9 Valdivia, Chile",
+      "global_code": "47G84QX3+X9"
+    },
+    "rating": 4.3,
+    "reference": "ChIJZUJhfEzuFZYRr9KitWgriF8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Las Avutardas 629, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8146973,
+        "lng": -73.2440702
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81333926970851,
+          "lng": -73.24277341970848
+        },
+        "southwest": {
+          "lat": -39.81603723029151,
+          "lng": -73.24547138029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Boutique de Perfumes",
+    "place_id": "ChIJMSIuq3fuFZYRBTf08NXbQCw",
+    "plus_code": {
+      "compound_code": "5QP4+49 Valdivia, Chile",
+      "global_code": "47G85QP4+49"
+    },
+    "rating": 2,
+    "reference": "ChIJMSIuq3fuFZYRBTf08NXbQCw",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Caupolicán 532, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8145373,
+        "lng": -73.2455429
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131800197085,
+          "lng": -73.2442436197085
+        },
+        "southwest": {
+          "lat": -39.81587798029149,
+          "lng": -73.2469415802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "La Polar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114200115432135034736\">Jorge A. Montoya Poveda</a>"
+        ],
+        "photo_reference": "AeeoHcJXcvSNucqkX0wQHHD88R3xnpFwqLYwu7hMaSdqtxXJ0Kw5b477KzJ4Mptb35yB7K8sUz2pvyOXnLynHcI3dncVwwJZtvomIVyMB42KyKOegaATFSxJC8TKkiz75MPmAY1GTaP2KMqNDdpEWbjFq8PdosGuCKve3mfmkuX1I1ttTdPfjRqy8_RCzNCYoTxatl_tBrVq18PvRjnKtddN0mFBidhjlszdLJClwOjzwSscpCeXW1I55tMecpl843-6w6rOYzYnDtj-GwPFa1HrXlXtI6DjesbRn602fvOhdZmrE6g8BmmtMgsAcPWsyQMKV81qZvfgeyXB3d69oxjvbI_E6uOwdMHvXyj4Go1eSXj4Jub3KyzI1wPLdDxKH9-Uj9wqAjkFs54B-oiv2d6g0eJsRnVXqVKuHuOySDN_UVl8ZrFcwGRtEe6EDSvzmiaghRBJsDdedtSDD8wCjy1wKFrrHKAEzVoMBxnlZSm-5OKeBz7BEr2mbOi7Hgq1vRsigfJWNH79C8U_aH5joBUYnrnZuz00svbYbNRNG63VcEkTKhvivwNPWG3RsiduhGuEFu0fdSsmxB9dBE9gjJZ3HPPMS4fblEN1mqDe9kYDsbygmDKvxth-c-x6iQH_UuXuZpCxxg",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJcwv1XHbuFZYR47BcpP8HX8I",
+    "plus_code": {
+      "compound_code": "5QP3+5Q Valdivia, Chile",
+      "global_code": "47G85QP3+5Q"
+    },
+    "rating": 3.5,
+    "reference": "ChIJcwv1XHbuFZYR47BcpP8HX8I",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 936,
+    "vicinity": "Camilo Henríquez 520, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.8130805,
+        "lng": -73.24366839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8117256697085,
+          "lng": -73.24236186970849
+        },
+        "southwest": {
+          "lat": -39.8144236302915,
+          "lng": -73.2450598302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "DISFRACES EL COSTURERO",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105727530362540085535\">LUIS EDUARDO INOSTROZA ABARZUA</a>"
+        ],
+        "photo_reference": "AeeoHcLlTMoalYsIRCMUJFJLo9zH0EMYeWJkEC-Gb9oOoZx9erEAdtawSTPMQMT4UdZgiw1OmqahpiiiPlNNrsJoePQu1LZ9oJ_YmbB-QoonG2yd65zzl6ouOzVM3doPSHkiO9TwU7GDWUvzNQ4nUWpAPc2qHA90otz14rS86DhNqzRz04RZaxVGZXzcXlE2iPhpf2_EvK1hhiqPt0aehv3ua_M3hmV4_riG4ThfqRYbDhnOYivevxnqSDDyFLmkJzSOSvLYcSf8A9fGvN8wQlZ5txinnInWW1Ehgc6KOUEaz5uxL3qMqT9eNm-byURuoeh58_5Dx_vIPyErneu5DBUv7oD_tF1Qxm1aX3_tjckl2_pvLZYB0sAn9kU72Dyeg8yG5YuktmA3i3a36GDwBnsIcabBW52ylVWzHxjwqwOzGXrQ9uvbbmMPA8EE6KVyECI1Gtmbb_LSiYauNrAi2owZM8I8NCHPI5urfbWsI5jGPOc3uN_upV-ci9UgkhAQuckBNGx3tqg8omZcMbdIGhMxhn5hKXTFUfXJ8iBX_sNjcljJiqe782Ki_Ja3mS10Uc486ONGt2yFNM-drgC0Sq3XDlLCnZZidA7_2knw0GmoAEnz8lz7mLXiwUJ1Hb7Htu1MhXLyhWbv",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJATuUyHfuFZYRp-Q81L3Asww",
+    "plus_code": {
+      "compound_code": "5QP4+QG Valdivia, Chile",
+      "global_code": "47G85QP4+QG"
+    },
+    "rating": 4,
+    "reference": "ChIJATuUyHfuFZYRp-Q81L3Asww",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "Caupolicán 374, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8144244,
+        "lng": -73.24462129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8130193197085,
+          "lng": -73.24325886970848
+        },
+        "southwest": {
+          "lat": -39.8157172802915,
+          "lng": -73.24595683029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tricot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112020610052773028767\">Marcela Soledad Hueuemán Gonzalez</a>"
+        ],
+        "photo_reference": "AeeoHcKolVEGHB7PxQBwDwCvVezYTieDA0ASW097hiIYGv_Kew8U8tQlIMTAXZRLfNq3XWs-aB-aP8JTx3zF1vR-Qf7tTeltcHCpd4-jeMD4HVGSaTVMtr_0TBBawsCcgD7-KrqtkCnMHIPyeQo5zf7WiXTas5SCq62oKo--bSCniq9b4zuQVPcxtxVnO_K0_RgPkHSth5SmKUAzFOh50Vu59QRjbO6I0veZn59hlY18xxnUrqq178VN83dlbwQp3Ed4v1qwKuEq2B922_Au-ItCfTFVv5JrvAg9zBDCraT_a5ko5kQ4VA4mryaQhOzLpPPIRgqLWma8CQto10KYM6Es7zB43T0qsVXHcS8LunrxOXoFGft05HfjsIfrt6L6BiyIqOMEBZdDD9GOQ0LV3EOoi2wFR4tYlctL-M_o57TKWq8o8PE3QtEchl-iXSjfvtzXgeIZvoHi64gMy39SW9F8-qj3LB3wLb9_RP7K1TMIdWAIG5ma3phxeSSKv2zbjy4e3Aepwjgl3sWFZzRk1c3JTzE9lCO_QA-CzLpCKV4YgO6_IzR0yMF-WzYEZBpWafhHvwcGd5lgKRTedMF1zIsyVdFc_1p_XKdnG3Gl8hkMscbBJ4tlJY2ysmDwX3mJQhBxX63r6g",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ_93GpnfuFZYRy7UlBttp4bI",
+    "plus_code": {
+      "compound_code": "5QP4+65 Valdivia, Chile",
+      "global_code": "47G85QP4+65"
+    },
+    "rating": 4,
+    "reference": "ChIJ_93GpnfuFZYRy7UlBttp4bI",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 206,
+    "vicinity": "Avenida Ramón Picarte 367, SUR"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8145803,
+        "lng": -73.2436252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131628697085,
+          "lng": -73.2422598197085
+        },
+        "southwest": {
+          "lat": -39.8158608302915,
+          "lng": -73.2449577802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Multitiendas Corona",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJYXIwr3fuFZYRiXZtYfpTqCQ",
+    "plus_code": {
+      "compound_code": "5QP4+5G Valdivia, Chile",
+      "global_code": "47G85QP4+5G"
+    },
+    "rating": 4,
+    "reference": "ChIJYXIwr3fuFZYRiXZtYfpTqCQ",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Avenida Ramón Picarte 422, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8136598,
+        "lng": -73.2421786
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8122252197085,
+          "lng": -73.24080926970849
+        },
+        "southwest": {
+          "lat": -39.81492318029149,
+          "lng": -73.24350723029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "UMBRAL Ropa Usada (Reciclada) Europea y Americana",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102865334143585280593\">UMBRAL Ropa Usada (Reciclada) Europea y Americana</a>"
+        ],
+        "photo_reference": "AeeoHcJWRNORbdUcZqSHbMDFl67ruiAeYoclwMt1lSnEvnP7Ulm8XUSjsshc507ZDqGzcSm6eQENs3JrxM6PgEW7f4osCpvpBRrjEE5Mu0zy_9-kaO0dblJfpHDksgYd0hzLi4NjWzrbSBxjYSb079PjThtU5NVEmPHZGJM4GKhFN2-awpXz0BntOrm6YdFeAPbm3znGfGxX45AwaUG1Tb1c2U39DGsMtBR0lGSllmhiPGRaf2XsrTRxGO7uLMLXJ0ISTRTwM9834FN6PzMfmNCvr7SMdee2LzwPh8357WYY3ju3v_zO5Td7MOBCIo90TB2g-ohheHCxXo8",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJW_HUk3fuFZYRk557o_5VNHA",
+    "plus_code": {
+      "compound_code": "5QP5+G4 Valdivia, Chile",
+      "global_code": "47G85QP5+G4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJW_HUk3fuFZYRk557o_5VNHA",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "Chacabuco 545, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8139173,
+        "lng": -73.2464622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8125171697085,
+          "lng": -73.2449610197085
+        },
+        "southwest": {
+          "lat": -39.8152151302915,
+          "lng": -73.2476589802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Florería Vioceday",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106595114467069579678\">Aldo Rivera</a>"
+        ],
+        "photo_reference": "AeeoHcKsXr8YsYmjYu4r1ChF84GZs4CzQL9rlULsHN0iXya919QMWhKxSJ98bO0zShchOHRsf6kAVbB60kCpNGbhMDB5B5lULKSpcqrHCBEoXSfCdKem4qX7mgL2l1dcB8mB2c2Bdlz28NGSvn6jzYwh3pfl6OO3iAQhmwHUyPqQrAzwOBIAfavGDyLbMRAwIeVghyqChlUihlKnF64erVLsRt7cpeucO0wIgVvOPlp6pDk73ZeYxtONlOh9uiAOz9OjE40OZBccpLyhdW5X01fIgX4OAdmCYXaIG3bWogcXbYAqRVferKUpxwkXKljwZcFc3ZINFPEGGfjN5QDGoRjSJjgT0hpK1Dic3C1esFs7FeEwjBs3e12zf638bXSm-6gcZmRMY7wY-BRDDRXgJUVF1_v_wCzqyS8ZCqWMiKBSgLbrzXZZcpCSs9Io6scnSulGnni9etWH_E_aLxBxySUQVFj0wSJkQyTCdgzW-Zucaa23jJQdDap55ebtGwPdzdnhh4ZC1as07P8Wub-7Ge6Qf8eLk3LmmvGOcQxubtYDHTvjzFwxZIh5PbpFJPy8OMkPYNSwi52BSQQsT52pQ8hor6LBGAOX_1rLttmfRM6amioO7xdziVtuQEZauXa_kSBZeVNpRQ",
+        "width": 2992
+      }
+    ],
+    "place_id": "ChIJN_m1EnbuFZYRyy8d24cTOJA",
+    "plus_code": {
+      "compound_code": "5QP3+CC Valdivia, Chile",
+      "global_code": "47G85QP3+CC"
+    },
+    "rating": 4.8,
+    "reference": "ChIJN_m1EnbuFZYRyy8d24cTOJA",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "Décima Cuarta, Libertad 165, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8143179,
+        "lng": -73.2452574
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81292236970851,
+          "lng": -73.2438976697085
+        },
+        "southwest": {
+          "lat": -39.81562033029151,
+          "lng": -73.24659563029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "T.H.C.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJT7QSKQDvFZYRAJ02k4zqDk4",
+    "plus_code": {
+      "compound_code": "5QP3+7V Valdivia, Chile",
+      "global_code": "47G85QP3+7V"
+    },
+    "rating": 5,
+    "reference": "ChIJT7QSKQDvFZYRAJ02k4zqDk4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Avenida Ramón Picarte 321, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8137644,
+        "lng": -73.24537889999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81241676970849,
+          "lng": -73.2440222697085
+        },
+        "southwest": {
+          "lat": -39.81511473029149,
+          "lng": -73.2467202302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Zia Moda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113279928589588026289\">Martin</a>"
+        ],
+        "photo_reference": "AeeoHcJnsDt9v00c6nvywVoorWFhnUOaSdLVHvtPXRqbRdW1r4bwBBaaXghXAtj0LJoMTMJLfxs-37ALkUBVuj19Tro8kvSPldu_8izHEiWVs25f3kKSdVRA3hwuUd6j7UZN22Gdp1_llSjrsZWlC4ytDSmrQGAXC2dkuO3NRBSF36FUguW3tZB3eJustVWDA2LASPdGN7trcatH-lrIJJdwE90TCrMVh7lP6a680o3eMAujnuuXdj_dBmfhkV7Ljq2jPpW_RPSrCGZdia3AVF-d_zxic_0IL9eYmAYLkZByhctdzP2-06mjvSAixciyfYQv_J4BBg-WYlbXo2qVF3sLUCP6oQKpjqGimHr-8HsJNMtVe8BVba7D_cUnEGqGAHBsdxL7R1CuFGpGxXPWzWB8pv84le6t7TtU6rvDgIZ3K8cnIiB9oNTxLEOA2N206KoZqydwaYQeNWhrwv_EAc7tiVMSYTdB0jFWJOZCUyiUAwindMP4g2T17saD9bzpt2Z7Z40kTLzsFhj9Mkid7bc5galuRPRceDhUSyKtTPDV3wtUsHWm-6qtbZQeFJqG5cuFdDWkdiHmjOXkO1Sc0teKpnQI3xhXJYejSXQWGkB-aXeZw_ajER07ZMkIIiS8kQK6k_vAeAp0",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJPzsh1DTvFZYRpigPgY7JlhI",
+    "plus_code": {
+      "compound_code": "5QP3+FR Valdivia, Chile",
+      "global_code": "47G85QP3+FR"
+    },
+    "reference": "ChIJPzsh1DTvFZYRpigPgY7JlhI",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Camilo Henríquez 465, local 142, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81477890000001,
+        "lng": -73.2462749
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81338991970851,
+          "lng": -73.2449152697085
+        },
+        "southwest": {
+          "lat": -39.81608788029151,
+          "lng": -73.2476132302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rockford",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJa_bXZHbuFZYRkGhWyMxqpe8",
+    "plus_code": {
+      "compound_code": "5QP3+3F Valdivia, Chile",
+      "global_code": "47G85QP3+3F"
+    },
+    "rating": 3.9,
+    "reference": "ChIJa_bXZHbuFZYRkGhWyMxqpe8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "299, Maipú 201, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8146025,
+        "lng": -73.2437211
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131678197085,
+          "lng": -73.24235156970849
+        },
+        "southwest": {
+          "lat": -39.8158657802915,
+          "lng": -73.24504953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lapiz Lopez",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105360506038554749561\">Rodrigo Muñoz</a>"
+        ],
+        "photo_reference": "AeeoHcKdYkwob5n6-zYUcTX0BMXiFi5gHJAGG3LwjnVOKcfGH9GFyd4v19hR7uHxMCAZ7rT7QH_cXbtsG9mvClcaFcHjB-43XUD-UneO_6wzQOf9EV5xg7B_eYLLAH1TAz0QzSz8hwz6KcHjRJIfaAe7dpCaVf2cKuyt9Mpfys88a0t_EK9rjOCmLJSbz8C1y9K9zXyuGj-XoebIXIKjbuEfovFPXkXl9fFJY18IwIE-mXCxrwIU0w0yx9Tr7gY5DZlChwaf6TipTbfRCDiI4dwiUoho8byWyTu7cYu3xiEOfoWL8lLlrI6tNXiLOGDWisEzm7bKMHwxVd3CswjsTBtnR1YVR-CJiCEiJbA6ZLzYX31yDZEYM6UvDqvCRExc8Uqmzl9xT-CnESvUvx29JypnMrwQ0n0KbxL6g4EXwZtIYhYL2rTTgwJDQ7vzI1XRLt5Os0CSCLvWIGar_-w4qXaPbTse23UczZwtfsmHt4_Eh6QoogqeImAZDrjnmRjixWVU9RtUVGq34YfzeufzyLSFV1mb4QFLUtmHhDbdqujzQXc5Pr1IJg3noC2Yb-gLIBv4FIYrV83xuycB-mA5ILKmlSMIrjMZVXNDB060jEQFoPdPJoPOmRRWewaBpq8LgZsh6IPL3dWa",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJWWInr3fuFZYR6YHV5YzbdJk",
+    "plus_code": {
+      "compound_code": "5QP4+5G Valdivia, Chile",
+      "global_code": "47G85QP4+5G"
+    },
+    "rating": 3.9,
+    "reference": "ChIJWWInr3fuFZYR6YHV5YzbdJk",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "Avenida Ramón Picarte 417, P 1 Loc 3, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8103015,
+        "lng": -73.25177149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8090117197085,
+          "lng": -73.2504499697085
+        },
+        "southwest": {
+          "lat": -39.8117096802915,
+          "lng": -73.2531479302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Qué Leo Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114968696034358766063\">Moises Arroyo</a>"
+        ],
+        "photo_reference": "AeeoHcLWqUbmTAVut0tOwawL_zqwp2gqgxPqRLWCRYkT_lXd939mKhauonyPuYNl_m7x7C1c06mc2F0-F-8-2EhWQOZQZsASOJxIDJM5_G-oYgcZitaknda9s7eTLiL4vw7i8XOEM_kB9Wta1igcwuSGi0al90oWd5j4Z89pGtBpdmdLG_a7zSJGVxdxwRBmFu_VCzi9j6k50VHuUM8LWf8lR84dvq8EQIy5rjV5HBrEAOxpEZmCDuEkgWjpCkfBVMY65J8Ay4LTxFO5XVBcHALAcVhwzLXnfJBierdg4PAvC6zNVcuN2BHB9h99rCpghVKzW3To5SH26rJ4TvJYqeQa7iCVafhUzyyUrWLf1Uq3dD2cohyy7G1drxiZywFVQxx6ejnEAXZWxv94KLsGbfpDj-A2UtAUjPnKv7sbLWOiFFmXwLKVhY-2rZ8eJ2C0OCmNqJRaN1LQGyAVMfldH4OUgL8jtofuBlB-2PxP0tQUP-Nqeea9L2Vqvj58DtbcEH5V1DrC_DmEwQP3J4e-dI8MNMcQQE909Tovzhz3KfoCUGZ_rbsJIWOAd6RFNJLQOP7fmYgs-lW5WrZnxMS7VvRbFOPSaNEYxmNRzHbI0St9aGp32pO8SoN5q3lN5LItmMPbbuDm-8BF",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJWSugN97tFZYRmWN5URPjCEk",
+    "plus_code": {
+      "compound_code": "5PQX+V7 Valdivia, Chile",
+      "global_code": "47G85PQX+V7"
+    },
+    "rating": 4.6,
+    "reference": "ChIJWSugN97tFZYRmWN5URPjCEk",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 275,
+    "vicinity": "Local 1, Los Laureles 75, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81458019999999,
+        "lng": -73.2433635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8131807197085,
+          "lng": -73.24200241970848
+        },
+        "southwest": {
+          "lat": -39.8158786802915,
+          "lng": -73.2447003802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Libreria Universal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107048418215709942697\">Felipe Figueroa</a>"
+        ],
+        "photo_reference": "AeeoHcIXO0HdzVYCkFbvZAypofSWPUyx3kfQJXnmjOs2R8PBYTedZ1Du-lqJUHGGcxHJjmMUYPjP_IKncwagmEaM2RUvMxuL3lrdPEXfvPrplx2iu4OvT4EXvGqTdOzbYjcHoiC9ssNo36nWfs1g0xhHcKfhxPvl5wwxWnL3cIbazPEYYoZukZwcnLUetZufAzDhUw2yxkLTNZuAcwkzdYgZqBE_eYJzq95VyMeG0eox699iOmw8VkrBH-VRP3rh2kewY9YSnwL_-whNBRJr-jnCWEDMzRxdETsUKcQfVl73NfCeWfvmmjUK9FnKsAgcIVMCxyDOzynIRzXHikp7_q4gI3OIQnTCB7Agi5K1AZS4V5duWEWf_dgv02VB6v4uDRzVqMGsUf679sDNYGGSyvKQuQiJilIXN0LFtCeVKcpPg8PFAyLV2Gq3wzkS5QB5RrZRoiV_tMPZSnAVC7CX-nBf6ZbMKoRD1OCTMbQ_HAi2GDvz8Lwbg1rFgcpOX3zGZscbCZ9AkmmuZBQInwlc99sUBChpYbvxVowokm65fSyfLp-JA0fkUUc-PK-v_x_nym4HSRu3xOn3OXhjpiTPIjqA-jInRcMOGJ5v329AAeNNVEio_bE5UmeVIpvscyiZsyWFINL8KQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJu6_qpnfuFZYRH2QD9ZNVB0w",
+    "plus_code": {
+      "compound_code": "5QP4+5M Valdivia, Chile",
+      "global_code": "47G85QP4+5M"
+    },
+    "rating": 4.5,
+    "reference": "ChIJu6_qpnfuFZYRH2QD9ZNVB0w",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Avenida Ramón Picarte 461, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81380559999999,
+        "lng": -73.24527719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81244401970849,
+          "lng": -73.2439985697085
+        },
+        "southwest": {
+          "lat": -39.81514198029149,
+          "lng": -73.2466965302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Premium Papeleria",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118053358291609883470\">Florencia Giavelli Muñoz</a>"
+        ],
+        "photo_reference": "AeeoHcKWkyL2PrVAEVFxFn9c-cBk5RJtmBRVbolTqnDcU8rR9cdBeUVxYLDKuZasft5DIvTjLXlU6RNJv4NHM4Yu6HdwSQOAdrJq1Syuf6WJKc_dPj3DPVa8tGORPOvAg8kDDLrYApBze3QJyjWzKW2x19dw16WWCVm2WUkJvEeIbIXrdPrlo9dsy13PbQTS8ui_-Yw9FuCYYJwJrjb9D78i-bwwdjS8lvoTU-sVsVhnlStf5mkzAu_IFE8bPhNvXzvN6Ex0ZZhPj4iZw1PlqIY1OGweipncnEEnoO9C2G2hfMfV3wenBdhaABr0nuGlzsDslcruZR4Hzl27Jf0YULSTNJG9z3OkU0fjctnM7XMczPBHawld9MQ0C4iigxGz90018Ix3DCYm3UKhyE06Xk57VIfyO35ioGmibjfYnCRMrJ2_X0ygMcfpwFRRDNTCCFXYKCisBv9pWNSGJVf4_iF3Lzia_P5vhddbO1s4gVXJ5tfmZHslW8Rk3_gkNxsOjz1lwAQzAUGBvG1941ef6HieWmuVmIEdohU0aHl-6JzSYhV3VY8gINBq21g6zaO5s0IrP5AcI0CCjc3OdpD9sg_1xMTofPll9wIz5Zf8rIm69ACIFbfLOzQDeKnE2aXc892rOcQ9sHcC",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJPY_wdePvFZYRlKXFKtzJEzU",
+    "plus_code": {
+      "compound_code": "5QP3+FV Valdivia, Chile",
+      "global_code": "47G85QP3+FV"
+    },
+    "rating": 5,
+    "reference": "ChIJPY_wdePvFZYRlKXFKtzJEzU",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Camilo Henríquez 466, local 140, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8148269,
+        "lng": -73.2465545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8134892197085,
+          "lng": -73.24513091970849
+        },
+        "southwest": {
+          "lat": -39.8161871802915,
+          "lng": -73.2478288802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Paoka",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105808114800304329578\">Paoka</a>"
+        ],
+        "photo_reference": "AeeoHcJ47VDziyK6XuudFzCNELzt2RcD47I4xa_aLNFIXD0hGH9TlEo0QDDPSbjvUSllpJs7ZPlkTsd4kBwV6mwfy70kXIccNICWNK3WQUQpEche5jOnoJaLYNg4WpMiTlS7eouf0JiIX0cjKlPNzYwfNPMQg-ym9ZliRU82n3ONNkdxtsUL7nCE6LgwExYjiB5RrallP76ItDxuVOGs9MsJuYPewkuXQxqKzjudAf7eWEaRlDpYwiHw7u9tiJFw6OhuV4vrfoeBFjFwnbld7AnmQ-RShPtDvoOL08fwpeQ2OMpnCvaiRbqTliZC4iNg1O37hegKjH0-Npg",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJxfX7kEPvFZYRdeTMQWeHb-Q",
+    "plus_code": {
+      "compound_code": "5QP3+39 Valdivia, Chile",
+      "global_code": "47G85QP3+39"
+    },
+    "rating": 5,
+    "reference": "ChIJxfX7kEPvFZYRdeTMQWeHb-Q",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Vicente Pérez Rosales 565, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8137359,
+        "lng": -73.245077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8123616697085,
+          "lng": -73.2438851197085
+        },
+        "southwest": {
+          "lat": -39.81505963029149,
+          "lng": -73.2465830802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Feria Chilena del Libro | Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115657730929942560731\">Ulises Cárcamo Fahnert</a>"
+        ],
+        "photo_reference": "AeeoHcI7yHYFnec9_gmg4zA5-WbCJsnJe-KSrN5dk3r0kGhv3zjfCZmAKuNqYavafStlOZPpJ8pk4CNQaa1VNnYqIO2KCCj9FhcSJaBLPDAe4Bo9pHPlDwZup5Rus9nGPy7M2sKwhTj41p79qWUa0XJQcBuhS0HfhmsoFMtSlYwEbAwHNmEMVBdvc3ii76Edsp_8g6zQFgwChvSnIjmoOG28f44pBLngEGpI9f_-ONdOZw8VMMdotupXO-dodjfMkJ8bpG6qGyHncfFye1gqH0Ihkvf7lKRHRqy_l5o9Ddwd8ZQNYWiJAbBgCdn8_f31Xjd8aYD7s0ZBYrCT8Dr3-4cBA_JXjVUP9U8lCRKFdYKElRe4_lsO8guW4DgLSeY21OCqgcTFcfZvAa2Sbms-cvPEdJokRc8SH5TZalZ_Bm162OQyzI33FpgeJt22A_MAy0NI213boY5ky79_25Wn20I9sb28qPzLBJaGkamTFo7SVoU4B_bYc-1539RmRaOLhGsENnlFTtDN3nW2frn91u36fLzwfU1SGtZKEoYbzRVBGeWKHinWg1tQ8x6GGHL4K0EubqKxY2ebAk9ABidPyaUuQdb-ZqRLesWR11A9-gfHEv7tU2UJVAZZVKop4XkWZcV_4B9EVEIQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJbc9eP3buFZYRnWJ2_7kpYho",
+    "plus_code": {
+      "compound_code": "5QP3+GX Valdivia, Chile",
+      "global_code": "47G85QP3+GX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJbc9eP3buFZYRnWJ2_7kpYho",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 167,
+    "vicinity": "Camilo Henríquez 466, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8132766,
+        "lng": -73.24611279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119294197085,
+          "lng": -73.24474191970849
+        },
+        "southwest": {
+          "lat": -39.8146273802915,
+          "lng": -73.2474398802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kiosko de colecciones, diarios y revistas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107306990255658427924\">Kiosko de colecciones, diarios y revistas</a>"
+        ],
+        "photo_reference": "AeeoHcIpRqEsF0v-m4k-FCYs7G61BJPCJz7drC7c1cRgziRc7Q8lzBfRmN0XiE9s2HO1El1Jh-dTOsD1o0lzVfU2bn1iaE1isfWFZ1h0wOE748jexJBT7JX5Md3TqV7j7c24_3j6jp48ssTWjwwJY7J_oU0T32DER48dekFDelv762T0ZsxKDP4X16vtlF_TeYiKYzY2Nh6aC20CA4JGJh5qX8mubCfIT1kHi3RlqImPe_B-jYjvm3U5IMtQ9GFGhsUmueYAMXivkI54itIx9qyP8PO7VbdcDChTOXLmbQeE-FFEqRXxdKMdiL6S4IIGvXBxckGXFTmhGQU",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJaTc_GQDvFZYRH_r33AH6UZQ",
+    "plus_code": {
+      "compound_code": "5QP3+MH Valdivia, Chile",
+      "global_code": "47G85QP3+MH"
+    },
+    "reference": "ChIJaTc_GQDvFZYRH_r33AH6UZQ",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "O'Higgins 442, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8133601,
+        "lng": -73.24441449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8119265697085,
+          "lng": -73.24304596970848
+        },
+        "southwest": {
+          "lat": -39.8146245302915,
+          "lng": -73.2457439302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Libreria Cervantes",
+    "place_id": "ChIJuTD3M3buFZYRDaMaVQIQ6Kk",
+    "plus_code": {
+      "compound_code": "5QP4+M6 Valdivia, Chile",
+      "global_code": "47G85QP4+M6"
+    },
+    "rating": 4,
+    "reference": "ChIJuTD3M3buFZYRDaMaVQIQ6Kk",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chacabuco 347, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81536759999999,
+        "lng": -73.2445968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81405331970849,
+          "lng": -73.24325636970849
+        },
+        "southwest": {
+          "lat": -39.81675128029149,
+          "lng": -73.2459543302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Comercial Pc y Libreria Luz Nelda Monsalve Reyes E.I.R.L.,",
+    "place_id": "ChIJQYOt-3buFZYRGrU2SwTVd3M",
+    "plus_code": {
+      "compound_code": "5QM4+V5 Valdivia, Chile",
+      "global_code": "47G85QM4+V5"
+    },
+    "rating": 3,
+    "reference": "ChIJQYOt-3buFZYRGrU2SwTVd3M",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Arauco 384, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": -39.81578409999999,
+        "lng": -73.245831
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8144172197085,
+          "lng": -73.2444068197085
+        },
+        "southwest": {
+          "lat": -39.81711518029149,
+          "lng": -73.24710478029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "FOTOCOPIADORA \"STOPRINTER\"",
+    "permanently_closed": true,
+    "place_id": "ChIJN9b_QRXvFZYRWlhhddKzkS4",
+    "plus_code": {
+      "compound_code": "5QM3+MM Valdivia, Chile",
+      "global_code": "47G85QM3+MM"
+    },
+    "rating": 4.3,
+    "reference": "ChIJN9b_QRXvFZYRWlhhddKzkS4",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Camilo Henríquez 631, Local #1, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8158038,
+        "lng": -73.24580999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8144383697085,
+          "lng": -73.2443917697085
+        },
+        "southwest": {
+          "lat": -39.8171363302915,
+          "lng": -73.2470897302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Copiaysen",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3977,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103998142757962877949\">Copiaysen</a>"
+        ],
+        "photo_reference": "AeeoHcIASnx9F_SfzgOg6VW27XXfOcyZYOwZ8sSRFQ2EdLDYzCM5NKQHzCYpNR6eT8E4dj2sbIQ-FWjsy1zniKV4bolLIG0HNLhPSFJd3u1yJiVHYOnGH7qwdC2m4Dm8PigFB5cvET3vfyNPEzFUjIVu4C-nmHxa6PshPwlONTzYE_yOY4ejxa7wxqUscUPMYX6z6VplzGYoBvmKBYlKvqstNBe-UxPb5v-X6cJaGtWbmHqkbO5uKXsLgykDqiMrmIYodyXUciEBxKn_mjrJ0bYE-VxCpsgFYWrHod9uDIzLYk6-K2sLGPnsdZlVVdpUWqyWjcn0VQucF7U",
+        "width": 3108
+      }
+    ],
+    "place_id": "ChIJL56IknbuFZYR3GL7RvySc4o",
+    "plus_code": {
+      "compound_code": "5QM3+MM Valdivia, Chile",
+      "global_code": "47G85QM3+MM"
+    },
+    "rating": 4.4,
+    "reference": "ChIJL56IknbuFZYR3GL7RvySc4o",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 160,
+    "vicinity": "Camilo Henríquez 637, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8159292,
+        "lng": -73.2457538
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8145643697085,
+          "lng": -73.2443381697085
+        },
+        "southwest": {
+          "lat": -39.8172623302915,
+          "lng": -73.2470361302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "LIBRERIA EL TORREON VALDIVIA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113266713262936122179\">César Sanhueza</a>"
+        ],
+        "photo_reference": "AeeoHcJogQvMq5phmvsUF26vrwWJ7Y67dSq3GS2VRpdUWSCRVW1UcLgLwy1TKRmLBIkhxPu0pF7-_WQQkQ6SEAl4elBFhofEFeOQskGnalR1g8fP2JoPy0vkO2C4Uil2kR4b_1_9X_Gm-YpqEgLJrUuCHGDkqG6CzGei00QXvjnPVG9snrted2wcLh6k6uOM5SW0QXWP-Tt30CNhgknkzM6_MqToanwsuz-lKCncUupN_dO9yCXVoH_YpY7ULqXZrkRHZpMRhTrTB6Qoprx2i8pLBzFw6eXhGvEP970KxKmV1ejM61qMB_XrBrz6gR-8hM57S3bY-yPUnazVuTHIYPVv4Twtg4_HA_uhjabW0OQ9YMUzORZAwWHivJiFfqhfZpIcUBi7ncYZpfDC7waObDcoeXgVrjPSNmpbtleLC8PknMUCgoNE9HKHw--I7fWWY5sNAW9gCnJCY5yztthw4SFHdC36-SAtOcD2lRPrCQ1Xx3VbJHn1i2b0LqZjITVfxISm9r4Qk1znJ0wbRgaRts6E5_OIz-Wa_MY_OLZ6gCVYJndGyUt_gvja7-EKj2sC5EzEtrKvhfErEypkWtmWEUmjhedFT6ZX_i4xPE88jeVmVzh4pxdqkmvOpHL0UTL-jfXUbZJJmkkt",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJE23ry3zvFZYRyG9zdM8s_VU",
+    "plus_code": {
+      "compound_code": "5QM3+JM Valdivia, Chile",
+      "global_code": "47G85QM3+JM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJE23ry3zvFZYRyG9zdM8s_VU",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "Camilo Henríquez 643, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8158392,
+        "lng": -73.24734339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8144482697085,
+          "lng": -73.2459828697085
+        },
+        "southwest": {
+          "lat": -39.8171462302915,
+          "lng": -73.2486808302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Casa Niños Juguetería Didáctica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104353136486928372685\">Casa Niños Juguetería Didáctica</a>"
+        ],
+        "photo_reference": "AeeoHcKjKZR0JnU194D4XkioyfGnIBVItlAHFehJlofuAtiXTFQtKHslth1lq-HKwskxXI7iVl1Cs65EaG8vb7irmkioFo8O0j0Vqzw2e-D-Y70L20A4Si1_-mvEy6aCBx5adfbwqDcSQlJLBd-yjYvYezJhS_NvpiZhZcf2Q8_K5sE71kxyitrWUo6DNXE4037Wrj38Kbg3dGa-zoRPdaY1jLtHPgGHUpCYi97fjWc9RaU6q66sFD-mfvNBAHwRZ61nnPS3QqoOoP6OOIvgiwM-SVUj88zy56bgY33bM7Hq2-5LSt6bCqxb5TYm9dsV1Rlw7peZNXa7GEU",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ74dGrGjvFZYRS2SM4aWnny8",
+    "plus_code": {
+      "compound_code": "5QM3+M3 Valdivia, Chile",
+      "global_code": "47G85QM3+M3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ74dGrGjvFZYRS2SM4aWnny8",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "San Carlos 165, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81292739999999,
+        "lng": -73.24363629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81157281970849,
+          "lng": -73.2423280197085
+        },
+        "southwest": {
+          "lat": -39.81427078029149,
+          "lng": -73.2450259802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Librería Chiloé",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113727622834990750458\">Librería Chiloé</a>"
+        ],
+        "photo_reference": "AeeoHcJbOhhV7KxyvHC-SjWIM-gnizUYMKaUR22LU8LyOixPOnoMWZWJYyg2Yf9b59N76lH1MlvQz2692ri_5HOsHk-Nr9mJ7j-OqjWu834qNd2at2cuE7COd9-tQn0CfSYipQG4R7AW6EHRxxJN-TzMbocIkkjoGBORyabY0pF6MqDT3l3UrphCmwgn8mXGc6wQN1WIXbYykyzKqGhAHbuK10djGSmbrwa50YMeT-F8ReOt3nHygVtvZqzZXxb57PGJJk3IchL2Meejrl57JjDr59CyyAXzwgsU1i55pbObO7LScDU99KSz_NJT-1G62jTuteVoWEOw",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJH_yOodvRFZYRV7n0_4DzIp0",
+    "plus_code": {
+      "compound_code": "5QP4+RG Valdivia, Chile",
+      "global_code": "47G85QP4+RG"
+    },
+    "reference": "ChIJH_yOodvRFZYRV7n0_4DzIp0",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Caupolicán 364, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8127852,
+        "lng": -73.2435795
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81142901970851,
+          "lng": -73.2422826697085
+        },
+        "southwest": {
+          "lat": -39.8141269802915,
+          "lng": -73.24498063029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pormi Regalo Decoracion",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104054435001441601741\">Pormi Regalo Decoracion</a>"
+        ],
+        "photo_reference": "AeeoHcK1Mpd4i0nR7Cn0R2DE72kEfbOdpdt9LvF1n-MDBgCArfOzIrAFay7kefQPkHkVHVO3wfq8LHnNnAZCXczX532A5YKAudeewKuWp5gntFLXHCnCrvJBdnKDCbPuH862Nc9mCewOQachlYH57JyGJnbCRbZ6l0hQpa6Jo3mrH7Y_nQMimRCr7xffNtHE0lvr0R2U85Q3vkC0nUXLBWcvhyvUTcUohpPrUlbqJMBjZx8OJdTeROZv53yi5ioR4xwcy8lP9nAdTn_37J_Cx2bZ02Le0taHy5VKRgsDQckb_gnqKxpS4LzT6ZNL7T1sGdP-ESfU1YZqedc",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJnZWdGPjvFZYRHeYQROcVaQA",
+    "plus_code": {
+      "compound_code": "5QP4+VH Valdivia, Chile",
+      "global_code": "47G85QP4+VH"
+    },
+    "reference": "ChIJnZWdGPjvFZYRHeYQROcVaQA",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Caupolicán 360, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8127852,
+        "lng": -73.2435795
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81142901970851,
+          "lng": -73.2422826697085
+        },
+        "southwest": {
+          "lat": -39.8141269802915,
+          "lng": -73.24498063029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Librería Cuerpo & Alma Valdivia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112935328468339154697\">Claudio Zencovich</a>"
+        ],
+        "photo_reference": "AeeoHcJrILTTFwMFfQ43fq32uTZCWICFBu2-2ssa5YJFUv9i8lkHvUIg6tNLkETOCID-K3tzwp7YW3dPyM-Q5QCeACORsh1WQdjLtxAqCzpwnrL6oEaDiOHQtlDlrVSaBAEJG7BrPYpRtPO1EIe-fGPxX-uSupJGR2p5TS3kUAs0ouXhJEeA4tAlRVsaFwxGmcuOHA4UNnbRkDgbj9hjn_lPgYkoDLmD9UwPj6cVJWKXaL38ez6AyuiCyeeVFSjSOKXZ6z5o9cG2C4BqyS2WdgOfwk2fnhsOICWhNawJoo5Ir1g_6t751h8KfCutYmw-BfBLd_Zj2ydj5no9GPhS-HmThABBfc5Ju2Rcr9mTMabNKzIc5dGM0tMSJcdHl0S7HkYkTkbwqnpDY4QUM_nqW9mkDUho9vbwm2sbQNjAxQqKmKHXxLld-DyS06W8gY8IZodGra0RCYMoLbnL7VuI0iXD3ugwOumPburVX4JZRdfLLDj-tOLTOBXyx3y1En-2rKvEAJQWK82JOVfHocZBG1GDkY32qCm8SCcrcqsxwFDoYaCaMsoRV1NDVO6nsh5tMf3Or2viijWttiPkXTjyV4Cpko0xxTtfqwwYV7r_leObHhI_UXi4SlDfChVCbdXm2nv-Zl4rqw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJMSSf1TLvFZYRJd2qvdKQpOU",
+    "plus_code": {
+      "compound_code": "5QP4+VH Valdivia, Chile",
+      "global_code": "47G85QP4+VH"
+    },
+    "rating": 4.8,
+    "reference": "ChIJMSSf1TLvFZYRJd2qvdKQpOU",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "home_goods_store",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 48,
+    "vicinity": "Caupolicán 360, Local 1, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8129548,
+        "lng": -73.2433744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8116255697085,
+          "lng": -73.2419244697085
+        },
+        "southwest": {
+          "lat": -39.8143235302915,
+          "lng": -73.2446224302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mangatoria",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111040828208467685159\">Mangatoria</a>"
+        ],
+        "photo_reference": "AeeoHcLF5vbss_BvoF5tCnnoUVnZujcwHCIoQ8dAusAn9vHXQByPVkpcoiwNaBNJKWxqeKdGplf1gQFjLO7D-b4ANbKh4OEoYLaRaHdCB8GkB3sEff5VZGoThsJFUKqUlZddv8OSgyM7u8-K1s2V-yUXxXmdh2Q_H-reXBvP8L7dqlmOByD2xwD3IYf7u6IXTYkFk-R3u-fMzQBhU4itoV740YRi4NDMMblc-3LU-P88fkU0ZH872NtOINDTcZTjjWv54bq-8-4DZf0-jkl3q8wfhVssYyMxs7xJK3mWEhG9g4TyXxj90UKWzeRkaWxita_wkoecbVcC",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJK0UuB8rvFZYR4--6sNBr1pw",
+    "plus_code": {
+      "compound_code": "5QP4+RM Valdivia, Chile",
+      "global_code": "47G85QP4+RM"
+    },
+    "rating": 5,
+    "reference": "ChIJK0UuB8rvFZYR4--6sNBr1pw",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Caupolicán 364, local 5, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8135183,
+        "lng": -73.2426217
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8121233697085,
+          "lng": -73.24126221970849
+        },
+        "southwest": {
+          "lat": -39.81482133029149,
+          "lng": -73.24396018029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Libros Teresa Pueblito Comercial",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 731,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111430894375213497847\">Libros Teresa</a>"
+        ],
+        "photo_reference": "AeeoHcIbG0miqZV8WwK62ZXsI7F85PlGYlxhtH--5JgKeDYLptaoXITdP-OD70J7BYSyoWhna6yPmI5dZW08LRc7qDgfJLTgeye-ZoFrhxWxfTO8iJTl-k_p6r9sYmG3lJkDQWHVD0boiOOz9UcrGcH5wF09075WOipPLrjJq7i6Qiu9cJg7OaKc5oPNM8aTHzR2F03wsmX4EgINTBwEBQj9PBd_RuiRHh_aibmc3i5allus7yOGFrWe9yX1Cc_Dw7k8SIA1TnP0qC4AfNMBu9783lEqCKO6LuK0fYBBy2gQuyb341fRRRc3ioMdfg_wSlR4gf1306Ksj9M",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJyzSeUNPvFZYRnU8xs5R8nk0",
+    "plus_code": {
+      "compound_code": "5QP4+HX Valdivia, Chile",
+      "global_code": "47G85QP4+HX"
+    },
+    "rating": 5,
+    "reference": "ChIJyzSeUNPvFZYRnU8xs5R8nk0",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chacabuco 485, local 9, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8167223,
+        "lng": -73.2440388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81540356970849,
+          "lng": -73.24253716970848
+        },
+        "southwest": {
+          "lat": -39.81810153029149,
+          "lng": -73.2452351302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Soc Comercial Libros del Sur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJFTxlLHfuFZYRxFrCRC5Kfaw",
+    "plus_code": {
+      "compound_code": "5QM4+89 Valdivia, Chile",
+      "global_code": "47G85QM4+89"
+    },
+    "reference": "ChIJFTxlLHfuFZYRxFrCRC5Kfaw",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Psje Pasaje Esmeralda 670, oficina 4, Valdivia, Valdivia"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8162435,
+        "lng": -73.2424288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8148978197085,
+          "lng": -73.2410524197085
+        },
+        "southwest": {
+          "lat": -39.8175957802915,
+          "lng": -73.24375038029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "La papelaria",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113279928589588026289\">Martin</a>"
+        ],
+        "photo_reference": "AeeoHcKZ57Dh-XqTbzIFachDhWs0LNYdiCFCvFMNhaB_xF_lhrxgpl8hgr3_XN2h6ruCoj-DTTCZpr1qO8OjnIjzvX7xVxha1ykBfncDS6sLJQ5MJU-s_ZMMmj2wUfavl5av4qkBz0N1zqUs4892zTHoc_IN_RfAwrOaDw4CO0dOaWCfP1lOzxHt8zSS0izkOcATuhSOC2gDhGdzj5XpeZhSwZf7EIApWE1nwYumPM4ALxho4ecGXqyd4h6NT4rxh1FYz_9Rlesvrjl66vxGRce7RSvan6ZjJub0WHdYrHGnUnI8Ld2kRJg8VdjURlliGWXtyNkE3M3WMctiL3gyhbh6nlnLSeH9vdwt5q0va_GbbRqYDKG5AEx9m7EdpA09xdXhrQ3Xx1pHo9wCca5KnK9U17zEcpDbmPZMEPHife1TcXJzI77hEFvvr9wMfZz7MsZL_2WH-JAbOXnxB7YnTJsAYXgnCfUTmJVgQ83OPob5TbYZOXQhLBa9cnh-QNxg22M2wsp9qoDUuzDgkNjP0gdUvoduoYC0OtfKGfQPDvLU_esoljkgKz8Mr_snZkNoT98aaAjlohZR1zNVEcrxwZZ5wEhXGdwbmzFakQ3soMuDgHjvYZ3ZbQkbEUVBc7PJQB-j",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJxbAoRGHvFZYREpVv3BRBFHQ",
+    "plus_code": {
+      "compound_code": "5QM5+G2 Valdivia, Chile",
+      "global_code": "47G85QM5+G2"
+    },
+    "reference": "ChIJxbAoRGHvFZYREpVv3BRBFHQ",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Arauco 561, Local 10, Valdivia"
+  }
+]

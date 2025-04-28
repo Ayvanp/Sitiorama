@@ -1,0 +1,1112 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81286279999999,
+        "lng": -73.24664349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8115139197085,
+          "lng": -73.2452937697085
+        },
+        "southwest": {
+          "lat": -39.8142118802915,
+          "lng": -73.2479917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L11",
+    "place_id": "ChIJCXMjAnbuFZYRzyUUsn8Jllk",
+    "plus_code": {
+      "compound_code": "5QP3+V8 Valdivia, Chile",
+      "global_code": "47G85QP3+V8"
+    },
+    "rating": 1,
+    "reference": "ChIJCXMjAnbuFZYRzyUUsn8Jllk",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8068794,
+        "lng": -73.2520294
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.80550956970849,
+          "lng": -73.2506608197085
+        },
+        "southwest": {
+          "lat": -39.80820753029149,
+          "lng": -73.2533587802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L4, L5, L20",
+    "place_id": "ChIJveankd3tFZYRjl8x37QkWRY",
+    "plus_code": {
+      "compound_code": "5PVX+65 Valdivia, Chile",
+      "global_code": "47G85PVX+65"
+    },
+    "rating": 3,
+    "reference": "ChIJveankd3tFZYRjl8x37QkWRY",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8316482,
+        "lng": -73.2376823
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.83032576970849,
+          "lng": -73.23630626970849
+        },
+        "southwest": {
+          "lat": -39.83302373029149,
+          "lng": -73.2390042302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L2",
+    "place_id": "ChIJ86j7hl3uFZYRexEldVhcUqY",
+    "plus_code": {
+      "compound_code": "5Q96+8W Valdivia, Chile",
+      "global_code": "47G85Q96+8W"
+    },
+    "rating": 1.5,
+    "reference": "ChIJ86j7hl3uFZYRexEldVhcUqY",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8066198,
+        "lng": -73.269217
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.80529281970851,
+          "lng": -73.26789186970848
+        },
+        "southwest": {
+          "lat": -39.8079907802915,
+          "lng": -73.2705898302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L9",
+    "place_id": "ChIJzz06DfrtFZYROAckN5OtSn4",
+    "plus_code": {
+      "compound_code": "5PVJ+98 Valdivia, Chile",
+      "global_code": "47G85PVJ+98"
+    },
+    "rating": 2.8,
+    "reference": "ChIJzz06DfrtFZYROAckN5OtSn4",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8502514,
+        "lng": -73.2504845
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8489032697085,
+          "lng": -73.24913356970849
+        },
+        "southwest": {
+          "lat": -39.8516012302915,
+          "lng": -73.2518315302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L1, L3",
+    "place_id": "ChIJc6XYUUruFZYR7F72Fcxbpfs",
+    "plus_code": {
+      "compound_code": "4PXX+VR Valdivia, Chile",
+      "global_code": "47G84PXX+VR"
+    },
+    "reference": "ChIJc6XYUUruFZYR7F72Fcxbpfs",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8522241,
+        "lng": -73.2563129
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8508309697085,
+          "lng": -73.25503156970849
+        },
+        "southwest": {
+          "lat": -39.8535289302915,
+          "lng": -73.2577295302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L9",
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112410363102150167147\">chileno lo mejor</a>"
+        ],
+        "photo_reference": "AeeoHcK46lgvO70JStV9aTK_DYe7k2c1PDYMyPsoiypO9YGb8Q3CIbOyXCn0cPjqeLScb1rASSW9MwsBnXO6za3K9ER_Qd5Sse1ESIt2nP9rE4c92UbwyVCZZI2QuhA1DfR8E9Qlki3B8OAQhFiX0T0-EP_zNt2-7bcsiIZWJVlTbU30_3mwjxWQi4t2571WFUI6vXkNQo7i_Fmji2HP-A44jW6DgShRUs_4IBa2fCapQk2fJDYT6gw7hHkWNmZr-4igjmYAwif6h5WsrcrfurWOI2dswzr0E9BUL6LZDrwuF6nM9QFewGqMM1BE9hA4pyV2iSkJ38aa7DeKtQpt8JrfUElKs1c8eH7pDvHENz1wxLFMaIK5QO_2jMUyMEbK6hs3GUPW7wXLFvfDYrKAk3kelcJlhaakt4m7nqnG3u107jJAVxVEami31IV6K8JJQAx-sTW_QdtrVjnnxQl8xt0btBKcK96DryE-UgZ3ftgTSaR1ftpFkKtFSvRcs_vmztSzFa0oo-5W6i3KpGKHg0t8bYubBIFUX_ZYZm8aWR42lB5NcB3s7op5kus7AYaxB1evwi5GGgXV72XB9EOsCnJvkVyq1UWM-aKiNYq24-utmayRWh6_ReoYWX0wZTeNe15t00as7zew",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ5093-zTuFZYR0PAw4QTCFX0",
+    "plus_code": {
+      "compound_code": "4PXV+4F Valdivia, Chile",
+      "global_code": "47G84PXV+4F"
+    },
+    "rating": 3,
+    "reference": "ChIJ5093-zTuFZYR0PAw4QTCFX0",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.7951006,
+        "lng": -73.2014322
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.7937441197085,
+          "lng": -73.20009451970849
+        },
+        "southwest": {
+          "lat": -39.79644208029149,
+          "lng": -73.2027924802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L1",
+    "place_id": "ChIJzcYhahfsFZYRVJWtWrs--xo",
+    "plus_code": {
+      "compound_code": "6Q3X+XC Valdivia, Chile",
+      "global_code": "47G86Q3X+XC"
+    },
+    "rating": 1,
+    "reference": "ChIJzcYhahfsFZYRVJWtWrs--xo",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8539414,
+        "lng": -73.22772859999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8526207697085,
+          "lng": -73.2263320197085
+        },
+        "southwest": {
+          "lat": -39.8553187302915,
+          "lng": -73.22902998029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L11",
+    "place_id": "ChIJF6z7wADvFZYRdOP-VDKPeaA",
+    "plus_code": {
+      "compound_code": "4QWC+CW Valdivia, Chile",
+      "global_code": "47G84QWC+CW"
+    },
+    "reference": "ChIJF6z7wADvFZYRdOP-VDKPeaA",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8569394,
+        "lng": -73.2377493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8555910197085,
+          "lng": -73.2363744197085
+        },
+        "southwest": {
+          "lat": -39.85828898029149,
+          "lng": -73.23907238029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L20P",
+    "place_id": "ChIJZ282hK7vFZYR1qvElh30OJ4",
+    "plus_code": {
+      "compound_code": "4QV6+6W Valdivia, Chile",
+      "global_code": "47G84QV6+6W"
+    },
+    "rating": 3,
+    "reference": "ChIJZ282hK7vFZYR1qvElh30OJ4",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.814929,
+        "lng": -73.236088
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8135876197085,
+          "lng": -73.2347168197085
+        },
+        "southwest": {
+          "lat": -39.8162855802915,
+          "lng": -73.23741478029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Valdivia",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106381093309427627818\">Adolfo Eduardo Guevara Garcia</a>"
+        ],
+        "photo_reference": "AeeoHcKHHc2cJyX1wrTlrxG7i15J4RZymM6cAGuHU69nnXKQal2DfXs-B84OOdYbka_qr8Z5dCOGFPS4uC5L5KYHrYgRY4cD4nJ2MFjKnrkRTFmZu5Xv1ZDB_OA8GS2MFy3aNwzyj_eYwm-Os-FMUoWWh0tqGsE6Tdnkh6WJizeZNSXjEygy-3O6ggzmHU3HXpoYa55CQTw6cfy4SzIB2u3UZqcgvj9z7naSeQb74Zar7UO_0GxWwt9dJOMoSMmpnoK5yRGTMEnWJrpmU9e4W5btnC8ZUykCNbopfCdiJcTqYSauCLCVL7gGHX6aPYJP7exfrPJJVGtm8VhmANb8hzqzrvU7o-r6CLLCVhem1QL_3hGX8On_vayCcZlmFmeC9W551MU5px_5cLRLrkvdUCFGYa6y6CQkFCiA_Pw0Q8eSMEt1bpvimNksoeYDHKaRqXa3WfC2WomlYv62gDFihL1Tdvum7W-RVZAoMKU2wt_iDH4lKgUe87zBYckdetABYuj76mdaDXJHEwgPwh4JsOCL7zIqZhUufT4yBFa4-uQaa4YOZtu8wedkzi6g1xU8QMHdKfBzu_17dvAC9U-lNWxwyafqenQW8rluEz-gaUviyxf85auT-ULPftjWA-BDPt1PGkuBDA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ5-dyOHnuFZYRITpHCMd3_gc",
+    "plus_code": {
+      "compound_code": "5QP7+2H Valdivia, Chile",
+      "global_code": "47G85QP7+2H"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ5-dyOHnuFZYRITpHCMd3_gc",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 210,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8139507,
+        "lng": -73.24698149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8126037697085,
+          "lng": -73.2456214697085
+        },
+        "southwest": {
+          "lat": -39.81530173029149,
+          "lng": -73.24831943029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P15 - Independencia / Libertad",
+    "place_id": "ChIJBQ-OCnbuFZYRF5qoK0TDKZI",
+    "plus_code": {
+      "compound_code": "5QP3+C6 Valdivia, Chile",
+      "global_code": "47G85QP3+C6"
+    },
+    "reference": "ChIJBQ-OCnbuFZYRF5qoK0TDKZI",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8132172,
+        "lng": -73.2467508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8118861197085,
+          "lng": -73.24541716970849
+        },
+        "southwest": {
+          "lat": -39.8145840802915,
+          "lng": -73.2481151302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P17 - Independencia / Chacabuco",
+    "place_id": "ChIJn_uNBnbuFZYRoBV6iOdmSts",
+    "plus_code": {
+      "compound_code": "5QP3+P7 Valdivia, Chile",
+      "global_code": "47G85QP3+P7"
+    },
+    "reference": "ChIJn_uNBnbuFZYRoBV6iOdmSts",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8151374,
+        "lng": -73.246901
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8137516197085,
+          "lng": -73.24553921970849
+        },
+        "southwest": {
+          "lat": -39.8164495802915,
+          "lng": -73.2482371802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "I - Arauco / Independencia",
+    "place_id": "ChIJH2UGf3buFZYRueeAYmQMCLk",
+    "plus_code": {
+      "compound_code": "5QM3+W6 Valdivia, Chile",
+      "global_code": "47G85QM3+W6"
+    },
+    "reference": "ChIJH2UGf3buFZYRueeAYmQMCLk",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8154258,
+        "lng": -73.24498059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8140670697085,
+          "lng": -73.2436292197085
+        },
+        "southwest": {
+          "lat": -39.8167650302915,
+          "lng": -73.2463271802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P48 - Arauco / Camilo Henríquez - Caupolicán",
+    "place_id": "ChIJ8cnn8HbuFZYRadYaNIPVQ0g",
+    "plus_code": {
+      "compound_code": "5QM4+R2 Valdivia, Chile",
+      "global_code": "47G85QM4+R2"
+    },
+    "reference": "ChIJ8cnn8HbuFZYRadYaNIPVQ0g",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8131266,
+        "lng": -73.2447016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8117659197085,
+          "lng": -73.24334996970849
+        },
+        "southwest": {
+          "lat": -39.81446388029149,
+          "lng": -73.2460479302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P57 - Chacabuco / Caupolicán - Camilo Henríquez",
+    "place_id": "ChIJfQgmMHbuFZYR6gxZfqaGT3I",
+    "plus_code": {
+      "compound_code": "5QP4+P4 Valdivia, Chile",
+      "global_code": "47G85QP4+P4"
+    },
+    "rating": 5,
+    "reference": "ChIJfQgmMHbuFZYR6gxZfqaGT3I",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81286279999999,
+        "lng": -73.24664349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8115139197085,
+          "lng": -73.2452937697085
+        },
+        "southwest": {
+          "lat": -39.8142118802915,
+          "lng": -73.2479917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+    "name": "Terminal L11",
+    "place_id": "ChIJCXMjAnbuFZYRzyUUsn8Jllk",
+    "plus_code": {
+      "compound_code": "5QP3+V8 Valdivia, Chile",
+      "global_code": "47G85QP3+V8"
+    },
+    "rating": 1,
+    "reference": "ChIJCXMjAnbuFZYRzyUUsn8Jllk",
+    "scope": "GOOGLE",
+    "types": [
+      "bus_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8156236,
+        "lng": -73.2465631
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8142725697085,
+          "lng": -73.2452259697085
+        },
+        "southwest": {
+          "lat": -39.8169705302915,
+          "lng": -73.2479239302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P27 - Pérez Rosales / San Carlos",
+    "place_id": "ChIJCYQ7hHbuFZYRJ7zh465aqqw",
+    "plus_code": {
+      "compound_code": "5QM3+Q9 Valdivia, Chile",
+      "global_code": "47G85QM3+Q9"
+    },
+    "rating": 5,
+    "reference": "ChIJCYQ7hHbuFZYRJ7zh465aqqw",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8153228,
+        "lng": -73.2480598
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8139707697085,
+          "lng": -73.2467314697085
+        },
+        "southwest": {
+          "lat": -39.8166687302915,
+          "lng": -73.2494294302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P12 - Yungay / San Carlos",
+    "place_id": "ChIJDeVfzHXuFZYRZPi-ZUZdflw",
+    "plus_code": {
+      "compound_code": "5QM2+VQ Valdivia, Chile",
+      "global_code": "47G85QM2+VQ"
+    },
+    "reference": "ChIJDeVfzHXuFZYRZPi-ZUZdflw",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8163364,
+        "lng": -73.2468098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81498801970851,
+          "lng": -73.24545741970849
+        },
+        "southwest": {
+          "lat": -39.8176859802915,
+          "lng": -73.2481553802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P26 - Pérez Rosales / Lautarp",
+    "place_id": "ChIJkW_unnbuFZYR7WqNwCGRHgs",
+    "plus_code": {
+      "compound_code": "5QM3+F7 Valdivia, Chile",
+      "global_code": "47G85QM3+F7"
+    },
+    "reference": "ChIJkW_unnbuFZYR7WqNwCGRHgs",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8119522,
+        "lng": -73.24510930000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8105936197085,
+          "lng": -73.24375811970849
+        },
+        "southwest": {
+          "lat": -39.8132915802915,
+          "lng": -73.24645608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P63 - Carampangue / Camilo Henríquez",
+    "place_id": "ChIJl7tymtjtFZYRnx661s00WBE",
+    "plus_code": {
+      "compound_code": "5QQ3+6X Valdivia, Chile",
+      "global_code": "47G85QQ3+6X"
+    },
+    "rating": 3,
+    "reference": "ChIJl7tymtjtFZYRnx661s00WBE",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8118945,
+        "lng": -73.24712629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8105213697085,
+          "lng": -73.24577211970849
+        },
+        "southwest": {
+          "lat": -39.8132193302915,
+          "lng": -73.24847008029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "I - Alemania / Hotel Dreams",
+    "place_id": "ChIJtRpfS9_tFZYRY2n8eHmyHn4",
+    "plus_code": {
+      "compound_code": "5QQ3+64 Valdivia, Chile",
+      "global_code": "47G85QQ3+64"
+    },
+    "reference": "ChIJtRpfS9_tFZYRY2n8eHmyHn4",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81638179999999,
+        "lng": -73.2438406
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8150339697085,
+          "lng": -73.24249296970848
+        },
+        "southwest": {
+          "lat": -39.8177319302915,
+          "lng": -73.2451909302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "I - Esmeralda",
+    "place_id": "ChIJo-A5IXfuFZYRlaQtjsPgg7s",
+    "plus_code": {
+      "compound_code": "5QM4+CF Valdivia, Chile",
+      "global_code": "47G85QM4+CF"
+    },
+    "reference": "ChIJo-A5IXfuFZYRlaQtjsPgg7s",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8121994,
+        "lng": -73.24333639999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8108326197085,
+          "lng": -73.24198371970849
+        },
+        "southwest": {
+          "lat": -39.8135305802915,
+          "lng": -73.24468168029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P64 - Carampangue / Caupolicán",
+    "place_id": "ChIJJ7CMd9jtFZYRKdHKAWDwACA",
+    "plus_code": {
+      "compound_code": "5QQ4+4M Valdivia, Chile",
+      "global_code": "47G85QQ4+4M"
+    },
+    "reference": "ChIJJ7CMd9jtFZYRKdHKAWDwACA",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8158749,
+        "lng": -73.2426792
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8144715697085,
+          "lng": -73.24131471970848
+        },
+        "southwest": {
+          "lat": -39.8171695302915,
+          "lng": -73.2440126802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P49 - Mall",
+    "place_id": "ChIJJ29GFXfuFZYRCUXTAbBC_oI",
+    "plus_code": {
+      "compound_code": "5QM4+MW Valdivia, Chile",
+      "global_code": "47G85QM4+MW"
+    },
+    "reference": "ChIJJ29GFXfuFZYRCUXTAbBC_oI",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8134974,
+        "lng": -73.2420087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8121265197085,
+          "lng": -73.2406545697085
+        },
+        "southwest": {
+          "lat": -39.8148244802915,
+          "lng": -73.24335253029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P59 - Chacabuco / Ismael Valdés",
+    "place_id": "ChIJDcJYknfuFZYRsahviOPCj1Y",
+    "plus_code": {
+      "compound_code": "5QP5+J5 Valdivia, Chile",
+      "global_code": "47G85QP5+J5"
+    },
+    "reference": "ChIJDcJYknfuFZYRsahviOPCj1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8134644,
+        "lng": -73.2416654
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8121140197085,
+          "lng": -73.24032731970848
+        },
+        "southwest": {
+          "lat": -39.81481198029149,
+          "lng": -73.24302528029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P60 - Schmidt / Chacabuco",
+    "place_id": "ChIJi8JQjHfuFZYRSVSoSwr1yKk",
+    "plus_code": {
+      "compound_code": "5QP5+J8 Valdivia, Chile",
+      "global_code": "47G85QP5+J8"
+    },
+    "reference": "ChIJi8JQjHfuFZYRSVSoSwr1yKk",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81765910000001,
+        "lng": -73.24719069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8163076697085,
+          "lng": -73.2458556697085
+        },
+        "southwest": {
+          "lat": -39.8190056302915,
+          "lng": -73.24855363029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P25 - Pérez Rosales / Yerbas Buenas",
+    "place_id": "ChIJDVulAXTuFZYRPUeZtiXXFvE",
+    "plus_code": {
+      "compound_code": "5QJ3+W4 Valdivia, Chile",
+      "global_code": "47G85QJ3+W4"
+    },
+    "reference": "ChIJDVulAXTuFZYRPUeZtiXXFvE",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.8125373,
+        "lng": -73.24125230000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.81117106970851,
+          "lng": -73.23989166970848
+        },
+        "southwest": {
+          "lat": -39.81386903029151,
+          "lng": -73.24258963029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P65 - Carampangue / Schmidt",
+    "place_id": "ChIJD3k--HfuFZYRXnlCNi4TCao",
+    "plus_code": {
+      "compound_code": "5QP5+XF Valdivia, Chile",
+      "global_code": "47G85QP5+XF"
+    },
+    "reference": "ChIJD3k--HfuFZYRXnlCNi4TCao",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Chile"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -39.81762609999999,
+        "lng": -73.2487947
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -39.8162771197085,
+          "lng": -73.24744541970848
+        },
+        "southwest": {
+          "lat": -39.81897508029149,
+          "lng": -73.25014338029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P11 - Gral. Lagos / Yerbas Buenas",
+    "photos": [
+      {
+        "height": 2246,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104108920945849979515\">Jorge Vasquez</a>"
+        ],
+        "photo_reference": "AeeoHcIX7b49mUMgv_pk4rgdDNF3Wwb5coAUVhfbv1pCxSgN8-Szul9e1txUisEQzy75zv6ltZS4_Ww6flv66nga-LdnQGT0Xa5Mqup2evOY6ZeOvv6rg1D3hnDKEogihnu23xwYDssEEiTi5GWw2dcuNpLft50Nwt2297wXsjBJYBWp7POcLAB4080a_WVUdxyFgEZ8dcLcTYvuDbaYu28pnHtlD3xvEDO3INnHJCL9HJvyQ1ul3L1EIReFZXk8cB1CiJ8Vo84dkGXTdGY_Z2p0eQdwTv2wU6wyiJBf0zaS_CJzJ5tY2J_9GZIx4ER_aBuWgd1L71o_1hGX-C8RI6khiEVVveMHO6Pbt7m7ZxiHuoWMgVyl3EcXLXFCmhAlflhwYh7zJi_N7xmnRch7uZsUKNS6uKNDCUcYZtwt6bBXCGfWZHtrQTHmQwWcrjBSQ9CaT7EzsZo0JtcWiBtBlh5UATqzmINiO1wQRPfmGrA34hCNLXzxKvklF0xhLnU5oWParote4g_HCvbaFtS2wZDrZuG1MLFk9mlsNddcyNThbhcPKRrlMWxRf3FfO_2mCINzI0XUKEFWY-eVhGqCgcaWuUgFr6sWC94aPkGsHy3d1BrZYIJz5qFM-W186-o9GNBXOJ1H-g",
+        "width": 3436
+      }
+    ],
+    "place_id": "ChIJb0m1c3TuFZYRIfrm5ChTB4g",
+    "plus_code": {
+      "compound_code": "5QJ2+WF Valdivia, Chile",
+      "global_code": "47G85QJ2+WF"
+    },
+    "rating": 5,
+    "reference": "ChIJb0m1c3TuFZYRIfrm5ChTB4g",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Chile"
+  }
+]
