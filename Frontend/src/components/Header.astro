@@ -5,13 +5,16 @@ const navItems = [
   { href: '/gastronomia', label: 'Gastronomía' },
   { href: '/eventos', label: 'Eventos' },
   { href: '/rutas', label: 'Rutas' },
-  { href: '/beneficios', label: 'Beneficios' },
+  { href: '/beneficios', label: 'Servicios' },
   { href: '/mapa', label: 'Mapa Interactivo' },
-  { href: '/foro', label: 'Foro' },
+  { href: '/foro', label: 'Beneficios' },
   { href: '/favoritos', label: 'Favoritos' }
 ];
 import HeaderButton from './HeaderButton.astro';
 import ChevronIcon from './icons/ChevronIcon.astro';
+import MoonStar from './icons/moon-star.astro'
+import World from './icons/world.astro'
+import User from './icons/user.astro'
 ---
 
 <header class="w-full bg-[#0B1120] border-b border-gray-800 shadow-sm">
@@ -28,11 +31,17 @@ import ChevronIcon from './icons/ChevronIcon.astro';
     </div>
     <div class="flex items-center space-x-1 ml-5 mr-10">
       <button class="text-sm px-4 py-2 border border-gray-600 rounded text-white hover:border-white flex items-center space-x-3">
-        <span>👤</span>
+        <span>
+          <User />
+        </span>
         <span>Iniciar sesión</span>
       </button>
-      <button class="p-2 rounded hover:bg-gray-800 text-gray-300">🌙</button>
-      <button class="p-2 rounded hover:bg-gray-800 text-gray-300">🌐</button>
+      <button class="p-2 rounded hover:bg-gray-800 text-gray-300">
+        <MoonStar />
+      </button>
+      <button class="p-2 rounded hover:bg-gray-800 text-gray-300">
+        <World />
+      </button>
     </div>
   </nav>
 </header>

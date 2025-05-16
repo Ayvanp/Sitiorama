@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:17.4
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres1234
+      POSTGRES_DB: sitiorama_db
+    ports:
+      - "5432:5432"
+    networks:
+      - myapp_network
+
+  places_service:
+    build: ./places_service
+    env_file:
+      - ./places_service/.env
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    networks:
+      - myapp_network
+
+networks:
+  myapp_network:
