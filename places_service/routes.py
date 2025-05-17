@@ -1,10 +1,11 @@
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, Depends, HTTPException, Query, Path
 from sqlalchemy.orm import Session
 from typing import List, Optional
 
 from database import get_db
-from crud import get_places_by_categories_and_type
+from crud import get_places_by_categories_and_type, get_place_by_id
 from schemas import PlaceOut
+
 
 router = APIRouter()
 
@@ -19,3 +20,13 @@ def read_places(
     if not places:
         raise HTTPException(status_code=404, detail="No places found for the given criteria")
     return places
+
+@router.get("/places/{place_id}", response_model=PlaceOut)
+def read_place(
+    place_id: int = Path(..., description="El ID del lugar"),
+    db: Session = Depends(get_db)
+):
+    place = get_place_by_id(db, place_id)
+    if not place:
+        raise HTTPException(status_code=404, detail="Place not found")
+    return place

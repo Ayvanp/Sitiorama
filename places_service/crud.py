@@ -15,3 +15,6 @@ def get_places_by_categories_and_type(db: Session, category_ids: List[int] = Non
         query = query.filter(Place.rating_avg >= rating)  # Filtra por calificación mínima
 
     return query.all()
+
+def get_place_by_id(db, place_id: int):
+    return db.query(Place).filter(Place.id == place_id).first()

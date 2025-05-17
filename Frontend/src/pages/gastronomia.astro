@@ -13,7 +13,6 @@ const categories = [
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet" />
 
   <section class="flex flex-col lg:flex-row gap-6 bg-[#0f172a] text-white p-6 font-['Nunito'] min-h-screen">
-    <!-- Filtros -->
     <aside class="w-full lg:w-1/4 bg-[#1e293b] text-white p-6 rounded-xl shadow space-y-4">
       <h2 class="text-xl font-bold mb-2">Filtrar por</h2>
 
@@ -34,7 +33,7 @@ const categories = [
 
       <div>
         <label class="block text-sm font-semibold mb-1">Ordenar por:</label>
-        <select class="w-full border border-gray-600 rounded p-2 bg-[#1e293b] text-white">
+        <select id="sort-select" class="w-full border border-gray-600 rounded p-2 bg-[#1e293b] text-white">
           <option value="popularidad">Popularidad</option>
           <option value="calificacion">Calificación</option>
           <option value="precio">Precio</option>
@@ -78,6 +77,7 @@ const categories = [
   <script type="module">
     const buttons = document.querySelectorAll('#buttons button');
     const placesContainer = document.getElementById('places');
+    const sortSelect = document.getElementById('sort-select'); // Selecciona el dropdown de "Ordenar por"
 
     let currentType = 'restaurant';
 
@@ -100,16 +100,24 @@ const categories = [
           placesContainer.innerHTML = '<p class="text-red-500">Error al cargar datos</p>';
           return;
         }
-        const data = await res.json();
+        let data = await res.json();
 
         if (data.length === 0) {
           placesContainer.innerHTML = '<p class="text-gray-400">No hay lugares para esta categoría</p>';
           return;
         }
 
+        // Ordenar los datos según la opción seleccionada
+        const sortOption = sortSelect.value;
+        if (sortOption === 'calificacion') {
+          data = data.sort((a, b) => (b.rating_avg || 0) - (a.rating_avg || 0)); // Ordenar por calificación descendente
+        } else if (sortOption === 'precio') {
+          data = data.sort((a, b) => (a.price || 0) - (b.price || 0)); // Ordenar por precio ascendente
+        }
+
         placesContainer.innerHTML = data.map(place => `
-          <div class="rounded-xl overflow-hidden shadow-lg bg-[#1e293b] text-white transition hover:scale-[1.01]">
-            <img src="${place.image || './placeholder.png'}" alt="${place.name}" class="w-full h-48 object-cover" />
+          <a href="/place/${place.id}" class="block rounded-xl overflow-hidden shadow-lg bg-[#1e293b] text-white transition hover:scale-[1.01] focus:outline-none focus:ring-2 focus:ring-blue-500 group">
+            <img src="${place.image || './placeholder.png'}" alt="${place.name}" class="w-full h-48 object-cover group-hover:opacity-90 transition" />
             <div class="p-4">
               <div class="flex justify-between items-center mb-2">
                 <span class="text-xs font-semibold px-2 py-1 rounded-full ${place.isOpen ? 'bg-green-500' : 'bg-gray-500'}">
@@ -125,9 +133,9 @@ const categories = [
               <div class="flex gap-2 mt-2 flex-wrap">
                 ${(place.place_types || []).map(tag => `<span class="text-xs bg-gray-700 px-2 py-1 rounded-full">${tag.type}</span>`).join('')}
               </div>
-              <a href="/place/${place.id}" class="text-blue-400 text-sm mt-3 inline-block hover:underline">Ver Detalle</a>
+              <span class="text-blue-400 text-sm mt-3 inline-block hover:underline">Ver Detalle</span>
             </div>
-          </div>
+          </a>
         `).join('');
       } catch (error) {
         placesContainer.innerHTML = '<p class="text-red-500">Error al cargar datos</p>';
@@ -141,6 +149,11 @@ const categories = [
         setActiveButton(type);
         fetchPlaces(type);
       });
+    });
+
+    // Escuchar cambios en el dropdown de "Ordenar por"
+    sortSelect.addEventListener('change', () => {
+      fetchPlaces(currentType); // Recargar lugares ordenados
     });
 
     // Carga inicial
