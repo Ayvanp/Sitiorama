@@ -24,18 +24,6 @@ services:
       - db
     networks:
       - myapp_network
-  
-  auth_service:
-    build: ./auth_service
-    env_file:
-      - ./auth_service/.env
-    depends_on:
-      - db
-    ports:
-      - "8001:8001"
-    networks:
-      - myapp_network
-
 
 networks:
   myapp_network:
