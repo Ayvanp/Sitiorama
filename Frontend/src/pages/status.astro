@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const services = [
+  { name: 'places_service (Health)', url: 'http://localhost:8000/health' },
+  { name: 'places_service (Ready)', url: 'http://localhost:8000/ready' },
+];
+
+async function checkServices() {
+  const results = await Promise.all(
+    services.map(async (service) => {
+      try {
+        const res = await fetch(service.url, { method: 'GET' });
+        return { name: service.name, status: res.ok ? 'ok' : 'error' };
+      } catch {
+        return { name: service.name, status: 'error' };
+      }
+    })
+  );
+  return results;
+}
+
+const serviceStatuses = await checkServices();
+---
+
+<Layout title="Estado de Servicios">
+  <section class="max-w-4xl mx-auto bg-[#1e293b] text-white p-8 rounded-xl mt-8 shadow">
+    <h1 class="text-2xl font-bold mb-4">Estado de los Servicios</h1>
+    <ul class="space-y-4">
+      {serviceStatuses.map(service => (
+        <li class="flex items-center gap-4">
+          <span
+            class={`w-4 h-4 rounded-full ${
+              service.status === 'ok' ? 'bg-green-500' : 'bg-red-500'
+            }`}
+          ></span>
+          <span class="text-lg">{service.name}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>

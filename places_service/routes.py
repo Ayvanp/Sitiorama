@@ -1,5 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException, Query, Path
 from sqlalchemy.orm import Session
+from sqlalchemy import text
+from fastapi.responses import JSONResponse
 from typing import List, Optional
 
 from database import get_db
@@ -30,3 +32,26 @@ def read_place(
     if not place:
         raise HTTPException(status_code=404, detail="Place not found")
     return place
+
+@router.get("/health")
+def health_check():
+    """
+    Endpoint para verificar el estado del servicio.
+    """
+    return {"status": "ok"}
+
+
+@router.get("/ready")
+def readiness_check(db: Session = Depends(get_db)):
+    """
+    Verifica si el servicio está listo para manejar solicitudes.
+    """
+    try:
+        # Usa text() para envolver la consulta SQL
+        db.execute(text("SELECT 1"))
+        return {"status": "ready"}
+    except Exception as e:
+        return JSONResponse(
+            status_code=503,
+            content={"status": "not ready", "details": str(e)},
+        )
