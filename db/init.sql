@@ -714,7 +714,6 @@ CREATE TABLE public.users (
 
 ALTER TABLE public.users OWNER TO postgres;
 
---
 -- TOC entry 217 (class 1259 OID 17040)
 -- Name: users_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
 --
@@ -739,6 +738,7 @@ ALTER SEQUENCE public.users_id_seq OWNER TO postgres;
 ALTER SEQUENCE public.users_id_seq OWNED BY public.users.id;
 
 
+--
 --
 -- TOC entry 4820 (class 2604 OID 17057)
 -- Name: categories id; Type: DEFAULT; Schema: public; Owner: postgres
@@ -888,6 +888,17 @@ COPY public.categories (id, name, description, created_at, updated_at) FROM stdi
 24	Alojamiento	Hoteles, campamentos y lugares para hospedaje	2025-05-15 20:49:04.198526-04	2025-05-15 20:49:04.198526-04
 \.
 
+
+
+ALTER TABLE public.users ADD COLUMN role TEXT NOT NULL DEFAULT 'user';
+
+INSERT INTO public.users (name, email, password, role)
+VALUES (
+  'Admin',
+  'admin@sitiorama.com',
+  '$2b$12$Q9ym53zVzJNgkcbMSNdKCejCk1Pz6UMm0tQMjF6gUpwEaNxkBbrW.', 
+  'admin'
+);
 
 --
 -- TOC entry 5073 (class 0 OID 17112)
