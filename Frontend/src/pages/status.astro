@@ -4,6 +4,8 @@ import Layout from '../layouts/Layout.astro';
 const services = [
   { name: 'places_service (Health)', url: 'http://localhost:8000/health' },
   { name: 'places_service (Ready)', url: 'http://localhost:8000/ready' },
+  { name: 'auth_service (Health)', url: 'http://localhost:8001/health' },
+  { name: 'auth_service (Ready)', url: 'http://localhost:8001/ready' },
 ];
 
 async function checkServices() {

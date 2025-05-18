@@ -1,5 +1,11 @@
 ---
-// Definir un arreglo de elementos de navegación
+// src/components/Header.astro
+import HeaderButton from './HeaderButton.astro';
+import ChevronIcon from './icons/ChevronIcon.astro';
+import MoonStar from './icons/moon-star.astro';
+import World from './icons/world.astro';
+import UserStatus from './UserStatus.tsx';
+
 const navItems = [
   { href: '/', label: 'Inicio' },
   { href: '/gastronomia', label: 'Gastronomía' },
@@ -10,11 +16,6 @@ const navItems = [
   { href: '/foro', label: 'Beneficios' },
   { href: '/favoritos', label: 'Favoritos' }
 ];
-import HeaderButton from './HeaderButton.astro';
-import ChevronIcon from './icons/ChevronIcon.astro';
-import MoonStar from './icons/moon-star.astro'
-import World from './icons/world.astro'
-import User from './icons/user.astro'
 ---
 
 <header class="w-full bg-[#0B1120] border-b border-gray-800 shadow-sm">
@@ -22,6 +23,7 @@ import User from './icons/user.astro'
     <div class="text-blue-500 font-bold text-2xl ml-10">
       Sitiorama
     </div>
+
     <div class="flex items-center space-x-3 ml-auto">
       {navItems.map(item => (
         <HeaderButton href={item.href} label={item.label}>
@@ -29,13 +31,9 @@ import User from './icons/user.astro'
         </HeaderButton>
       ))}
     </div>
+
     <div class="flex items-center space-x-1 ml-5 mr-10">
-      <button class="text-sm px-4 py-2 border border-gray-600 rounded text-white hover:border-white flex items-center space-x-3">
-        <span>
-          <User />
-        </span>
-        <span>Iniciar sesión</span>
-      </button>
+      <UserStatus client:load />
       <button class="p-2 rounded hover:bg-gray-800 text-gray-300">
         <MoonStar />
       </button>

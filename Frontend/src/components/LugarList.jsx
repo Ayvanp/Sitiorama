@@ -12,9 +12,11 @@ export default function LugarList() {
   const [places, setPlaces] = useState([]);
 
   useEffect(() => {
-    fetch(`http://localhost:8000/places?category_id=${categoryId}`)
-      .then(res => res.json())
-      .then(data => setPlaces(data));
+    fetch(`http://localhost:8000/places?category_id=${categoryId}`, {
+      credentials: 'include'
+    })
+    .then(res => res.json())
+    .then(data => setPlaces(data));
   }, [categoryId]);
 
   return (
