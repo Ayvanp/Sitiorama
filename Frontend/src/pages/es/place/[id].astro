@@ -1,0 +1,142 @@
+---
+// Frontend/src/pages/es/place/[id].astro
+import Layout from '../../../layouts/Layout.astro'; // Ajustado: 3 niveles arriba
+import { useTranslations } from '../../../i18n/utils';   // Ajustado: 3 niveles arriba
+
+export const prerender = false; // SSR
+
+const t = useTranslations(Astro.currentLocale);
+const { id } = Astro.params;
+
+let place = null;
+let fetchError = false;
+
+try {
+  // Cuando adaptes el backend para entender el idioma:
+  // const res = await fetch(`http://localhost:8000/places/${id}?lang=${Astro.currentLocale}`);
+  const res = await fetch(`http://localhost:8000/places/${id}`);
+  if (!res.ok) {
+    console.error(`Failed to fetch place ${id}: ${res.status} ${res.statusText}`);
+    const errorBody = await res.text();
+    console.error("Error body:", errorBody);
+    throw new Error(`Failed to fetch: ${res.status}`);
+  }
+  place = await res.json();
+} catch (e) {
+  console.error(`Error fetching place with id ${id}:`, e);
+  fetchError = true;
+}
+
+// El título de la página usará el nombre del lugar (que aún vendrá en el idioma original de la BD)
+// o una clave de título de error traducida.
+const pageTitle = place ? place.name : t('error.placeNotFoundTitle');
+---
+
+<Layout title={pageTitle}> {/* Pasamos el título directamente, no la clave, si viene de `place.name` */}
+  {fetchError || !place ? (
+    <section class="max-w-6xl mx-auto bg-[#1e293b] text-white p-8 rounded-xl mt-8 shadow text-center">
+      <h1 class="text-3xl font-bold mb-4">{t('error.placeNotFoundTitle')}</h1>
+      <p>{t('error.placeNotFoundMessage')}</p>
+      {/* Enlace "Volver al inicio" ahora siempre incluye el prefijo de idioma actual */}
+      <a href={`/${Astro.currentLocale}/`} class="mt-6 inline-block bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-6 rounded transition">
+        {t('error.goHome')}
+      </a>
+    </section>
+  ) : (
+    <section class="max-w-6xl mx-auto bg-[#1e293b] text-white p-8 rounded-xl mt-8 shadow">
+      <h1 class="text-4xl font-bold mb-1">{place.name}</h1> {/* place.name (aún sin traducir desde backend) */}
+      <p class="text-gray-400 mb-6 text-lg">{t('placeDetail.subtitle')}</p>
+      <div class="flex flex-col md:flex-row gap-8">
+        <div class="md:w-1/2">
+          <div class="relative">
+            {/* El 'alt' del img debería ser traducible o más descriptivo si place.name no lo es */}
+            <img src={place.image || '/placeholder.png'} alt={t('placeDetail.imageAlt', { name: place.name }) || place.name} class="w-full h-64 object-cover rounded-lg mb-4" />
+            <span class={`absolute top-3 right-3 px-3 py-1 rounded-full text-xs font-semibold ${place.isOpen ? 'bg-green-500' : 'bg-gray-500'}`}>
+              {place.isOpen ? t('lugar.abierto') : t('lugar.cerrado')}
+            </span>
+          </div>
+          <div class="flex items-center gap-2 mb-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 fill-current text-yellow-400" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568L24 9.75l-6 5.857L19.335 24 12 19.897 4.665 24 6 15.607 0 9.75l8.332-1.595z"/></svg>
+            <span class="text-lg font-semibold">{place.rating_avg || t('placeDetail.ratingN_A')}</span>
+          </div>
+          <div class="flex items-center gap-2 mb-2 text-gray-300">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 12.414A8 8 0 1112.414 13.414l4.243 4.243a1 1 0 001.414-1.414z" /></svg>
+            <span>{place.address || t('lugar.sinDireccion')}</span> {/* place.address (aún sin traducir desde backend) */}
+          </div>
+          <div class="flex gap-2 flex-wrap mb-4">
+            {(place.place_types || []).map((tag: { type: string }) => ( // Asumo que tag.type es un string que podría necesitar traducción en el futuro
+              <span class="text-xs bg-gray-700 px-2 py-1 rounded-full">{tag.type}</span>
+            ))}
+          </div>
+          <div class="mt-6">
+            <h2 class="text-lg font-bold mb-2">{t('placeDetail.horarioTitle')}</h2>
+            <ul class="text-gray-200 space-y-1">
+              <li>{t('date.lunes')}: {place.hours?.monday || '-'}</li>
+              <li>{t('date.martes')}: {place.hours?.tuesday || '-'}</li>
+              <li>{t('date.miercoles')}: {place.hours?.wednesday || '-'}</li>
+              <li>{t('date.jueves')}: {place.hours?.thursday || '-'}</li>
+              <li>{t('date.viernes')}: {place.hours?.friday || '-'}</li>
+              <li>{t('date.sabado')}: {place.hours?.saturday || '-'}</li>
+              <li>{t('date.domingo')}: {place.hours?.sunday || '-'}</li>
+            </ul>
+          </div>
+        </div>
+        <div class="md:w-1/2 flex flex-col gap-6">
+          <div>
+            <p class="mb-4">{place.description || t('placeDetail.defaultDescription')}</p> {/* place.description (aún sin traducir desde backend) */}
+            <p class="mb-4">{t('placeDetail.contactoLabel')} {place.contact || '...'}</p> {/* place.contact (aún sin traducir desde backend) */}
+          </div>
+          <div class="mt-auto pt-6"> {/* Ajustado margen para empujar al fondo si es necesario */}
+            <iframe
+              class="w-full h-80 rounded-lg border-0"
+              src={`https://maps.google.com/maps?q=${encodeURIComponent(place.address || place.name || '')}&output=embed`} 
+              allowfullscreen
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
+            <div class="flex justify-end mt-2">
+              <a
+                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.address || place.name || '')}`} 
+                target="_blank"
+                rel="noopener noreferrer"
+                class="bg-gray-200 text-gray-900 font-bold px-6 py-2 rounded-lg hover:bg-gray-300 transition"
+              >
+                {t('placeDetail.comoLlegar')}
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Sección de Comentarios (ya estaba bien con t()) */}
+      <div class="mt-10 bg-[#334155] p-8 rounded-xl shadow">
+        <h2 class="text-2xl font-bold mb-4">{t('placeDetail.comentariosTitle')}</h2>
+        <form class="mb-6">
+          <textarea
+            class="w-full p-3 rounded-lg bg-[#1e293b] text-white border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-400"
+            rows="3"
+            placeholder={t('placeDetail.comentarioPlaceholder')}
+          ></textarea>
+          <button
+            type="submit"
+            class="mt-3 bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-6 rounded transition"
+          >
+            {t('placeDetail.enviarComentario')}
+          </button>
+        </form>
+        <div class="space-y-4">
+          <div class="bg-[#1e293b] p-4 rounded-lg">
+            <p class="font-semibold">Usuario H Boy</p>
+            <p class="text-gray-300">{t('placeDetail.exampleComment1')}</p>
+            <span class="text-xs text-gray-400">{t('placeDetail.exampleCommentTime1')}</span>
+          </div>
+          <div class="bg-[#1e293b] p-4 rounded-lg">
+            <p class="font-semibold">María</p>
+            <p class="text-gray-300">{t('placeDetail.exampleComment2')}</p>
+            <span class="text-xs text-gray-400">{t('placeDetail.exampleCommentTime2')}</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+</Layout>

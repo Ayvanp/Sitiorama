@@ -1,0 +1,176 @@
+---
+// Frontend/src/pages/es/gastronomia.astro
+import Layout from '../../layouts/Layout.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const t = useTranslations(Astro.currentLocale);
+
+const categories = [
+  { nameKey: 'gastronomia.categoria.restaurantes', type: 'restaurant' },
+  { nameKey: 'gastronomia.categoria.cafeterias', type: 'cafe' },
+  { nameKey: 'gastronomia.categoria.panaderia', type: 'bakery' },
+  { nameKey: 'gastronomia.categoria.bar', type: 'bar' },
+];
+---
+
+<Layout titleKey="gastronomia.pageTitle">
+  <section class="flex flex-col lg:flex-row gap-6 bg-[#0f172a] text-white p-6 min-h-screen">
+    <aside class="w-full lg:w-1/4 bg-[#1e293b] text-white p-6 rounded-xl shadow space-y-4">
+      <h2 class="text-xl font-bold mb-2">{t('gastronomia.filtrarPor')}</h2>
+
+      <div>
+        <label class="block text-sm font-semibold mb-1">{t('gastronomia.rangoPrecios')}</label>
+        <input type="range" min="1" max="3" class="w-full accent-blue-500" />
+      </div>
+
+      <div>
+        <label class="block text-sm font-semibold mb-1">{t('gastronomia.calificacionLabel')} <span id="rating-value">2.5</span>+</label>
+        <input id="rating-filter" type="range" min="1" max="5" step="0.5" class="w-full accent-blue-500" value="2.5" />
+      </div>
+
+      <div class="flex items-center gap-2">
+        <input type="checkbox" id="abierto-ahora-checkbox" class="w-4 h-4 accent-blue-500" />
+        <label for="abierto-ahora-checkbox" class="text-sm font-semibold">{t('gastronomia.abiertoAhora')}</label>
+      </div>
+
+      <div>
+        <label class="block text-sm font-semibold mb-1" for="sort-select">{t('gastronomia.ordenarPor')}</label>
+        <select id="sort-select" class="w-full border border-gray-600 rounded p-2 bg-[#1e293b] text-white">
+          <option value="popularidad">{t('gastronomia.orden.popularidad')}</option>
+          <option value="calificacion">{t('gastronomia.orden.calificacion')}</option>
+          <option value="precio">{t('gastronomia.orden.precio')}</option>
+        </select>
+      </div>
+
+      <button id="apply-filters" class="w-full bg-blue-500 text-white py-2 rounded-md font-semibold hover:bg-blue-600 transition-all">
+        {t('gastronomia.aplicarFiltros')}
+      </button>
+    </aside>
+
+    <div class="w-full lg:w-3/4">
+      <div class="mb-6">
+        <input
+          type="text"
+          id="search-input-gastronomia"
+          placeholder={t('gastronomia.buscarPlaceholder')}
+          class="w-full px-4 py-3 border border-gray-600 rounded-lg bg-[#1e293b] text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        />
+        <div id="buttons" class="flex gap-2 mt-4 overflow-x-auto pb-2">
+          {categories.map(cat => (
+            <button
+              class="px-4 py-2 rounded-full border border-blue-500 text-blue-500 font-semibold hover:bg-blue-500 hover:text-white transition whitespace-nowrap"
+              data-type={cat.type}
+              type="button"
+            >
+              {t(cat.nameKey)}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div id="places" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {/* El mensaje inicial se maneja por script */}
+      </div>
+    </div>
+  </section>
+
+  <script define:vars={{
+    categories, // <-- ¡Ahora disponible en el script!
+    textSelectCategory: t('gastronomia.estado.seleccionaCategoria'),
+    textLoading: t('gastronomia.estado.cargando'),
+    textError: t('gastronomia.estado.error'),
+    textNoPlaces: t('gastronomia.estado.noHayLugares'),
+    textAbierto: t('lugar.abierto'),
+    textCerrado: t('lugar.cerrado'),
+    textSinDireccion: t('lugar.sinDireccion'),
+    textVerDetalle: t('lugar.verDetalle'),
+    textRatingNA: t('placeDetail.ratingN_A'),
+    currentLocaleForScript: Astro.currentLocale || 'es'
+  }}>
+    const buttons = document.querySelectorAll('#buttons button');
+    const placesContainer = document.getElementById('places');
+    const sortSelect = document.getElementById('sort-select');
+    let currentType = categories.length > 0 ? categories[0].type : 'restaurant';
+
+    placesContainer.innerHTML = `<p class="text-gray-400">${textSelectCategory}</p>`;
+
+    function setActiveButton(type) {
+      buttons.forEach(btn => {
+        btn.classList.remove('bg-blue-500', 'text-white');
+        btn.classList.add('border', 'border-blue-500', 'text-blue-500', 'bg-transparent');
+        if (btn.dataset.type === type) {
+          btn.classList.add('bg-blue-500', 'text-white');
+          btn.classList.remove('text-blue-500', 'bg-transparent');
+        }
+      });
+    }
+
+    async function fetchPlaces(type) {
+      placesContainer.innerHTML = `<p class="text-gray-400">${textLoading}</p>`;
+      try {
+        const res = await fetch(`http://localhost:8000/places?type=${type}`);
+        if (!res.ok) {
+          placesContainer.innerHTML = `<p class="text-red-500">${textError}</p>`;
+          return;
+        }
+        let data = await res.json();
+
+        if (data.length === 0) {
+          placesContainer.innerHTML = `<p class="text-gray-400">${textNoPlaces}</p>`;
+          return;
+        }
+
+        const sortOption = sortSelect.value;
+        if (sortOption === 'calificacion') {
+          data = data.sort((a, b) => (b.rating_avg || 0) - (a.rating_avg || 0));
+        } else if (sortOption === 'precio') {
+          data = data.sort((a, b) => (a.price || 0) - (b.price || 0));
+        }
+
+        placesContainer.innerHTML = data.map(place => `
+          <a href="/${currentLocaleForScript}/place/${place.id}" class="block rounded-xl overflow-hidden shadow-lg bg-[#1e293b] text-white transition hover:scale-[1.01] focus:outline-none focus:ring-2 focus:ring-blue-500 group">
+            <img src="${place.image || '/placeholder.png'}" alt="${place.name}" class="w-full h-48 object-cover group-hover:opacity-90 transition" />
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-2">
+                <span class="text-xs font-semibold px-2 py-1 rounded-full ${place.isOpen ? 'bg-green-500' : 'bg-gray-500'}">
+                  ${place.isOpen ? textAbierto : textCerrado}
+                </span>
+                <span class="flex items-center gap-1 text-sm">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current text-yellow-400" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568L24 9.75l-6 5.857L19.335 24 12 19.897 4.665 24 6 15.607 0 9.75l8.332-1.595z"/></svg>
+                  ${place.rating_avg || textRatingNA}
+                </span>
+              </div>
+              <h3 class="text-lg font-bold">${place.name}</h3>
+              <p class="text-sm text-gray-400">${place.address || textSinDireccion}</p>
+              <div class="flex gap-2 mt-2 flex-wrap">
+                ${(place.place_types || []).map((tag) => `<span class="text-xs bg-gray-700 px-2 py-1 rounded-full">${tag.type}</span>`).join('')}
+              </div>
+              <span class="text-blue-400 text-sm mt-3 inline-block hover:underline">${textVerDetalle}</span>
+            </div>
+          </a>
+        `).join('');
+      } catch (error) {
+        console.error("Fetch error:", error);
+        placesContainer.innerHTML = `<p class="text-red-500">${textError}</p>`;
+      }
+    }
+
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const type = btn.dataset.type;
+        if (type) {
+          currentType = type;
+          setActiveButton(type);
+          fetchPlaces(type);
+        }
+      });
+    });
+
+    sortSelect.addEventListener('change', () => {
+      fetchPlaces(currentType);
+    });
+
+    // Carga inicial
+    setActiveButton(currentType);
+    fetchPlaces(currentType);
+  </script>
+</Layout>

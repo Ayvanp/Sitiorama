@@ -1,45 +1,113 @@
 ---
-// src/components/Header.astro
-import HeaderButton from './HeaderButton.astro';
-import ChevronIcon from './icons/ChevronIcon.astro';
-import MoonStar from './icons/moon-star.astro';
-import World from './icons/world.astro';
-import UserStatus from './UserStatus.tsx';
+// Frontend/src/components/Header.astro
+import HeaderButton from './HeaderButton.astro'; // Verifica ruta
+import ChevronIcon from './icons/ChevronIcon.astro'; // Verifica ruta
+import MoonStar from './icons/moon-star.astro'; // Verifica ruta
+import World from './icons/world.astro'; // Verifica ruta
+import UserStatus from './UserStatus.tsx'; // Verifica ruta
+import { useTranslations } from '../i18n/utils'; // Verifica ruta
+
+// --- INICIO BLOQUE DE DIAGNÓSTICO (SOLO PARA PRUEBAS, LUEGO BORRAR) ---
+console.log("--- DIAGNÓSTICO HEADER.ASTRO ---");
+console.log("Astro.currentLocale (desde Header):", Astro.currentLocale);
+console.log("Tipo de Astro.getAlternateLocaleUrls:", typeof (Astro as any).getAlternateLocaleUrls);
+console.log("Valor de Astro.i18n:", JSON.stringify((Astro as any).i18n, null, 2));
+let alternateUrlsRuntime = "API no disponible o error";
+if (typeof (Astro as any).getAlternateLocaleUrls === 'function') {
+    try {
+        alternateUrlsRuntime = JSON.stringify(
+            (Astro as any).getAlternateLocaleUrls().map((alt: { locale: string; url: URL }) => ({ locale: alt.locale, url: alt.url.toString() })), 
+            null, 2
+        );
+    } catch (e: any) {
+        alternateUrlsRuntime = "Error al llamar: " + e.message;
+    }
+}
+console.log("Resultado de getAlternateLocaleUrls():", alternateUrlsRuntime);
+console.log("--- FIN DIAGNÓSTICO ---");
+// --- FIN BLOQUE DE DIAGNÓSTICO ---
+
+const t = useTranslations(Astro.currentLocale);
 
 const navItems = [
-  { href: '/', label: 'Inicio' },
-  { href: '/gastronomia', label: 'Gastronomía' },
-  { href: '/eventos', label: 'Eventos' },
-  { href: '/rutas', label: 'Rutas' },
-  { href: '/beneficios', label: 'Servicios' },
-  { href: '/mapa', label: 'Mapa Interactivo' },
-  { href: '/foro', label: 'Beneficios' },
-  { href: '/favoritos', label: 'Favoritos' }
+  { hrefBase: '/', labelKey: 'nav.inicio' }, // hrefBase es la ruta sin el prefijo de idioma
+  { hrefBase: '/gastronomia', labelKey: 'nav.gastronomia' },
+  { hrefBase: '/eventos', labelKey: 'nav.eventos' },
+  // ... Añade aquí el resto de tus items de navegación con hrefBase
 ];
+
+// Workaround para los errores de TS. Idealmente, estas APIs se acceden sin (Astro as any).
+const astroI18nSafe = (Astro as any).i18n || { locales: ['es', 'en'], defaultLocale: 'es' };
+const configuredLocales: string[] = astroI18nSafe.locales;
+const defaultLocaleFromConfig: string = astroI18nSafe.defaultLocale;
+
+const alternateLocaleUrlsApi: { locale: string; url: URL }[] = 
+  typeof (Astro as any).getAlternateLocaleUrls === 'function' ? (Astro as any).getAlternateLocaleUrls() : [];
+
+const localePathMap = new Map<string, string>();
+alternateLocaleUrlsApi.forEach((alt: { locale: string; url: URL }) => {
+  localePathMap.set(alt.locale, alt.url.pathname);
+});
 ---
+
+<style>
+  .language-switcher { position: relative; display: inline-block; }
+  .language-switcher-button { background: none; border: none; color: #d1d5db; padding: 0.5rem; border-radius: 0.25rem; cursor: pointer; display: flex; align-items: center; gap: 0.25rem; }
+  .language-switcher-button:hover { background-color: #1f2937; }
+  .language-dropdown { display: none; position: absolute; right: 0; top: calc(100% + 0.25rem); background-color: #1e293b; border: 1px solid #374151; border-radius: 0.375rem; padding-top: 0.25rem; padding-bottom: 0.25rem; min-width: 100px; z-index: 50; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); }
+  .language-switcher:hover .language-dropdown, .language-switcher-button:focus + .language-dropdown, .language-switcher-button:focus-within + .language-dropdown, .language-dropdown:hover { display: block; }
+  .language-dropdown a { display: block; padding: 0.5rem 1rem; color: #d1d5db; text-decoration: none; font-size: 0.875rem; white-space: nowrap; }
+  .language-dropdown a:hover { background-color: #374151; color: #ffffff; }
+  .language-dropdown a.active { font-weight: 600; color: #3b82f6; }
+</style>
 
 <header class="w-full bg-[#0B1120] border-b border-gray-800 shadow-sm">
   <nav class="w-full px-4 py-3 flex items-center justify-between">
     <div class="text-blue-500 font-bold text-2xl ml-10">
-      Sitiorama
+      Sitiorama {/* O {t('site.title')} si es traducible */}
     </div>
 
     <div class="flex items-center space-x-3 ml-auto">
-      {navItems.map(item => (
-        <HeaderButton href={item.href} label={item.label}>
-          <ChevronIcon slot="after" class="w-4 h-4 text-white" />
-        </HeaderButton>
-      ))}
+      {navItems.map(item => {
+        const currentLangPrefix = Astro.currentLocale || defaultLocaleFromConfig;
+        // Construye la URL completa con el prefijo del idioma
+        let path = item.hrefBase === '/' ? `/${currentLangPrefix}/` : `/${currentLangPrefix}${item.hrefBase}`;
+        path = path.replace(/\/\//g, '/'); // Evitar doble slash si hrefBase ya tiene uno
+        return (
+          <HeaderButton href={path} label={t(item.labelKey)}>
+            <ChevronIcon slot="after" class="w-4 h-4 text-white" />
+          </HeaderButton>
+        );
+      })}
     </div>
 
     <div class="flex items-center space-x-1 ml-5 mr-10">
       <UserStatus client:load />
-      <button class="p-2 rounded hover:bg-gray-800 text-gray-300">
+      <button class="p-2 rounded hover:bg-gray-800 text-gray-300" aria-label={t('header.toggleTheme')}>
         <MoonStar />
       </button>
-      <button class="p-2 rounded hover:bg-gray-800 text-gray-300">
-        <World />
-      </button>
+      
+      <div class="language-switcher">
+        <button class="language-switcher-button" aria-label={t('header.switchLanguage')} aria-haspopup="true" aria-expanded="false" type="button">
+          <World />
+          <span class="text-xs font-medium ml-1">{Astro.currentLocale?.toUpperCase()}</span>
+        </button>
+        <ul class="language-dropdown">
+          {configuredLocales.map((localeCode: string) => {
+            const targetPath = localePathMap.get(localeCode) || `/${localeCode}/`; // Fallback robusto
+            return (
+              <li>
+                <a 
+                  href={targetPath}
+                  class:list={[ { 'active': localeCode === Astro.currentLocale } ]}
+                >
+                  {localeCode.toUpperCase()}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
     </div>
   </nav>
 </header>
